@@ -1,0 +1,228 @@
+{
+    "event_id": "brawlcup_2026",
+    "name": "Brawl Cup 2026",
+    "date": "2026-05-17",
+    "region": "International",
+    "event_type": "brawl_cup_2026",
+    "rosters": {
+        "Only Realm": [
+            "sans",
+            "Patchy",
+            "bobby"
+        ],
+        "Tribe Gaming": [
+            "RBM",
+            "Lxffy",
+            "Diegogamer"
+        ],
+        "Bounty Hunters": [
+            "Wesley",
+            "Prozy",
+            "Portox"
+        ],
+        "Eternal Esports": [
+            "Mohtep",
+            "Jubileu",
+            "CaueBR"
+        ],
+        "Crazy Raccoon": [
+            "Milkreo",
+            "Moya",
+            "Tensai"
+        ],
+        "ZETA DIVISION": [
+            "Batman",
+            "Sitetampo",
+            "Sizuku"
+        ],
+        "FUT Esports": [
+            "Angelboy",
+            "Nob?",
+            "LeNain (sub)"
+        ],
+        "HMBLE": [
+            "BosS",
+            "Lukii",
+            "Symantec"
+        ],
+        "Ace Xero": [
+            "Nagi",
+            "Galaxy",
+            "David (Chinese player)"
+        ],
+        "Toxic Lotus": [
+            "OU",
+            "Engine",
+            "TOC"
+        ],
+        "Revenant XSpark": [
+            "Sergeant",
+            "Hiroshii",
+            "Walkthrough"
+        ],
+        "BC* Gaming SA": [
+            "Todd",
+            "Anyus",
+            "Jxcr"
+        ]
+    },
+    "placements": {
+        "1": [
+            "HMBLE"
+        ],
+        "2": [
+            "FUT Esports"
+        ],
+        "3-4": [
+            "Tribe Gaming",
+            "ZETA DIVISION"
+        ],
+        "5-8": [
+            "Only Realm",
+            "Revenant XSpark",
+            "Crazy Raccoon",
+            "Bounty Hunters"
+        ],
+        "9-12": [
+            "Ace Xero",
+            "BC* Gaming SA",
+            "Toxic Lotus",
+            "Eternal Esports"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "HMBLE",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Ace Xero",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "Ace Xero",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm",
+            "team_b": "ZETA DIVISION",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm",
+            "team_b": "BC* Gaming SA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "BC* Gaming SA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "Eternal Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "Revenant XSpark",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Eternal Esports",
+            "team_b": "Revenant XSpark",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Tribe Gaming",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Toxic Lotus",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Toxic Lotus",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "Only Realm",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Revenant XSpark",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "Bounty Hunters",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "FUT Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "Tribe Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "FUT Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "FUT Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}
