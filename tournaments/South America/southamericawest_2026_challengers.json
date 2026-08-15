@@ -1,0 +1,506 @@
+{
+    "event_id": "southamericawest_2026_challengers",
+    "name": "South America West 2026 Challengers",
+    "date": "2026-05-30",
+    "region": "South America West",
+    "event_type": "southamericawest_2026_challengers",
+    "rosters": {
+        "QuieroQueQue": [
+            "Deykon",
+            "B4st",
+            "Todd"
+        ],
+        "Frepap": [
+            "Jeremy",
+            "Fernanlonzo",
+            "SpiuKi"
+        ],
+        "Bernabeu F/A": [
+            "Daidote",
+            "Gian",
+            "Pancho"
+        ],
+        "F/A Watones": [
+            "Dark Dragon",
+            "WillyKaoss",
+            "Chinoo"
+        ],
+        "Ranitas Academy": [
+            "Yotsuba",
+            "Bless",
+            "Victoria"
+        ],
+        "Camino a un Sueño": [
+            "Lxn",
+            "Shoya02",
+            "Drako"
+        ],
+        "Hyperion Esports": [
+            "Anthox",
+            "Flickzy",
+            "MaRcElO"
+        ],
+        "Zurita Gang": [
+            "Jxcr",
+            "Bryan",
+            "Exic"
+        ],
+        "Team CC": [
+            "SeFelix98",
+            "Cris.2610",
+            "Maiki"
+        ],
+        "Ice Frio Hielo": [
+            "ySxba",
+            "Ricky",
+            "Nico"
+        ],
+        "Zenin": [
+            "Alonso Ramirez",
+            "Kawa",
+            "Ayu"
+        ],
+        "Chapter of Hapiness": [
+            "Koru",
+            "zSynerc",
+            "Eze"
+        ],
+        "Level Esports": [
+            "Joefav",
+            "Levi (Peruvian player)",
+            "xJnn"
+        ],
+        "Nexus G": [
+            "xPablo",
+            "Tom4ss",
+            "Navi 08"
+        ],
+        "Daycare Zero": [
+            "Killer",
+            "Kai",
+            "Bradbari"
+        ],
+        "Natare Six": [
+            "Max",
+            "Fabrii",
+            "Reborn"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Daycare Zero"
+        ],
+        "2": [
+            "QuieroQueQue"
+        ],
+        "3-4": [
+            "Level Esports",
+            "Zurita Gang"
+        ],
+        "5-8": [
+            "Hyperion Esports",
+            "F/A Watones",
+            "Frepap",
+            "Ice Frio Hielo"
+        ],
+        "9-12": [
+            "Camino a un Sueño",
+            "Natare Six",
+            "Nexus G",
+            "Team CC"
+        ],
+        "13-16": [
+            "Chapter of Hapiness",
+            "Zenin",
+            "Ranitas Academy",
+            "Bernabeu F/A"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Camino a un Sueño",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Level Esports",
+            "team_b": "Camino a un Sueño",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Level Esports",
+            "team_b": "Zurita Gang",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Bernabeu F/A",
+            "team_b": "Level Esports",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Bernabeu F/A",
+            "team_b": "Zurita Gang",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Bernabeu F/A",
+            "team_b": "Camino a un Sueño",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Camino a un Sueño",
+            "team_b": "Zurita Gang",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Camino a un Sueño",
+            "team_b": "Level Esports",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Level Esports",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Level Esports",
+            "team_b": "Bernabeu F/A",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Bernabeu F/A",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Camino a un Sueño",
+            "team_b": "Bernabeu F/A",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Ice Frio Hielo",
+            "team_b": "Daycare Zero",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Natare Six",
+            "team_b": "Chapter of Hapiness",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Ice Frio Hielo",
+            "team_b": "Natare Six",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Daycare Zero",
+            "team_b": "Chapter of Hapiness",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Ice Frio Hielo",
+            "team_b": "Chapter of Hapiness",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Daycare Zero",
+            "team_b": "Natare Six",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Daycare Zero",
+            "team_b": "Ice Frio Hielo",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Chapter of Hapiness",
+            "team_b": "Natare Six",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Natare Six",
+            "team_b": "Ice Frio Hielo",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Chapter of Hapiness",
+            "team_b": "Daycare Zero",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Chapter of Hapiness",
+            "team_b": "Ice Frio Hielo",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Natare Six",
+            "team_b": "Daycare Zero",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Nexus G",
+            "team_b": "QuieroQueQue",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "F/A Watones",
+            "team_b": "Zenin",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Nexus G",
+            "team_b": "F/A Watones",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "QuieroQueQue",
+            "team_b": "Zenin",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Nexus G",
+            "team_b": "Zenin",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "QuieroQueQue",
+            "team_b": "F/A Watones",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "QuieroQueQue",
+            "team_b": "Nexus G",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "F/A Watones",
+            "team_b": "Nexus G",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "F/A Watones",
+            "team_b": "QuieroQueQue",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Zenin",
+            "team_b": "F/A Watones",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Zenin",
+            "team_b": "QuieroQueQue",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Zenin",
+            "team_b": "Nexus G",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Hyperion Esports",
+            "team_b": "Team CC",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Hyperion Esports",
+            "team_b": "Frepap",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Team CC",
+            "team_b": "Frepap",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Frepap",
+            "team_b": "Ranitas Academy",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Team CC",
+            "team_b": "Ranitas Academy",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Hyperion Esports",
+            "team_b": "Ranitas Academy",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Team CC",
+            "team_b": "Hyperion Esports",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Frepap",
+            "team_b": "Hyperion Esports",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Frepap",
+            "team_b": "Team CC",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Ranitas Academy",
+            "team_b": "Frepap",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Ranitas Academy",
+            "team_b": "Team CC",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Ranitas Academy",
+            "team_b": "Hyperion Esports",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Level Esports",
+            "team_b": "Hyperion Esports",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Daycare Zero",
+            "team_b": "F/A Watones",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Frepap",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Ice Frio Hielo",
+            "team_b": "QuieroQueQue",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Level Esports",
+            "team_b": "Daycare Zero",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "QuieroQueQue",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Daycare Zero",
+            "team_b": "QuieroQueQue",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}

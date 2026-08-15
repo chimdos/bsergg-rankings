@@ -1,0 +1,502 @@
+{
+    "event_id": "brazil_2026_challengers",
+    "name": "Brazil 2026 Challengers",
+    "date": "2026-05-30",
+    "region": "Brazil",
+    "event_type": "brazil_2026_challengers",
+    "rosters": {
+        "PWD": [
+            "Pekka",
+            "Wesley",
+            "Doritos"
+        ],
+        "Ninguém Segura": [
+            "Tufa",
+            "IceCrow",
+            "Rei Do Fut"
+        ],
+        "Olimpo Squad": [
+            "Loko",
+            "Golden",
+            "Brabão"
+        ],
+        "LOUD Academy": [
+            "VTzim",
+            "DarkeSan",
+            "Idk"
+        ],
+        "Emulador de PS2": [
+            "JotaEmi",
+            "Silencioso",
+            "Ryuk"
+        ],
+        "Tropa Dos Cavalos": [
+            "Gu Gonçalves",
+            "Pether",
+            "CristianTowerPlay"
+        ],
+        "GNO F/A": [
+            "Omega",
+            "Ghost",
+            "Ninguém Sabe"
+        ],
+        "É os Guri": [
+            "AmazingRaul20",
+            "Pilocoptelo",
+            "ExpansivePjs"
+        ],
+        "Ba Bau": [
+            "Orlando",
+            "Paçoca",
+            "Pedrinhook"
+        ],
+        "Fãs Do Isagi": [
+            "Fv7",
+            "Studio",
+            "Toshio"
+        ],
+        "Acre Lovers": [
+            "Satisfyer",
+            "Drew",
+            "Sennin"
+        ],
+        "HNT": [
+            "Im12skipolar",
+            "Chrystian Andryel",
+            "Hue Profiça"
+        ],
+        "É Duro": [
+            "Flak",
+            "Delirius",
+            "Predicador"
+        ],
+        "Six Seven": [
+            "Nubis",
+            "Gods",
+            "Bicho"
+        ],
+        "Overrated": [
+            "Tensi",
+            "Trevo",
+            "Kodzera"
+        ],
+        "Equinox": [
+            "VioletRigen",
+            "loboczarniano",
+            "Sabonete"
+        ],
+        "Revenge": [
+            "artefatoraro",
+            "Sagaz",
+            "Monice"
+        ],
+        "Unretired": [
+            "Lele",
+            "Dolinho",
+            "Blast"
+        ],
+        "Nova Brasil": [
+            "Douglas",
+            "Lucas",
+            "H4X3TU"
+        ],
+        "A3X": [
+            "Arthrleal",
+            "Shanks",
+            "Franz"
+        ],
+        "Ghostface": [
+            "Vaulurto",
+            "FuevorCrowfey",
+            "NaitsabesDC"
+        ],
+        "Tyrants Gaming": [
+            "DrJoaoneto",
+            "AveTheotokos",
+            "FearlessFAoMo"
+        ],
+        "Spectra F/A": [
+            "ReginPeter",
+            "Histerese",
+            "oLokii"
+        ],
+        "Brasil Gods": [
+            "Shadow (Brazilian player)",
+            "Pigas",
+            "Patezinho"
+        ]
+    },
+    "placements": {
+        "1": [
+            "PWD"
+        ],
+        "2": [
+            "Ninguém Segura"
+        ],
+        "3-4": [
+            "Six Seven",
+            "LOUD Academy"
+        ],
+        "5-8": [
+            "É Duro",
+            "Fãs Do Isagi",
+            "Olimpo Squad",
+            "GNO F/A"
+        ],
+        "9-12": [
+            "Acre Lovers",
+            "Overrated",
+            "Tropa Dos Cavalos",
+            "É os Guri"
+        ],
+        "13-16": [
+            "Unretired",
+            "Emulador de PS2",
+            "Revenge",
+            "Nova Brasil"
+        ],
+        "17-20": [
+            "Equinox",
+            "HNT",
+            "Ba Bau",
+            "A3X"
+        ],
+        "21-24": [
+            "Ghostface",
+            "Tyrants Gaming",
+            "Spectra F/A",
+            "Brasil Gods"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "GNO F/A",
+            "team_b": "Ghostface",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Equinox",
+            "team_b": "Revenge",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "GNO F/A",
+            "team_b": "Revenge",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ghostface",
+            "team_b": "Equinox",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Equinox",
+            "team_b": "Revenge",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Seven",
+            "team_b": "Tyrants Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HNT",
+            "team_b": "Unretired",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Seven",
+            "team_b": "Unretired",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tyrants Gaming",
+            "team_b": "HNT",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Unretired",
+            "team_b": "HNT",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "É Duro",
+            "team_b": "Spectra F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ba Bau",
+            "team_b": "Nova Brasil",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "É Duro",
+            "team_b": "Ba Bau",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nova Brasil",
+            "team_b": "Spectra F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ba Bau",
+            "team_b": "Nova Brasil",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Fãs Do Isagi",
+            "team_b": "Brasil Gods",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Overrated",
+            "team_b": "A3X",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Fãs Do Isagi",
+            "team_b": "Overrated",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Brasil Gods",
+            "team_b": "A3X",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Overrated",
+            "team_b": "A3X",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "Unretired",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Acre Lovers",
+            "team_b": "GNO F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "Acre Lovers",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Unretired",
+            "team_b": "GNO F/A",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Acre Lovers",
+            "team_b": "GNO F/A",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "PWD",
+            "team_b": "Overrated",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Emulador de PS2",
+            "team_b": "Six Seven",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "PWD",
+            "team_b": "Six Seven",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Overrated",
+            "team_b": "Emulador de PS2",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Overrated",
+            "team_b": "PWD",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "Revenge",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tropa Dos Cavalos",
+            "team_b": "Fãs Do Isagi",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "Tropa Dos Cavalos",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenge",
+            "team_b": "Fãs Do Isagi",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tropa Dos Cavalos",
+            "team_b": "Fãs Do Isagi",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD Academy",
+            "team_b": "Nova Brasil",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "É os Guri",
+            "team_b": "É Duro",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD Academy",
+            "team_b": "É Duro",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "É os Guri",
+            "team_b": "Nova Brasil",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "É Duro",
+            "team_b": "É os Guri",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "É Duro",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Seven",
+            "team_b": "Fãs Do Isagi",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "PWD",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD Academy",
+            "team_b": "GNO F/A",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "Six Seven",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "PWD",
+            "team_b": "LOUD Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "PWD",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}
