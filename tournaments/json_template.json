@@ -1,0 +1,41 @@
+{
+    "event_id": "",
+    "name": "",
+    "date": "",
+    "region": "",
+    "event_type": "",
+    "rosters": {
+        "Team A": [
+            "abc",
+            "def",
+            "ghi"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Team A"
+        ],
+        "2": [
+            "Team B"
+        ],
+        "3-4": [
+            "Team C",
+            "Team D"
+        ],
+        "5-8": [
+            "Team E",
+            "Team F",
+            "Team G",
+            "Team H"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Team A",
+            "team_b": "Team B",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}
