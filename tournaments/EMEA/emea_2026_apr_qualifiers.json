@@ -1,0 +1,581 @@
+{
+    "event_id": "emea_2026_apr_qualifiers",
+    "name": "April 2026 EMEA Monthly Qualifier",
+    "date": "2026-04-05",
+    "region": "EMEA",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "FUT Esports": [
+            "Angelboy",
+            "Guesti",
+            "Nob?"
+        ],
+        "HMBLE": [
+            "Lukii",
+            "BosS",
+            "Symantec"
+        ],
+        "Reply Totem": [
+            "Maury",
+            "Maru",
+            "Joker"
+        ],
+        "Metizport": [
+            "Ciro",
+            "Remica",
+            "Decaii"
+        ],
+        "SK Gaming": [
+            "Nowy297",
+            "Yoshi825",
+            "OPE"
+        ],
+        "Team Heretics": [
+            "Marco",
+            "Subeme",
+            "iKaoss"
+        ],
+        "Natus Vincere": [
+            "Drage",
+            "GeRo",
+            "Enraged"
+        ],
+        "BIG": [
+            "Amos",
+            "Arthur (Austrian player)",
+            "Salty"
+        ],
+        "NOVO Esports": [
+            "Filippo",
+            "MeOw",
+            "Terry"
+        ],
+        "DontFinxSo": [
+            "GordonnBoy",
+            "Tex",
+            "Hazzah"
+        ],
+        "FUT Esports Academy": [
+            "Ferissa",
+            "DeMaster",
+            "ZeyroX"
+        ],
+        "Big Talents": [
+            "Mine",
+            "Nes",
+            "Dompe"
+        ],
+        "Forza Esports": [
+            "snk",
+            "Nick",
+            "Smoufo"
+        ],
+        "Sushi>tierS": [
+            "Mare",
+            "SusiGuy",
+            "Kyoru"
+        ],
+        "TOP Esports": [
+            "Sadba",
+            "Neroxx",
+            "Gripzz"
+        ],
+        "WW": [
+            "ArthuR (Ukranian player)",
+            "alekzz",
+            "Cube"
+        ],
+        "Madrid": [
+            "Yoko",
+            "Rup",
+            "Jus"
+        ],
+        "Rose": [
+            "Cracky",
+            "Jungle",
+            "ExQ Jason"
+        ],
+        "The Lethal Force": [
+            "Matys",
+            "Neptun",
+            "Pika (Czech player)"
+        ],
+        "Trio of Chernobyl": [
+            "Psychokid",
+            "Buzko",
+            "Deezent"
+        ],
+        "Con cebolla": [
+            "Flamen",
+            "Miquel",
+            "ShaDoX"
+        ],
+        "F/A Poland": [
+            "Zimon",
+            "GuGu",
+            "Kapi"
+        ],
+        "F/A Kaliki": [
+            "Biso",
+            "Saint",
+            "Shibama"
+        ],
+        "Haneki Corp": [
+            "Natrix",
+            "Fayelo",
+            "Ethan"
+        ],
+        "Stu = Win": [
+            "LeNain",
+            "Coverz",
+            "A"
+        ],
+        "Bloste": [
+            "Kevin",
+            "Jcertoro",
+            "Erhulioabe"
+        ],
+        "Begimotiki": [
+            "Velik",
+            "Twirxx",
+            "Witratt"
+        ],
+        "2-3 years dagestan": [
+            "InFinit",
+            "Thib",
+            "Bardze"
+        ],
+        "Kozaki": [
+            "Mebius",
+            "Xenoxz",
+            "Madper"
+        ],
+        "ZKA": [
+            "Keaps",
+            "Allan",
+            "Zaiko"
+        ],
+        "Six Sevens": [
+            "Mewtu",
+            "Sniper",
+            "Melih"
+        ],
+        "Kebap": [
+            "Yuffy",
+            "Ray092",
+            "Dede"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "FUT Esports",
+            "Team Heretics",
+            "HMBLE",
+            "Natus Vincere"
+        ],
+        "5-8": [
+            "Big Talents",
+            "SK Gaming",
+            "FUT Esports Academy",
+            "Madrid"
+        ],
+        "9-12": [
+            "NOVO Esports",
+            "Stu = Win",
+            "Kebap",
+            "BIG"
+        ],
+        "13-16": [
+            "Rose",
+            "Six Sevens",
+            "Trio of Chernobyl",
+            "Kozaki"
+        ],
+        "17-24": [
+            "DontFinxSo",
+            "Haneki Corp",
+            "Forza Esports",
+            "Reply Totem",
+            "ZKA",
+            "F/A Poland",
+            "Metizport",
+            "Bloste"
+        ],
+        "25-32": [
+            "TOP Esports",
+            "Sushi>tierS",
+            "Con cebolla",
+            "The Lethal Force",
+            "WW",
+            "Begimotiki",
+            "2-3 years dagestan",
+            "F/A Kailiki"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "HMBLE",
+            "team_b": "ZKA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Forza Esports",
+            "team_b": "TOP Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "Six Sevens",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "Sushi>tierS",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "Rose",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Big Talents",
+            "team_b": "The Lethal Force",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "Trio of Chernobyl",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports Academy",
+            "team_b": "Con cebolla",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "F/A Poland",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "WW",
+            "team_b": "Haneki Corp",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Metizport",
+            "team_b": "Stu = Win",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Madrid",
+            "team_b": "Begimotiki",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Heretics",
+            "team_b": "2-3 years dagestan",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "DontFinxSo",
+            "team_b": "Bloste",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NOVO Esports",
+            "team_b": "Kozaki",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kebap",
+            "team_b": "F/A Kailiki",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "Forza Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "BIG",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rose",
+            "team_b": "Big Talents",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "FUT Esports Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Haneki Corp",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Stu = Win",
+            "team_b": "Madrid",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Heretics",
+            "team_b": "DontFinxSo",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NOVO Esports",
+            "team_b": "Kebap",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "SK Gaming",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Big Talents",
+            "team_b": "Natus Vincere",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Madrid",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Heretics",
+            "team_b": "Kebap",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZKA",
+            "team_b": "TOP Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Sevens",
+            "team_b": "Sushi>tierS",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "The Lethal Force",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Trio of Chernobyl",
+            "team_b": "Con cebolla",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Poland",
+            "team_b": "WW",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Metizport",
+            "team_b": "Begimotiki",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "2-3 years dagestan",
+            "team_b": "Bloste",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kozaki",
+            "team_b": "F/A Kailiki",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NOVO Esports",
+            "team_b": "ZKA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "DontFinxSo",
+            "team_b": "Six Sevens",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Stu = Win",
+            "team_b": "Reply Totem",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Haneki Corp",
+            "team_b": "Trio of Chernobyl",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports Academy",
+            "team_b": "F/A Poland",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rose",
+            "team_b": "Metizport",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "Bloste",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Forza Esports",
+            "team_b": "Kozaki",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NOVO Esports",
+            "team_b": "Six Sevens",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Stu = Win",
+            "team_b": "Trio of Chernobyl",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports Academy",
+            "team_b": "Rose",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "Kozaki",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Big Talents",
+            "team_b": "NOVO Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "Stu = Win",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kebap",
+            "team_b": "FUT Esports Academy",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Madrid",
+            "team_b": "BIG",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}

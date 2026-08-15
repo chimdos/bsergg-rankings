@@ -1,0 +1,118 @@
+{
+    "event_id": "emea_2026_jun_finals",
+    "name": "June 2026 EMEA Monthly Finals",
+    "date": "2026-06-14",
+    "region": "EMEA",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "NOVO Esports": [
+            "Filippo",
+            "MeOw",
+            "Jus"
+        ],
+        "HMBLE": [
+            "Lukii",
+            "Symantec",
+            "BosS"
+        ],
+        "Metizport": [
+            "Coverz",
+            "Ciro",
+            "Decaii"
+        ],
+        "Reply Totem": [
+            "Maru",
+            "Maury",
+            "Joker"
+        ],
+        "Natus Vincere": [
+            "Drage",
+            "GeRo",
+            "Enraged"
+        ],
+        "BIG": [
+            "Salty",
+            "Arthur (Austrian player)",
+            "Melih"
+        ],
+        "Kumalazawesta": [
+            "Nes",
+            "Mine",
+            "Dompe"
+        ],
+        "FUT Esports": [
+            "Angelboy",
+            "Nob?",
+            "Guesti"
+        ]
+    },
+    "placements": {
+        "1": [
+            "FUT Esports"
+        ],
+        "2": [
+            "Reply Totem"
+        ],
+        "3-4": [
+            "HMBLE",
+            "NOVO Esports"
+        ],
+        "5-8": [
+            "Kumalazawesta",
+            "BIG",
+            "Metizport",
+            "Natus Vincere"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "HMBLE",
+            "team_b": "Kumalazawesta",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "FUT Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "Metizport",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NOVO Esports",
+            "team_b": "Natus Vincere",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "FUT Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "NOVO Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Reply Totem",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}

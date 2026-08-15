@@ -1,0 +1,581 @@
+{
+    "event_id": "emea_2026_feb_qualifiers",
+    "name": "February 2026 EMEA Monthly Qualifier",
+    "date": "2026-02-08",
+    "region": "EMEA",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "SK Gaming": [
+            "Yoshi825",
+            "OPE",
+            "Nowy297"
+        ],
+        "HMBLE": [
+            "Lukii",
+            "BosS",
+            "Symantec"
+        ],
+        "Reply Totem": [
+            "Maury",
+            "Maru",
+            "Joker"
+        ],
+        "Natus Vincere": [
+            "Drage",
+            "LeNain",
+            "GeRo"
+        ],
+        "Team Heretics": [
+            "iKaoss",
+            "Marco",
+            "Subeme"
+        ],
+        "MMR": [
+            "Mebius",
+            "Rama",
+            "MeOw"
+        ],
+        "FUT Esports": [
+            "Angelboy",
+            "Nob?",
+            "Guesti"
+        ],
+        "Madrid": [
+            "Rup",
+            "Biso",
+            "Yoko"
+        ],
+        "NOVO Esports": [
+            "Filippo",
+            "Enraged",
+            "Terry"
+        ],
+        "BIG": [
+            "Arthur (Austrian player)",
+            "Amos",
+            "Salty"
+        ],
+        "CMM": [
+            "Decaii",
+            "Remica",
+            "Kellow"
+        ],
+        "F/A Schnitzel": [
+            "Adrii",
+            "Bogdan",
+            "Dompe"
+        ],
+        "The Lethal Force": [
+            "Matys",
+            "Neptun",
+            "Pika (Czech player)"
+        ],
+        "F/A Lopsa": [
+            "Alan",
+            "Quaaby",
+            "SweetLuigi"
+        ],
+        "DonerKebab": [
+            "Coverz",
+            "Tomzy",
+            "Jus"
+        ],
+        "Unc's still got it": [
+            "Falk",
+            "SantiagoS",
+            "Ogifull"
+        ],
+        "FUT Esports Academy": [
+            "ZeyroX",
+            "DeMaster",
+            "Ferissa"
+        ],
+        "Ostrazz": [
+            "Zoro",
+            "Wind",
+            "MerT"
+        ],
+        "Chippy Chips": [
+            "Yuffy",
+            "Extrigotin",
+            "Dede"
+        ],
+        "Ketsupi+Kanariisi": [
+            "Anton",
+            "Paapi",
+            "Nibaz"
+        ],
+        "RE Zero": [
+            "Reinhard",
+            "Shaula",
+            "ToniMeoww"
+        ],
+        "Snow Crystal": [
+            "ShockRock",
+            "Luffy",
+            "Revan"
+        ],
+        "Star Xperience": [
+            "Jyro",
+            "Eternal Silent",
+            "Fade"
+        ],
+        "DontFinxSo": [
+            "Tex",
+            "GordonnBoy",
+            "Hazzah"
+        ],
+        "F/A Underdogs": [
+            "F3loxx",
+            "Jungle",
+            "vSwEaZy"
+        ],
+        "Shad Legion": [
+            "Kapi",
+            "Zeno",
+            "Melih"
+        ],
+        "Zenith Esports": [
+            "Smoufo",
+            "Nick",
+            "snk"
+        ],
+        "Chill": [
+            "Biluux",
+            "Tizzou",
+            "Brosta"
+        ],
+        "TOP Esports": [
+            "Sadba",
+            "Neroxx",
+            "Gripzz"
+        ],
+        "Valued Guys": [
+            "Mystic",
+            "Mimit",
+            "GoldKenzo"
+        ],
+        "WW": [
+            "Cube",
+            "alekzz",
+            "ArthuR (Ukranian player)"
+        ],
+        "Mandies Candies": [
+            "Zimon",
+            "Nes",
+            "Mine"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "SK Gaming",
+            "Team Heretics",
+            "HMBLE",
+            "Reply Totem"
+        ],
+        "5-8": [
+            "Natus Vincere",
+            "BIG",
+            "CMM",
+            "FUT Esports"
+        ],
+        "9-12": [
+            "Mandies Candies",
+            "NOVO Esports",
+            "DontFinxSo",
+            "FUT Esports Academy"
+        ],
+        "13-16": [
+            "Star Xperience",
+            "Zenith Esports",
+            "F/A Schnitzel",
+            "WW"
+        ],
+        "17-24": [
+            "MMR",
+            "TOP Esports",
+            "Madrid",
+            "Ketsupi+Kanariisi",
+            "Chippy Chips",
+            "DonerKebab",
+            "Shad Legion",
+            "Ostrazz"
+        ],
+        "25-32": [
+            "Unc's still got it",
+            "Chill",
+            "The Lethal Force",
+            "RE Zero",
+            "F/A Underdogs",
+            "Snow Crystal",
+            "F/A Lopsa",
+            "Valued Guys"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "SK Gaming",
+            "team_b": "Zenith Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Unc's still got it",
+            "team_b": "FUT Esports Academy",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Madrid",
+            "team_b": "Ketsupi+Kanariisi",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NOVO Esports",
+            "team_b": "Chill",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "Chippy Chips",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The Lethal Force",
+            "team_b": "Star Xperience",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Heretics",
+            "team_b": "RE Zero",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Schnitzel",
+            "team_b": "DontFinxSo",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "F/A Underdogs",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "DonerKebab",
+            "team_b": "TOP Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Shad Legion",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "Snow Crystal",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "WW",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Lopsa",
+            "team_b": "Mandies Candies",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MMR",
+            "team_b": "Valued Guys",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "CMM",
+            "team_b": "Ostrazz",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "FUT Esports Academy",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Madrid",
+            "team_b": "NOVO Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "Star Xperience",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Heretics",
+            "team_b": "DontFinxSo",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "TOP Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "BIG",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "Mandies Candies",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MMR",
+            "team_b": "CMM",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "NOVO Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "Team Heretics",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "FUT Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "CMM",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zenith Esports",
+            "team_b": "Unc's still got it",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ketsupi+Kanariisi",
+            "team_b": "Chill",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Chippy Chips",
+            "team_b": "The Lethal Force",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "RE Zero",
+            "team_b": "F/A Schnitzel",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Underdogs",
+            "team_b": "DonerKebab",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Shad Legion",
+            "team_b": "Snow Crystal",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "WW",
+            "team_b": "F/A Lopsa",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Valued Guys",
+            "team_b": "Ostrazz",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MMR",
+            "team_b": "Zenith Esports",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Mandies Candies",
+            "team_b": "Ketsupi+Kanariisi",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "Chippy Chips",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TOP Esports",
+            "team_b": "F/A Schnitzel",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "DontFinxSo",
+            "team_b": "DonerKebab",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Star Xperience",
+            "team_b": "Shad Legion",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Madrid",
+            "team_b": "WW",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports Academy",
+            "team_b": "Ostrazz",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zenith Esports",
+            "team_b": "Mandies Candies",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "F/A Schnitzel",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "DontFinxSo",
+            "team_b": "Star Xperience",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "WW",
+            "team_b": "FUT Esports Academy",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "Mandies Candies",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NOVO Esports",
+            "team_b": "BIG",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "CMM",
+            "team_b": "DontFinxSo",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "FUT Esports Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}

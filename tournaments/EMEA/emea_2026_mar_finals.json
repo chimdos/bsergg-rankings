@@ -1,0 +1,118 @@
+{
+    "event_id": "emea_2026_mar_finals",
+    "name": "March 2026 EMEA Monthly Finals",
+    "date": "2026-03-15",
+    "region": "EMEA",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "Kebap": [
+            "Yuffy",
+            "Dede",
+            "Ray092"
+        ],
+        "Team Heretics": [
+            "iKaoss",
+            "Marco",
+            "Subeme"
+        ],
+        "HMBLE": [
+            "Lukii",
+            "BosS",
+            "Symantec"
+        ],
+        "Reply Totem": [
+            "Maru",
+            "Maury",
+            "Joker"
+        ],
+        "Natus Vincere": [
+            "Drage",
+            "GeRo",
+            "Enraged"
+        ],
+        "NOVO Esports": [
+            "MeOw",
+            "Terry",
+            "Filippo"
+        ],
+        "Madrid": [
+            "Rup",
+            "Yoko",
+            "Jus"
+        ],
+        "FUT Esports": [
+            "Angelboy",
+            "Nob?",
+            "Guesti"
+        ]
+    },
+    "placements": {
+        "1": [
+            "HMBLE"
+        ],
+        "2": [
+            "FUT Esports"
+        ],
+        "3-4": [
+            "Team Heretics",
+            "NOVO Esports"
+        ],
+        "5-8": [
+            "Kebap",
+            "Madrid",
+            "Reply Totem",
+            "Natus Vincere"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Kebap",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Heretics",
+            "team_b": "Natus Vincere",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "Madrid",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "NOVO Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Team Heretics",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "NOVO Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "HMBLE",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

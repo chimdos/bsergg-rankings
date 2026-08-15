@@ -1,0 +1,118 @@
+{
+    "event_id": "emea_2026_apr_finals",
+    "name": "April 2026 EMEA Monthly Finals",
+    "date": "2026-04-12",
+    "region": "EMEA",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "SK Gaming": [
+            "Yoshi825",
+            "OPE",
+            "Nowy297"
+        ],
+        "Team Heretics": [
+            "iKaoss",
+            "Marco",
+            "Subeme"
+        ],
+        "HMBLE": [
+            "Lukii",
+            "BosS",
+            "Symantec"
+        ],
+        "FUT Esports Academy": [
+            "Zeyrox",
+            "DeMaster",
+            "Ferissa"
+        ],
+        "Natus Vincere": [
+            "Drage",
+            "GeRo",
+            "Enraged"
+        ],
+        "Big Talents": [
+            "Nes",
+            "Mine",
+            "Dompe"
+        ],
+        "Madrid": [
+            "Rup",
+            "Yoko",
+            "Jus"
+        ],
+        "FUT Esports": [
+            "Angelboy",
+            "Nob?",
+            "Guesti"
+        ]
+    },
+    "placements": {
+        "1": [
+            "HMBLE"
+        ],
+        "2": [
+            "Big Talents"
+        ],
+        "3-4": [
+            "Natus Vincere",
+            "Madrid"
+        ],
+        "5-8": [
+            "HMBLE",
+            "SK Gaming",
+            "FUT Esports Academy",
+            "Team Heretics"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "HMBLE",
+            "team_b": "Big Talents",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "SK Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "FUT Esports Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Heretics",
+            "team_b": "Madrid",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Big Talents",
+            "team_b": "Natus Vincere",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Madrid",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Big Talents",
+            "team_b": "FUT Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

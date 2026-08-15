@@ -1,0 +1,118 @@
+{
+    "event_id": "emea_2026_feb_finals",
+    "name": "February 2026 EMEA Monthly Finals",
+    "date": "2026-02-15",
+    "region": "EMEA",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "SK Gaming": [
+            "Yoshi825",
+            "OPE",
+            "Nowy297"
+        ],
+        "Team Heretics": [
+            "iKaoss",
+            "Marco",
+            "Subeme"
+        ],
+        "HMBLE": [
+            "Lukii",
+            "BosS",
+            "Symantec"
+        ],
+        "Reply Totem": [
+            "Maru",
+            "Maury",
+            "Joker"
+        ],
+        "Natus Vincere": [
+            "Drage",
+            "GeRo",
+            "LeNain"
+        ],
+        "BIG": [
+            "Salty",
+            "Amos",
+            "Arthur (Austrian player)"
+        ],
+        "CMM": [
+            "Kellow",
+            "Remica",
+            "Decaii"
+        ],
+        "FUT Esports": [
+            "Angelboy",
+            "Nob?",
+            "Guesti"
+        ]
+    },
+    "placements": {
+        "1": [
+            "FUT Esports"
+        ],
+        "2": [
+            "HMBLE"
+        ],
+        "3-4": [
+            "CMM",
+            "Reply Totem"
+        ],
+        "5-8": [
+            "SK Gaming",
+            "Team Heretics",
+            "BIG",
+            "Natus Vincere"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "SK Gaming",
+            "team_b": "CMM",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Heretics",
+            "team_b": "FUT Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "BIG",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "Natus Vincere",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "CMM",
+            "team_b": "FUT Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "Reply Totem",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "HMBLE",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}
