@@ -1,0 +1,87 @@
+{
+    "event_id": "italy_2026_challengers",
+    "name": "Italy 2026 Challengers",
+    "date": "2026-06-28",
+    "region": "Italy",
+    "event_type": "italy_2026_challengers",
+    "rosters": {
+        "Skepsis Gaming Italy": [
+            "Biso",
+            "Lucas",
+            "Saint"
+        ],
+        "SMB Esports": [
+            "Remica",
+            "Genesis",
+            "Zen"
+        ],
+        "Novotics": [
+            "iKaoss",
+            "Marco",
+            "HowToWin"
+        ],
+        "Reply Totem": [
+            "Joker",
+            "Maru",
+            "Maury"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Novotics"
+        ],
+        "2": [
+            "Skepsis Gaming Italy"
+        ],
+        "3": [
+            "Reply Totem"
+        ],
+        "4": [
+            "SMB Esports"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Novotics",
+            "team_b": "Reply Totem",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Skepsis Gaming Italy",
+            "team_b": "SMB Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Novotics",
+            "team_b": "Skepsis Gaming Italy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "SMB Esports",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Skepsis Gaming Italy",
+            "team_b": "Reply Totem",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Novotics",
+            "team_b": "Skepsis Gaming Italy",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        }
+    ]
+}

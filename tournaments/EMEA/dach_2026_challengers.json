@@ -1,0 +1,451 @@
+{
+    "event_id": "dach_2026_challengers",
+    "name": "DACH 2026 Challengers",
+    "date": "2026-05-30",
+    "region": "DACH",
+    "event_type": "dach_2026_challengers",
+    "rosters": {
+        "BIG": [
+            "Salty",
+            "Arthur (Austrian player)",
+            "Unlucky"
+        ],
+        "BC* Gaming": [
+            "SkYRiiKZz",
+            "ReMa",
+            "SanFire"
+        ],
+        "Code: LeNain": [
+            "LeNain",
+            "A",
+            "Zeno"
+        ],
+        "Ninjago": [
+            "Kapi",
+            "Tomzy",
+            "Tex"
+        ],
+        "Die Drei": [
+            "Jachi",
+            "Dari",
+            "Benediction"
+        ],
+        "F/A Africa": [
+            "Suffo",
+            "vSwEaZy",
+            "Smoufo"
+        ],
+        "The Lethal Force": [
+            "Slesta",
+            "Oneshot",
+            "Destiny"
+        ],
+        "Kessoku Band": [
+            "Columbina",
+            "Miku (DACH player)",
+            "Aukasz"
+        ],
+        "ROALPL=NoQual": [
+            "Bogii",
+            "Hanisvv",
+            "Dejivi"
+        ],
+        "Sunshine": [
+            "YoshiHimmel",
+            "Free",
+            "Sophia"
+        ],
+        "F/A RJZ": [
+            "Ray092",
+            "ExQ Jason",
+            "Zeno"
+        ],
+        "F/A Gyros": [
+            "Ray092",
+            "Yannic",
+            "Cxssmo"
+        ],
+        "Mirai Nikki": [
+            "Shell",
+            "Fegar",
+            "Lobster"
+        ],
+        "TILT-UNIT": [
+            "Kobify",
+            "DonBanano",
+            "Sh4d0w g04t"
+        ],
+        "Golden Wiena Esports": [
+            "Jammie",
+            "Knirpsgeist",
+            "Spxcies"
+        ],
+        "Six Sevens": [
+            "Mewtu",
+            "Sniper",
+            "Jungle"
+        ]
+    },
+    "placements": {
+        "1": [
+            "BIG"
+        ],
+        "2": [
+            "BC* Gaming"
+        ],
+        "3": [
+            "Code: LeNain"
+        ],
+        "4": [
+            "The Lethal Force"
+        ],
+        "5": [
+            "F/A Gyros"
+        ],
+        "6": [
+            "Ninjago"
+        ],
+        "7-8": [
+            "Six Sevens",
+            "F/A Africa"
+        ],
+        "9-10": [
+            "Kessoku Band",
+            "Die Drei"
+        ],
+        "11-12": [
+            "Sunshine",
+            "TILT-UNIT"
+        ],
+        "13-16": [
+            "F/A RJZ",
+            "Golden Wiena Esports",
+            "ROALPL=NoQual",
+            "Mirai Nikki"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "BIG",
+            "team_b": "Six Sevens",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kessoku Band",
+            "team_b": "F/A RJZ",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "Kessoku Band",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Sevens",
+            "team_b": "F/A RJZ",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BC* Gaming",
+            "team_b": "Sunshine",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Golden Wiena Esports",
+            "team_b": "Ninjago",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BC* Gaming",
+            "team_b": "Ninjago",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sunshine",
+            "team_b": "Golden Wiena Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Code: LeNain",
+            "team_b": "F/A Slizz",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Gyros",
+            "team_b": "ROALPL=NoQual",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Code: LeNain",
+            "team_b": "F/A Gyros",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Slizz",
+            "team_b": "ROALPL=NoQual",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Africa",
+            "team_b": "TILT-UNIT",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Die Drei",
+            "team_b": "Mirai Nikki",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Africa",
+            "team_b": "Die Drei",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TILT-UNIT",
+            "team_b": "Mirai Nikki",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Sevens",
+            "team_b": "BC* Gaming",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kessoku Band",
+            "team_b": "Sunshine",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BC* Gaming",
+            "team_b": "Kessoku Band",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Sevens",
+            "team_b": "Sunshine",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kessoku Band",
+            "team_b": "Six Sevens",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Gyros",
+            "team_b": "TILT-UNIT",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Slizz",
+            "team_b": "Die Drei",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Gyros",
+            "team_b": "F/A Slizz",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TILT-UNIT",
+            "team_b": "Die Drei",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Die Drei",
+            "team_b": "F/A Gyros",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "Ninjago",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BC* Gaming",
+            "team_b": "Ninjago",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Sevens",
+            "team_b": "BIG",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BC* Gaming",
+            "team_b": "BIG",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Sevens",
+            "team_b": "Ninjago",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Code: LeNain",
+            "team_b": "F/A Africa",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Slizz",
+            "team_b": "F/A Africa",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Gyros",
+            "team_b": "Code: LeNain",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Slizz",
+            "team_b": "Code: LeNain",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Gyros",
+            "team_b": "F/A Africa",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninjago",
+            "team_b": "F/A Gyros",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "Code: LeNain",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "F/A Gyros",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "BC* Gaming",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "The Lethal Force",
+            "team_b": "Code: LeNain",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "BC* Gaming",
+            "team_b": "The Lethal Force",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "Code: LeNain",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "The Lethal Force",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "BC* Gaming",
+            "team_b": "Code: LeNain",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "BC* Gaming",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        }
+    ]
+}

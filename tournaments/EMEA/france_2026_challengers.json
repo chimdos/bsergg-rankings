@@ -1,0 +1,171 @@
+{
+    "event_id": "france_2026_challengers",
+    "name": "France 2026 Challengers",
+    "date": "2026-07-19",
+    "region": "France",
+    "event_type": "france_2026_challengers",
+    "rosters": {
+        "Reverso Hive": [
+            "Natrix",
+            "Fayelo",
+            "Ethan"
+        ],
+        "Mommy ASMR": [
+            "Nanoxx (sub)",
+            "HuTao",
+            "Rapha"
+        ],
+        "Togrubi": [
+            "GuGu",
+            "Tizzou",
+            "Brosta"
+        ],
+        "NOVO Academy": [
+            "Fraax",
+            "Wind",
+            "SweetLuigi (sub)"
+        ],
+        "SK Gaming": [
+            "Yoshi825",
+            "Yoko",
+            "OPE"
+        ],
+        "K13 Esport": [
+            "Gas (sub)",
+            "Poun",
+            "Gonaaaal"
+        ],
+        "Z 2027": [
+            "Bertrouz",
+            "Subeme (French player)",
+            "Fluxy (sub)"
+        ],
+        "Slice BE": [
+            "Kira",
+            "Achraf",
+            "Snox (sub)"
+        ]
+    },
+    "placements": {
+        "1": [
+            "SK Gaming"
+        ],
+        "2": [
+            "Reverso Hive"
+        ],
+        "3": [
+            "Togrubi"
+        ],
+        "4": [
+            "Z 2027"
+        ],
+        "5-6": [
+            "Mommy ASMR",
+            "K13 Esport"
+        ],
+        "7-8": [
+            "NOVO Academy",
+            "Slice BE"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "SK Gaming",
+            "team_b": "NOVO Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "K13 Esport",
+            "team_b": "Mommy ASMR",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Slice BE",
+            "team_b": "Reverso Hive",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Z 2027",
+            "team_b": "Togrubi",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "K13 Esport",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reverso Hive",
+            "team_b": "Togrubi",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "Togrubi",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NOVO Academy",
+            "team_b": "Mommy ASMR",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Z 2027",
+            "team_b": "Slice BE",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reverso Hive",
+            "team_b": "Mommy ASMR",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "K13 Esport",
+            "team_b": "Z 2027",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reverso Hive",
+            "team_b": "Z 2027",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Togrubi",
+            "team_b": "Reverso Hive",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "Reverso Hive",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        }
+    ]
+}

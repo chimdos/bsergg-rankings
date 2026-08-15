@@ -1,0 +1,236 @@
+{
+    "event_id": "spain_2026_challengers",
+    "name": "Spain 2026 Challengers",
+    "date": "2026-05-28",
+    "region": "Spain",
+    "event_type": "spain_2026_challengers",
+    "rosters": {
+        "Unlucky": [
+            "Adrii",
+            "Solstice",
+            "Tryhard"
+        ],
+        "Natare Six/FA 120 Ping": [
+            "ShockRock",
+            "Nic145jr",
+            "Revan"
+        ],
+        "SK Gaming": [
+            "Yoshi",
+            "OPE",
+            "Dompe"
+        ],
+        "Stream>Skill": [
+            "Ivanoz7",
+            "ElCarily",
+            "Davox"
+        ],
+        "La Milicia": [
+            "Denova",
+            "Moha21",
+            "Sxjic"
+        ],
+        "The Lethal Force/Madrid": [
+            "Rup",
+            "Amos",
+            "Mine"
+        ],
+        "Code: GuilleVGX": [
+            "Adriuber",
+            "GodVictor",
+            "Fanta"
+        ]
+    },
+    "_comment": "placements playoffs abaixo. code guillevgx vem da offline qualifier",
+    "placements": {
+        "1": [
+            "The Lethal Force/Madrid"
+        ],
+        "2": [
+            "Unlucky"
+        ],
+        "3": [
+            "Natare Six/FA 120 Ping"
+        ],
+        "4": [
+            "Code: GuilleVGX"
+        ]
+    },
+    "_comment2": "placements group stage abaixo. sk gaming ganha aqui mas nao joga os playoffs porque optam por jogar na frança",
+    "placements2": {
+        "1": [
+            "SK Gaming"
+        ],
+        "2": [
+            "The Lethal Force/Madrid"
+        ],
+        "3": [
+            "Unlucky"
+        ],
+        "4": [
+            "Natare Six/FA 120 Ping"
+        ],
+        "5": [
+            "La Milicia"
+        ],
+        "6": [
+            "Stream>Skill"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "The Lethal Force/Madrid",
+            "team_b": "Unlucky",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natare Six/FA 120 Ping",
+            "team_b": "La Milicia",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "Stream>Skill",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "La Milicia",
+            "team_b": "SK Gaming",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Stream>Skill",
+            "team_b": "The Lethal Force/Madrid",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Unlucky",
+            "team_b": "Natare Six/FA 120 Ping",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Stream>Skill",
+            "team_b": "La Milicia",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "Unlucky",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The Lethal Force/Madrid",
+            "team_b": "Natare Six/FA 120 Ping",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natare Six/FA 120 Ping",
+            "team_b": "SK Gaming",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Unlucky",
+            "team_b": "Stream>Skill",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "La Milicia",
+            "team_b": "The Lethal Force/Madrid",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Stream>Skill",
+            "team_b": "Natare Six/FA 120 Ping",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The Lethal Force/Madrid",
+            "team_b": "SK Gaming",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "La Milicia",
+            "team_b": "Unlucky",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The Lethal Force/Madrid",
+            "team_b": "Code: GuilleVGX",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natare Six/FA 120 Ping",
+            "team_b": "Unlucky",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The Lethal Force/Madrid",
+            "team_b": "Unlucky",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natare Six/FA 120 Ping",
+            "team_b": "Code: GuilleVGX",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Unlucky",
+            "team_b": "Natare Six/FA 120 Ping",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The Lethal Force/Madrid",
+            "team_b": "Unlucky",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The Lethal Force/Madrid",
+            "team_b": "Unlucky",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        }
+    ]
+}

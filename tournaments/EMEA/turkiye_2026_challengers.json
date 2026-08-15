@@ -1,0 +1,391 @@
+{
+    "event_id": "turkiye_2026_challengers",
+    "name": "Turkiye 2026 Challengers",
+    "date": "2026-07-26",
+    "region": "Turkiye",
+    "event_type": "turkiye_2026_challengers",
+    "rosters": {
+        "FUT Esports Academy": [
+            "Ferissa",
+            "DeMaster",
+            "ZeyroX"
+        ],
+        "RXM": [
+            "Ninjawe",
+            "Rrx77",
+            "ITACHI (Syrian player)"
+        ],
+        "Unexpextable": [
+            "Antrai",
+            "Soufly",
+            "Artybow"
+        ],
+        "Sip Kuyu": [
+            "Tonto",
+            "Fcb",
+            "Marina"
+        ],
+        "Bumbilebi": [
+            "Last64",
+            "Ametion",
+            "DvLEgemen"
+        ],
+        "ZX": [
+            "Fniser",
+            "Xan1res",
+            "Nosaka"
+        ],
+        "Anti Sip": [
+            "Ilia Topuria",
+            "eren",
+            "Newex"
+        ],
+        "Loludi": [
+            "HK",
+            "Bogdan",
+            "Adonis"
+        ],
+        "Çay Tea": [
+            "Yuffy",
+            "Enraged",
+            "HuTaooo"
+        ],
+        "Am Un Gratar": [
+            "Yei Yei",
+            "Mrt",
+            "Yoichi"
+        ],
+        "Sigma Boys": [
+            "Kimdokja",
+            "Hasan",
+            "Kwaynee"
+        ],
+        "MBC Esports": [
+            "Corwas",
+            "Scared",
+            "Meben"
+        ],
+        "MT Esports": [
+            "Zimon",
+            "Todd (Turkish player)",
+            "MeyZ"
+        ],
+        "FA Lokum": [
+            "Xantaine",
+            "KnuckleZ",
+            "Snowyy"
+        ],
+        "Eagle": [
+            "Aytug",
+            "Mistik",
+            "Foshn"
+        ],
+        "FA Turkish": [
+            "Yasirr17",
+            "mxmoo",
+            "Kaji"
+        ]
+    },
+    "placements": {
+        "1": [
+            "FUT Esports Academy"
+        ],
+        "2": [
+            "Am Un Gratar"
+        ],
+        "3": [
+            "Loludi"
+        ],
+        "4": [
+            "MT Esports"
+        ],
+        "5-6": [
+            "Sip Kuyu",
+            "MBC Esports"
+        ],
+        "7-8": [
+            "Bumbilebi",
+            "FA Lokum"
+        ],
+        "9-12": [
+            "RXM",
+            "Anti Sip",
+            "Çay Tea",
+            "Unexpextable"
+        ],
+        "13-16": [
+            "Sigma Boys",
+            "FA Turkish",
+            "Eagle",
+            "Xz"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "MBC Esports",
+            "team_b": "Sigma Boys",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Loludi",
+            "team_b": "RXM",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "RXM",
+            "team_b": "MBC Esports",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Sigma Boys",
+            "team_b": "Loludi",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo3"
+        },
+        {
+            "team_a": "RXM",
+            "team_b": "Sigma Boys",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "MBC Esports",
+            "team_b": "Loludi",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "FA Turkish",
+            "team_b": "Anti Sip",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo3"
+        },
+        {
+            "team_a": "FUT Esports Academy",
+            "team_b": "FA Lokum",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "FA Lokum",
+            "team_b": "FA Turkish",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Anti Sip",
+            "team_b": "FUT Esports Academy",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "FA Lokum",
+            "team_b": "Anti Sip",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "FA Turkish",
+            "team_b": "FUT Esports Academy",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Eagle",
+            "team_b": "MT Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Am Un Gratar",
+            "team_b": "Çay Tea",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Çay Tea",
+            "team_b": "Eagle",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "MT Esports",
+            "team_b": "Am Un Gratar",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Çay Tea",
+            "team_b": "MT Esports",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Eagle",
+            "team_b": "Am Un Gratar",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Xz",
+            "team_b": "Bumbilebi",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Unexpextable",
+            "team_b": "Sip Kuyu",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Sip Kuyu",
+            "team_b": "Xz",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Bumbilebi",
+            "team_b": "Unexpextable",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Sip Kuyu",
+            "team_b": "Bumbilebi",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Xz",
+            "team_b": "Unexpextable",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Loludi",
+            "team_b": "Bumbilebi",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sip Kuyu",
+            "team_b": "MBC Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports Academy",
+            "team_b": "MT Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Am Un Gratar",
+            "team_b": "FA Lokum",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Loludi",
+            "team_b": "MBC Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports Academy",
+            "team_b": "Am Un Gratar",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Loludi",
+            "team_b": "FUT Esports Academy",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bumbilebi",
+            "team_b": "Sip Kuyu",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MT Esports",
+            "team_b": "FA Lokum",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Am Un Gratar",
+            "team_b": "Sip Kuyu",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MBC Esports",
+            "team_b": "MT Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Am Un Gratar",
+            "team_b": "MT Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Loludi",
+            "team_b": "Am Un Gratar",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports Academy",
+            "team_b": "Am Un Gratar",
+            "score_a": 4,
+            "score_b": 2,
+            "format": "bo7"
+        }
+    ]
+}
