@@ -1,0 +1,581 @@
+{
+    "event_id": "southamerica_2026_jun_qualifiers",
+    "name": "June 2026 South America Monthly Qualifier",
+    "date": "2026-06-07",
+    "region": "South America",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "Bounty Hunters": [
+            "Prozy",
+            "Wesley",
+            "Portox"
+        ],
+        "Pizza Congelada F/A": [
+            "CaueBR",
+            "Mohtep",
+            "Jubileu"
+        ],
+        "LOUD": [
+            "FireCrow",
+            "KaioDog",
+            "Edinho"
+        ],
+        "Olimpo Squad": [
+            "Brabão",
+            "Pekka",
+            "Golden"
+        ],
+        "SKCalalas": [
+            "Juan Carlos",
+            "Rhz",
+            "Kr"
+        ],
+        "Topa Tudo Por Dinheiro": [
+            "Doritos",
+            "IceCrow",
+            "Derrp"
+        ],
+        "Ninguém Segura": [
+            "Tufa",
+            "Sennin",
+            "Rdz"
+        ],
+        "Oddyssey": [
+            "Meliodas",
+            "Dreww",
+            "Bryan"
+        ],
+        "Acre Lovers": [
+            "Satisfyer",
+            "Fire Murilo",
+            "Lipizin"
+        ],
+        "Zurita Gang": [
+            "Jxcr",
+            "Exic",
+            "Todd"
+        ],
+        "BLD F/A": [
+            "Deykon",
+            "B4st",
+            "Lele"
+        ],
+        "Goats": [
+            "FortiStars",
+            "Mito",
+            "Jonatas"
+        ],
+        "Ge4r": [
+            "Gokou",
+            "MartiiGoty",
+            "Ranked Mortis"
+        ],
+        "Japão FC E-Sports": [
+            "Raze",
+            "Zika",
+            "Esoteric"
+        ],
+        "Dropeados 2026": [
+            "Gian",
+            "Daidote",
+            "Benja"
+        ],
+        "Six Seven": [
+            "Bicho",
+            "Nubis",
+            "Gods"
+        ],
+        "Codornas F/A": [
+            "Thurxzzz",
+            "Migz",
+            "Meguelitoz"
+        ],
+        "Skibidi Sigmas": [
+            "Luking",
+            "Mega",
+            "Dex"
+        ],
+        "Fatui": [
+            "Seraphim",
+            "Nexus",
+            "BladXyZ"
+        ],
+        "Tyrants Gaming": [
+            "Mystic",
+            "Trevizz",
+            "Yuta"
+        ],
+        "En Desvantaja": [
+            "Neutz",
+            "Max",
+            "Coper"
+        ],
+        "OCX Division": [
+            "Sterixx",
+            "Crow32",
+            "Foxy"
+        ],
+        "NT Tropa": [
+            "GuiGool",
+            "Fv7",
+            "DarkeSan"
+        ],
+        "Vingança": [
+            "Lekow",
+            "Jovem Dex",
+            "Mary Stars"
+        ],
+        "Enosis eSports": [
+            "Fantas",
+            "Rei Do Fut",
+            "Magic"
+        ],
+        "Energy Station": [
+            "Gusto",
+            "Tiberius",
+            "Kaiozin"
+        ],
+        "Família Blackoutz": [
+            "Iper",
+            "Zaiko",
+            "Tinito"
+        ],
+        "Cabritas F/A": [
+            "Chinoo",
+            "Pancho",
+            "Joefav"
+        ],
+        "Muito Duro": [
+            "Predicador",
+            "Tensi",
+            "PabloH"
+        ],
+        "UDP Academy": [
+            "Otaku",
+            "PROzin",
+            "Kallus"
+        ],
+        "Snipers do Nareba": [
+            "Latranu",
+            "OhAprendiz10",
+            "Uchiha Madara"
+        ],
+        "Le Goats": [
+            "PerSa",
+            "Soullkid",
+            "Reborn"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "Olimpo Squad",
+            "Bounty Hunters",
+            "Pizza Congelada F/A",
+            "Topa Tudo Por Dinheiro"
+        ],
+        "5-8": [
+            "SKCalalas",
+            "LOUD",
+            "Acre Lovers",
+            "Ninguém Segura"
+        ],
+        "9-12": [
+            "Zurita Gang",
+            "Fatui",
+            "Six Seven",
+            "Enosis eSports"
+        ],
+        "13-16": [
+            "BLD F/A",
+            "NT Tropa",
+            "Cabritas F/A",
+            "Muito Duro"
+        ],
+        "17-24": [
+            "Energy Station",
+            "Japão FC E-Sports",
+            "OCX Division",
+            "Sonhadores",
+            "Codornas F/A",
+            "En Desvantaja",
+            "Vingança",
+            "Le Goats"
+        ],
+        "25-32": [
+            "Skibidi Sigmas",
+            "Tyrants Gaming",
+            "Dropeados 2026",
+            "Ge4r",
+            "Família Blackoutz",
+            "UDP Academy",
+            "Snipers do Nareba",
+            "Goats"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Codornas F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Seven",
+            "team_b": "Skibidi Sigmas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sonhadores",
+            "team_b": "Fatui",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Acre Lovers",
+            "team_b": "Tyrants Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "En Desvantaja",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ge4r",
+            "team_b": "OCX Division",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "NT Tropa",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Goats",
+            "team_b": "Vingança",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pizza Congelada F/A",
+            "team_b": "Enosis eSports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dropeados 2026",
+            "team_b": "Energy Station",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "Família Blackoutz",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Cabritas F/A",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Muito Duro",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Japão FC E-Sports",
+            "team_b": "UDP Academy",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Topa Tudo Por Dinheiro",
+            "team_b": "Snipers do Nareba",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BLD F/A",
+            "team_b": "Le Goats",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Six Seven",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sonhadores",
+            "team_b": "Acre Lovers",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "OCX Division",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "Vingança",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pizza Congelada F/A",
+            "team_b": "Energy Station",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "Zurita Gang",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Japão FC E-Sports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Topa Tudo Por Dinheiro",
+            "team_b": "BLD F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Acre Lovers",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Olimpo Squad",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pizza Congelada F/A",
+            "team_b": "Ninguém Segura",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Topa Tudo Por Dinheiro",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Codornas F/A",
+            "team_b": "Skibidi Sigmas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Fatui",
+            "team_b": "Tyrants Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "En Desvantaja",
+            "team_b": "Ge4r",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NT Tropa",
+            "team_b": "Goats",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "Dropeados 2026",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Família Blackoutz",
+            "team_b": "Cabritas F/A",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Muito Duro",
+            "team_b": "UDP Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Snipers do Nareba",
+            "team_b": "Le Goats",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BLD F/A",
+            "team_b": "Codornas F/A",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Japão FC E-Sports",
+            "team_b": "Fatui",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "En Desvantaja",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Energy Station",
+            "team_b": "NT Tropa",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vingança",
+            "team_b": "Enosis eSports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OCX Division",
+            "team_b": "Cabritas F/A",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sonhadores",
+            "team_b": "Muito Duro",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Seven",
+            "team_b": "Le Goats",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BLD F/A",
+            "team_b": "Fatui",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "NT Tropa",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "Cabritas F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Muito Duro",
+            "team_b": "Six Seven",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Fatui",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Acre Lovers",
+            "team_b": "Zurita Gang",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Enosis eSports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "Six Seven",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}

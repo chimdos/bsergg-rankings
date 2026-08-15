@@ -1,0 +1,581 @@
+{
+    "event_id": "southamerica_2026_jul_qualifiers",
+    "name": "July 2026 South America Monthly Qualifier",
+    "date": "2026-07-05",
+    "region": "South America",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "Bounty Hunters": [
+            "Prozy",
+            "Wesley",
+            "Portox"
+        ],
+        "Pizza Congelada F/A": [
+            "CaueBR",
+            "Mohtep",
+            "Jubileu"
+        ],
+        "LOUD": [
+            "FireCrow",
+            "KaioDog",
+            "Edinho"
+        ],
+        "Olimpo Squad": [
+            "Brabão",
+            "Pekka",
+            "Golden"
+        ],
+        "SKCalalas": [
+            "Juan Carlos",
+            "Rhz",
+            "Kr"
+        ],
+        "GLXY Gaming": [
+            "Doritos",
+            "IceCrow",
+            "Derrp"
+        ],
+        "Acre Lovers": [
+            "Satisfyer",
+            "Fire Murilo",
+            "Lipizin"
+        ],
+        "OCX Division": [
+            "Tufa",
+            "Sennin",
+            "Rdz"
+        ],
+        "QuieroQueQue": [
+            "Deykon",
+            "B4st",
+            "Todd"
+        ],
+        "Japão FC E-Sports": [
+            "Raze",
+            "Azuri",
+            "Esoteric"
+        ],
+        "Six Seven": [
+            "Bicho",
+            "Nubis",
+            "Gods"
+        ],
+        "Goats": [
+            "FortiStars",
+            "Mito",
+            "Jonatas"
+        ],
+        "Dropeados 2026": [
+            "Gian",
+            "Daidote",
+            "Benja"
+        ],
+        "Skibidi Sigmas": [
+            "Luking",
+            "Mega",
+            "Dex"
+        ],
+        "Energy Station": [
+            "Gusto",
+            "Tiberius",
+            "Kaiozin"
+        ],
+        "OCX Division Academy": [
+            "Sterixx",
+            "Crow32",
+            "Foxy"
+        ],
+        "Nexus": [
+            "Petin",
+            "Kaue",
+            "Nolan"
+        ],
+        "Crazy Xenoverse": [
+            "Nacho",
+            "Youkoo",
+            "Pepo"
+        ],
+        "Golden Boys": [
+            "MCLove",
+            "KVN",
+            "Kid GGizi"
+        ],
+        "UNESC Team": [
+            "Valvassori",
+            "Damiani",
+            "Zili"
+        ],
+        "Zhetian": [
+            "Silvaxr",
+            "Abraham",
+            "WillyKaoss"
+        ],
+        "Platanitos GT": [
+            "Bolita",
+            "Nita",
+            "Criz"
+        ],
+        "Free BSEB": [
+            "Murilek",
+            "Ninguém Sabe",
+            "Denner"
+        ],
+        "OTX E-Sports": [
+            "KauZin",
+            "Miha",
+            "Levi"
+        ],
+        "Ping Differs": [
+            "Meliodas",
+            "Loko",
+            "Bryan"
+        ],
+        "Enosis eSports": [
+            "Fantas",
+            "Rei Do Fut",
+            "Magic"
+        ],
+        "Sub 5 F/A": [
+            "Crocyzin",
+            "Guash",
+            "Vingança"
+        ],
+        "The True Codornas": [
+            "8Viruss",
+            "Brenin",
+            "God's plan"
+        ],
+        "The Vanguard": [
+            "SayGer",
+            "Milo",
+            "JuliBrawl"
+        ],
+        "Galaxy F/A": [
+            "Kassio",
+            "TheusXL",
+            "Kauan"
+        ],
+        "Shade E-Sports": [
+            "Limon",
+            "Bugu",
+            "Kr (Brazilian player)"
+        ],
+        "DDD 11": [
+            "Sybai",
+            "Guilhas",
+            "Sr Caga e Come"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "Olimpo Squad",
+            "Bounty Hunters",
+            "Acre Lovers",
+            "GLXY Gaming"
+        ],
+        "5-8": [
+            "SKCalalas",
+            "LOUD",
+            "Pizza Congelada F/A",
+            "QuieroQueQue"
+        ],
+        "9-12": [
+            "Sub 5 F/A",
+            "OCX Division",
+            "Six Seven",
+            "Ping Differs"
+        ],
+        "13-16": [
+            "Enosis eSports",
+            "OCX Division Academy",
+            "Shade E-Sports",
+            "Golden Boys"
+        ],
+        "17-24": [
+            "OXT E-Sports",
+            "Dropeados 2026",
+            "The Vanguard",
+            "Crazy Xenoverse",
+            "Zhetian",
+            "Free BSEB",
+            "The True Cordornas",
+            "DDD 11"
+        ],
+        "25-32": [
+            "Nexus",
+            "UNESC Team",
+            "Platanitos GT",
+            "Goats",
+            "Energy Station",
+            "Japão FC E-Sports",
+            "Skibidi Sigmas",
+            "Galaxy F/A"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Nexus",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OCX Division Academy",
+            "team_b": "Crazy Xenoverse",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OCX Division",
+            "team_b": "Golden Boys",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "QuieroQueQue",
+            "team_b": "UNESC Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "Zhetian",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dropeados 2026",
+            "team_b": "Platanitos GT",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Free BSEB",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Goats",
+            "team_b": "OXT E-Sports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pizza Congelada F/A",
+            "team_b": "Ping Differs",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Energy Station",
+            "team_b": "Enosis eSports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Acre Lovers",
+            "team_b": "Shade E-Sports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Japão FC E-Sports",
+            "team_b": "Sub 5 F/A",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "The True Cordornas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Skibidi Sigmas",
+            "team_b": "The Vanguard",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "GLXY Gaming",
+            "team_b": "Galaxy F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Seven",
+            "team_b": "DDD 11",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "OCX Division Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OCX Division",
+            "team_b": "QuieroQueQue",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "Dropeados 2026",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "OXT E-Sports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pizza Congelada F/A",
+            "team_b": "Enosis eSports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Acre Lovers",
+            "team_b": "Sub 5 F/A",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "The Vanguard",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "GLXY Gaming",
+            "team_b": "Six Seven",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "QuieroQueQue",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "SKCalalas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pizza Congelada F/A",
+            "team_b": "Acre Lovers",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "GLXY Gaming",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nexus",
+            "team_b": "Crazy Xenoverse",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Golden Boys",
+            "team_b": "UNESC Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zhetian",
+            "team_b": "Platanitos GT",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Free BSEB",
+            "team_b": "Goats",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ping Differs",
+            "team_b": "Energy Station",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Shade E-Sports",
+            "team_b": "Japão FC E-Sports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The True Cordornas",
+            "team_b": "Skibidi Sigmas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Galaxy F/A",
+            "team_b": "DDD 11",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Seven",
+            "team_b": "Crazy Xenoverse",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The Vanguard",
+            "team_b": "Golden Boys",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sub 5 F/A",
+            "team_b": "Zhetian",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "Free BSEB",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OXT E-Sports",
+            "team_b": "Ping Differs",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dropeados 2026",
+            "team_b": "Shade E-Sports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OCX Division",
+            "team_b": "The True Cordornas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OCX Division Academy",
+            "team_b": "DDD 11",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Seven",
+            "team_b": "Golden Boys",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sub 5 F/A",
+            "team_b": "Enosis eSports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ping Differs",
+            "team_b": "Shade E-Sports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OCX Division",
+            "team_b": "OCX Division Academy",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Six Seven",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "QuieroQueQue",
+            "team_b": "Sub 5 F/A",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Ping Differs",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pizza Congelada F/A",
+            "team_b": "OCX Division",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}

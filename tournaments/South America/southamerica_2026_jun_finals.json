@@ -1,0 +1,118 @@
+{
+    "event_id": "southamerica_2026_jun_finals",
+    "name": "June 2026 South America Monthly Finals",
+    "date": "2026-06-20",
+    "region": "South America",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "Bounty Hunters": [
+            "Portox",
+            "Prozy",
+            "Wesley"
+        ],
+        "Olimpo Squad": [
+            "Pekka",
+            "Brabão",
+            "Golden"
+        ],
+        "Pizza Congelada F/A": [
+            "Jubileu",
+            "Mohtep",
+            "CaueBR"
+        ],
+        "GLXY Gaming": [
+            "Doritos",
+            "IceCrow",
+            "Derrp"
+        ],
+        "SKCalalas": [
+            "Rhz",
+            "Kr",
+            "Juan Carlos"
+        ],
+        "Acre Lovers": [
+            "Fire Murilo",
+            "Satisfyer",
+            "Lipizin"
+        ],
+        "LOUD": [
+            "KaioDog",
+            "FireCrow",
+            "Edinho"
+        ],
+        "OCX Division": [
+            "Tufa",
+            "Sennin",
+            "Rdz"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Bounty Hunters"
+        ],
+        "2": [
+            "Acre Lovers"
+        ],
+        "3-4": [
+            "GLXY Gaming",
+            "Olimpo Squad"
+        ],
+        "5-8": [
+            "LOUD",
+            "Acre Lovers",
+            "OCX Division",
+            "SKCalalas"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "OCX Division",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "GLXY Gaming",
+            "team_b": "SKCalalas",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pizza Congelada F/A",
+            "team_b": "Acre Lovers",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "LOUD",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "GLXY Gaming",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Acre Lovers",
+            "team_b": "Olimpo Squad",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Acre Lovers",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        }
+    ]
+}

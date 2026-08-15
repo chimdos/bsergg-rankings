@@ -1,0 +1,118 @@
+{
+    "event_id": "southamerica_2026_feb_finals",
+    "name": "February 2026 South America Monthly Finals",
+    "date": "2026-02-21",
+    "region": "South America",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "LOUD": [
+            "KaioDog",
+            "FireCrow",
+            "Edinho"
+        ],
+        "Bounty Hunters": [
+            "Doritos",
+            "Derrp",
+            "Loko"
+        ],
+        "SKCalalas": [
+            "Rhz",
+            "Kr",
+            "Pekka"
+        ],
+        "Olimpo Squad": [
+            "IceCrow",
+            "Brabão",
+            "Golden"
+        ],
+        "Eternal Esports": [
+            "Jubileu",
+            "Mohtep",
+            "CaueBR"
+        ],
+        "Sonhadores": [
+            "Drew",
+            "Magic",
+            "Murilin"
+        ],
+        "New Heights Gaming": [
+            "Portox",
+            "Prozy",
+            "Wesley"
+        ],
+        "Ninguém Segura": [
+            "Tufa",
+            "Rei Do Fut",
+            "Nubis"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Eternal Esports"
+        ],
+        "2": [
+            "New Heights Gaming"
+        ],
+        "3-4": [
+            "LOUD",
+            "SKCalalas"
+        ],
+        "5-8": [
+            "Ninguém Segura",
+            "Olimpo Squad",
+            "Sonhadores",
+            "Bounty Hunters"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "LOUD",
+            "team_b": "Ninguém Segura",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "Eternal Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Sonhadores",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "New Heights Gaming",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Eternal Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "New Heights Gaming",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Eternal Esports",
+            "team_b": "New Heights Gaming",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        }
+    ]
+}

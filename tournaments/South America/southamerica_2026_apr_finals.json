@@ -1,0 +1,118 @@
+{
+    "event_id": "southamerica_2026_apr_finals",
+    "name": "April 2026 South America Monthly Finals",
+    "date": "2026-04-18",
+    "region": "South America",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "Bounty Hunters": [
+            "Portox",
+            "Prozy",
+            "Wesley"
+        ],
+        "SKCalalas": [
+            "Rhz",
+            "Kr",
+            "Pekka"
+        ],
+        "Eternal Esports": [
+            "Jubileu",
+            "Mohtep",
+            "CaueBR"
+        ],
+        "LOUD": [
+            "KaioDog",
+            "FireCrow",
+            "Edinho"
+        ],
+        "Olimpo Squad": [
+            "IceCrow",
+            "Brabão",
+            "Golden"
+        ],
+        "Oddyssey": [
+            "Drew",
+            "Lipizin",
+            "Magic"
+        ],
+        "Acre Lovers": [
+            "Fire Murilo",
+            "Satisfyer",
+            "Sennin"
+        ],
+        "Topa Tudo Por Dinheiro": [
+            "Doritos",
+            "Meliodas",
+            "Derrp"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Eternal Esports"
+        ],
+        "2": [
+            "Bounty Hunters"
+        ],
+        "3-4": [
+            "SKCalalas",
+            "Olimpo Squad"
+        ],
+        "5-8": [
+            "LOUD",
+            "Acre Lovers",
+            "Oddyssey",
+            "Topa Tudo Por Dinheiro"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Acre Lovers",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Topa Tudo Por Dinheiro",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Eternal Esports",
+            "team_b": "Oddyssey",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Olimpo Squad",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "SKCalalas",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Eternal Esports",
+            "team_b": "Olimpo Squad",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Eternal Esports",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

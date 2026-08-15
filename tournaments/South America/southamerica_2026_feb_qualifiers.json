@@ -1,0 +1,581 @@
+{
+    "event_id": "southamerica_2026_feb_qualifiers",
+    "name": "February 2026 South America Monthly Qualifier",
+    "date": "2026-02-08",
+    "region": "South America",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "LOUD": [
+            "FireCrow",
+            "KaioDog",
+            "Edinho"
+        ],
+        "SKCalalas": [
+            "Pekka",
+            "Rhz",
+            "Kr"
+        ],
+        "New Heights Gaming": [
+            "Prozy",
+            "Wesley",
+            "Portox"
+        ],
+        "Eternal Esports": [
+            "CaueBR",
+            "Mohtep",
+            "Jubileu"
+        ],
+        "Olimpo Squad": [
+            "Brabão",
+            "IceCrow",
+            "Golden"
+        ],
+        "Enosis eSports": [
+            "Deykon",
+            "B4st",
+            "Neffex"
+        ],
+        "Zurita Gang": [
+            "Jxcr",
+            "Meliodas",
+            "Bryan"
+        ],
+        "Los Chicos F/A": [
+            "Nouthz",
+            "Exic",
+            "DarkeSan"
+        ],
+        "Ninguém Segura": [
+            "Tufa",
+            "Rei Do Fut",
+            "Rdz"
+        ],
+        "Peek": [
+            "Steel (Brazilian player)",
+            "IGF1",
+            "Nozes"
+        ],
+        "Dropeados 2026": [
+            "Daidote",
+            "Pancho",
+            "Benja"
+        ],
+        "Vorax Gaming": [
+            "Sterixx",
+            "Crow32",
+            "Café"
+        ],
+        "Contagem Sapopemba": [
+            "Igor",
+            "Felp",
+            "Skiwyx"
+        ],
+        "Natare Six": [
+            "Fv7",
+            "Bicho",
+            "Satisfyer"
+        ],
+        "Eclipse": [
+            "Guga Rei",
+            "ImperadorBR",
+            "Spirit"
+        ],
+        "Prodígios F/A": [
+            "Lirão",
+            "Crocyzin",
+            "Kaycke"
+        ],
+        "iworlds": [
+            "NiceShot",
+            "VTzim",
+            "Fire Murilo"
+        ],
+        "Sonhadores": [
+            "Lipizin",
+            "Dreww",
+            "Magic"
+        ],
+        "KaioPerro": [
+            "Doritos",
+            "Loko",
+            "Derrp"
+        ],
+        "Concolores": [
+            "Lele",
+            "Fantas",
+            "Yama"
+        ],
+        "Iron Clutch": [
+            "Haki",
+            "Chinoo",
+            "Luc4s"
+        ],
+        "Dominant Force": [
+            "Edu",
+            "Rey Tobi",
+            "LHCH07"
+        ],
+        "Bahia Love": [
+            "Tensi",
+            "Ghost",
+            "Foxy"
+        ],
+        "TBR E-Sports": [
+            "Storm",
+            "Dienzo",
+            "AlersFoxy"
+        ],
+        "Império Esports": [
+            "Trevo",
+            "Agiotaxx",
+            "Kyoshi"
+        ],
+        "Goats": [
+            "Jpnatas",
+            "E.Pulgar",
+            "Mito"
+        ],
+        "Kai-Zen Ryu Prime": [
+            "D'Ale Michu",
+            "Boss",
+            "Lucho"
+        ],
+        "M2H": [
+            "RickY",
+            "Zeek",
+            "SamKitty"
+        ],
+        "Game Life": [
+            "Silvaxyz",
+            "Shiro",
+            "Lifeless"
+        ],
+        "Exilados": [
+            "Raze",
+            "Zika",
+            "Ineffable"
+        ],
+        "Ge4r": [
+            "Gokou",
+            "Bachi",
+            "Six"
+        ],
+        "Barcelona 2009 F/A": [
+            "Reborn",
+            "Cruxy",
+            "Trick"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "LOUD",
+            "KaioPerro",
+            "SKCalalas",
+            "Olimpo Squad"
+        ],
+        "5-8": [
+            "Eternal Esports",
+            "Sonhadores",
+            "New Heights Gaming",
+            "Ninguém Segura"
+        ],
+        "9-12": [
+            "Zurita Gang",
+            "Natare Six",
+            "Vorax Gaming",
+            "Los Chicos F/A"
+        ],
+        "13-16": [
+            "Concolores",
+            "Enosis eSports",
+            "iworlds",
+            "Prodígios F/A"
+        ],
+        "17-24": [
+            "Eclipse",
+            "Império Esports",
+            "Dropeados 2026",
+            "Iron Clutch",
+            "Bahia Love",
+            "Goats",
+            "Game Life",
+            "Peek"
+        ],
+        "25-32": [
+            "Kai-Zen Ryu Prime",
+            "Barcelona 2009 F/A",
+            "TBR E-Sports",
+            "Ge4r",
+            "Dominant Force",
+            "M2H",
+            "Contagem Sapopemba",
+            "Exilados"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "LOUD",
+            "team_b": "Kai-Zen Ryu Prime",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Eclipse",
+            "team_b": "Prodígios F/A",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Sonhadores",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Los Chicos F/A",
+            "team_b": "Barcelona 2009 F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KaioPerro",
+            "team_b": "TBR E-Sports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vorax Gaming",
+            "team_b": "Iron Clutch",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Eternal Esports",
+            "team_b": "Ge4r",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dropeados 2026",
+            "team_b": "Bahia Love",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Dominant Force",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natare Six",
+            "team_b": "iworlds",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "Goats",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "M2H",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "New Heights Gaming",
+            "team_b": "Game Life",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Contagem Sapopemba",
+            "team_b": "Império Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "Exilados",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Peek",
+            "team_b": "Concolores",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Prodígios F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sonhadores",
+            "team_b": "Los Chicos F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KaioPerro",
+            "team_b": "Vorax Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Eternal Esports",
+            "team_b": "Dropeados 2026",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Natare Six",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "Ninguém Segura",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "New Heights Gaming",
+            "team_b": "Império Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "Concolores",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Sonhadores",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KaioPerro",
+            "team_b": "Eternal Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Ninguém Segura",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "New Heights Gaming",
+            "team_b": "Olimpo Squad",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kai-Zen Ryu Prime",
+            "team_b": "Eclipse",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Barcelona 2009 F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TBR E-Sports",
+            "team_b": "Iron Clutch",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ge4r",
+            "team_b": "Bahia Love",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dominant Force",
+            "team_b": "iworlds",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Goats",
+            "team_b": "M2H",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Game Life",
+            "team_b": "Contagem Sapopemba",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Exilados",
+            "team_b": "Peek",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Concolores",
+            "team_b": "Eclipse",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Império Esports",
+            "team_b": "Zurita Gang",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "Iron Clutch",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natare Six",
+            "team_b": "Bahia Love",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dropeados 2026",
+            "team_b": "iworlds",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vorax Gaming",
+            "team_b": "Goats",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Los Chicos F/A",
+            "team_b": "Game Life",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Prodígios F/A",
+            "team_b": "Peek",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Concolores",
+            "team_b": "Zurita Gang",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "Natare Six",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "iworlds",
+            "team_b": "Vorax Gaming",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Los Chicos F/A",
+            "team_b": "Prodígios F/A",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Eternal Esports",
+            "team_b": "Zurita Gang",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sonhadores",
+            "team_b": "Natare Six",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "New Heights Gaming",
+            "team_b": "Vorax Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "Los Chicos F/A",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        }
+    ]
+}

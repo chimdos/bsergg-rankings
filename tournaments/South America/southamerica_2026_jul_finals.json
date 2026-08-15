@@ -1,0 +1,118 @@
+{
+    "event_id": "southamerica_2026_jul_finals",
+    "name": "July 2026 South America Monthly Finals",
+    "date": "2026-07-11",
+    "region": "South America",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "Bounty Hunters": [
+            "Portox",
+            "Prozy",
+            "Wesley"
+        ],
+        "Olimpo Squad": [
+            "Pekka",
+            "Brabão",
+            "Golden"
+        ],
+        "OCX Division": [
+            "Fire Murilo",
+            "Satisfyer",
+            "Lipizin"
+        ],
+        "GLXY Gaming": [
+            "Doritos",
+            "IceCrow",
+            "Derrp"
+        ],
+        "SKCalalas": [
+            "Rhz",
+            "Kr",
+            "Juan Carlos"
+        ],
+        "QuieroQueQue": [
+            "Todd",
+            "Deykon",
+            "B4st"
+        ],
+        "LOUD": [
+            "KaioDog",
+            "FireCrow",
+            "Edinho"
+        ],
+        "RED Canids": [
+            "Jubileu",
+            "Mohtep",
+            "CaueBR"
+        ]
+    },
+    "placements": {
+        "1": [
+            "RED Canids"
+        ],
+        "2": [
+            "LOUD"
+        ],
+        "3-4": [
+            "SKCalalas",
+            "Olimpo Squad"
+        ],
+        "5-8": [
+            "Bounty Hunters",
+            "QuieroQueQue",
+            "OCX Division",
+            "GLXY Gaming"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "SKCalalas",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OCX Division",
+            "team_b": "LOUD",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "QuieroQueQue",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "GLXY Gaming",
+            "team_b": "RED Canids",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "LOUD",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "RED Canids",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "RED Canids",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

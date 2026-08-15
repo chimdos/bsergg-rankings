@@ -1,0 +1,581 @@
+{
+    "event_id": "southamerica_2026_mar_qualifiers",
+    "name": "March 2026 South America Monthly Qualifier",
+    "date": "2026-03-08",
+    "region": "South America",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "Eternal Esports": [
+            "CaueBR",
+            "Mohtep",
+            "Jubileu"
+        ],
+        "New Heights Gaming": [
+            "Prozy",
+            "Wesley",
+            "Portox"
+        ],
+        "SKCalalas": [
+            "Pekka",
+            "Rhz",
+            "Kr"
+        ],
+        "LOUD": [
+            "FireCrow",
+            "KaioDog",
+            "Edinho"
+        ],
+        "Bounty Hunters": [
+            "Doritos",
+            "Loko",
+            "Derrp"
+        ],
+        "Olimpo Squad": [
+            "Brabão",
+            "IceCrow",
+            "Golden"
+        ],
+        "Oddyssey": [
+            "Lipizin",
+            "Dreww",
+            "Magic"
+        ],
+        "Ninguém Segura": [
+            "Tufa",
+            "Rei Do Fut",
+            "Rdz"
+        ],
+        "GeO Esports": [
+            "Sterixx",
+            "Crow32",
+            "DarkeSan"
+        ],
+        "Natare Six": [
+            "Fv7",
+            "Bicho",
+            "Nouthz"
+        ],
+        "Zurita Gang": [
+            "Jxcr",
+            "Meliodas",
+            "Bryan"
+        ],
+        "Enosis eSports": [
+            "Deykon",
+            "B4st",
+            "Lele"
+        ],
+        "Dropeados 2026": [
+            "Daidote",
+            "Pancho",
+            "Benja"
+        ],
+        "Império Esports": [
+            "Trevo",
+            "Agiotaxx",
+            "Kyoshi"
+        ],
+        "Fenrir Gaming": [
+            "Tensi",
+            "Dark Bahia",
+            "Foxy"
+        ],
+        "Goats": [
+            "Jpnatas",
+            "E.Pulgar",
+            "Mito"
+        ],
+        "Skibidi Sigmas": [
+            "Luking",
+            "Mega",
+            "Dex"
+        ],
+        "Six Seven": [
+            "Nubis",
+            "Murilin",
+            "Gods"
+        ],
+        "Concolores": [
+            "Crocyzin",
+            "Nexus",
+            "Luliv"
+        ],
+        "Ultra Hardcore": [
+            "Kronos",
+            "Nahi",
+            "MacSi"
+        ],
+        "XBlood Zero": [
+            "Yisas",
+            "KFC",
+            "Smoke"
+        ],
+        "Destiny Esports": [
+            "Joelito",
+            "Lirão",
+            "Luizzz"
+        ],
+        "Os Chimpanzés": [
+            "Atomic Eyez",
+            "Hot Davi",
+            "Leo"
+        ],
+        "Ge4r": [
+            "Gokou",
+            "Bachi",
+            "Pedro"
+        ],
+        "MTZ": [
+            "Zeekzxc",
+            "Dream",
+            "Reborn"
+        ],
+        "Terceira Idadde": [
+            "GuiGool",
+            "Flak",
+            "LipeGod"
+        ],
+        "Exilados": [
+            "Raze",
+            "Zika",
+            "Blu3 MM"
+        ],
+        "Acre Lovers": [
+            "Satisfyer",
+            "Fire Murilo",
+            "Sennin"
+        ],
+        "Os Kabas": [
+            "Michael",
+            "Susano",
+            "EuteAmoKaio"
+        ],
+        "OCX Division": [
+            "Junii",
+            "Liima",
+            "Migz"
+        ],
+        "Rapositas": [
+            "Kodzera",
+            "Carmi",
+            "BlanTz"
+        ],
+        "Peek": [
+            "Tsug",
+            "Peek",
+            "Brz7"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "LOUD",
+            "Ninguém Segura",
+            "New Heights Gaming",
+            "Olimpo Squad"
+        ],
+        "5-8": [
+            "Eternal Esports",
+            "Acre Lovers",
+            "Bounty Hunters",
+            "SKCalalas"
+        ],
+        "9-12": [
+            "Oddyssey",
+            "Natare Six",
+            "GeO Esports",
+            "Zurita Gang"
+        ],
+        "13-16": [
+            "Terceira Idade",
+            "Destiny Esports",
+            "Six Seven",
+            "Fenrir Gaming"
+        ],
+        "17-24": [
+            "Concolores",
+            "Skibidi Sigmas",
+            "OCX Division",
+            "Goats",
+            "Enosis eSports",
+            "Império Esports",
+            "Os Chimpanzés",
+            "Rapositas"
+        ],
+        "25-32": [
+            "MTZ",
+            "Exilados",
+            "Ultra Hardcore",
+            "Ge4r",
+            "XBlood Zero",
+            "Dropeados 2026",
+            "Os Kabas",
+            "Peek"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Eternal Esports",
+            "team_b": "Rapositas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Goats",
+            "team_b": "Peek",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "Os Chimpanzés",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "GeO Esports",
+            "team_b": "Os Kabas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Six Seven",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dropeados 2026",
+            "team_b": "Skibidi Sigmas",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "XBlood Zero",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "Concolores",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "New Heights Gaming",
+            "team_b": "Destiny Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Fenrir Gaming",
+            "team_b": "Ge4r",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Oddyssey",
+            "team_b": "OCX Division",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natare Six",
+            "team_b": "Ultra Hardcore",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Terceira Idade",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Império Esports",
+            "team_b": "Exilados",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "MTZ",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Acre Lovers",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Eternal Esports",
+            "team_b": "Goats",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "GeO Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Skibidi Sigmas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Concolores",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "New Heights Gaming",
+            "team_b": "Fenrir Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Oddyssey",
+            "team_b": "Natare Six",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Império Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "Zurita Gang",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Eternal Esports",
+            "team_b": "Ninguém Segura",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Bounty Hunters",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "New Heights Gaming",
+            "team_b": "Oddyssey",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Olimpo Squad",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Acre Lovers",
+            "team_b": "MTZ",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Exilados",
+            "team_b": "Terceira Idade",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ultra Hardcore",
+            "team_b": "OCX Division",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ge4r",
+            "team_b": "Destiny Esports",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "XBlood Zero",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dropeados 2026",
+            "team_b": "Six Seven",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Os Kabas",
+            "team_b": "Os Chimpanzés",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Peek",
+            "team_b": "Rapositas",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Concolores",
+            "team_b": "Acre Lovers",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Skibidi Sigmas",
+            "team_b": "Terceira Idade",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "GeO Esports",
+            "team_b": "OCX Division",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Goats",
+            "team_b": "Destiny Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Enosis eSports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Império Esports",
+            "team_b": "Six Seven",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natare Six",
+            "team_b": "Os Chimpanzés",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Fenrir Gaming",
+            "team_b": "Rapositas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Acre Lovers",
+            "team_b": "Terceira Idade",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "GeO Esports",
+            "team_b": "Destiny Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Six Seven",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natare Six",
+            "team_b": "Fenrir Gaming",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Oddyssey",
+            "team_b": "Acre Lovers",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "GeO Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Eternal Esports",
+            "team_b": "Zurita Gang",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Natare Six",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}
