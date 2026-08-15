@@ -1,0 +1,199 @@
+{
+    "event_id": "china_2026_may_finals",
+    "name": "2026 Chinese Mainland Finals",
+    "date": "2026-07-25",
+    "region": "China",
+    "event_type": "china_2026_finals",
+    "rosters": {
+        "Ace Xero": [
+            "Galaxy",
+            "David (Chinese player)",
+            "Coldrink"
+        ],
+        "Toxic Lotus": [
+            "Engine",
+            "OU",
+            "TOC"
+        ],
+        "Last Hope Fire": [
+            "Story",
+            "Lightstar",
+            "唯爱"
+        ],
+        "TOC": [
+            "DiuQiang",
+            "DynaMike",
+            "XPR"
+        ],
+        "TIG Revival": [
+            "丸子头",
+            "LOAF4R",
+            "Linglin"
+        ],
+        "SMDY": [
+            "Sodaa",
+            "Fengou",
+            "Clear"
+        ],
+        "IrisOut": [
+            "Valentine",
+            "Expression",
+            "下山"
+        ],
+        "Dark Spirit": [
+            "10kyears",
+            "Decatree",
+            "Nagi"
+        ]
+    },
+    "placements": {
+        "1": [
+            "TOC"
+        ],
+        "2": [
+            "Ace Xero"
+        ],
+        "3": [
+            "Toxic Lotus"
+        ],
+        "4": [
+            "IrisOut"
+        ],
+        "5-6": [
+            "Dark Spirit",
+            "SMDY"
+        ],
+        "7-8": [
+            "TIG Revival",
+            "Last Hope Fire"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Ace Xero",
+            "team_b": "Dark Spirit",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TOC",
+            "team_b": "TIG Revival",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dark Spirit",
+            "team_b": "TIG Revival",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ace Xero",
+            "team_b": "TOC",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TOC",
+            "team_b": "Dark Spirit",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TIG Revival",
+            "team_b": "Ace Xero",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Toxic Lotus",
+            "team_b": "IrisOut",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Last Hope Fire",
+            "team_b": "SMDY",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "IrisOut",
+            "team_b": "SMDY",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Toxic Lotus",
+            "team_b": "Last Hope Fire",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Last Hope Fire",
+            "team_b": "IrisOut",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SMDY",
+            "team_b": "Toxic Lotus",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TOC",
+            "team_b": "IrisOut",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Toxic Lotus",
+            "team_b": "Ace Xero",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TOC",
+            "team_b": "Ace Xero",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "IrisOut",
+            "team_b": "Toxic Lotus",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ace Xero",
+            "team_b": "Toxic Lotus",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TOC",
+            "team_b": "Ace Xero",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}

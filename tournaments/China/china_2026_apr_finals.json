@@ -1,0 +1,118 @@
+{
+    "event_id": "china_2026_apr_finals",
+    "name": "April 2026 Chinese Mainland Monthly Finals",
+    "date": "2026-04-18",
+    "region": "China",
+    "event_type": "china_2026_monthly_finals",
+    "rosters": {
+        "Ace Xero": [
+            "Galaxy",
+            "David (Chinese player)",
+            "Nagi"
+        ],
+        "Mimimi": [
+            "小天",
+            "Artist",
+            "灰度"
+        ],
+        "Toxic Lotus": [
+            "Engine",
+            "OU",
+            "TOC"
+        ],
+        "Nihilum": [
+            "Lightstar",
+            "Coldrink",
+            "Story"
+        ],
+        "TIG Revival": [
+            "丸子头",
+            "LOAF4R",
+            "Linglin"
+        ],
+        "IrisOut": [
+            "Valentine",
+            "花緑青",
+            "下山"
+        ],
+        "AWSL": [
+            "命运之轮",
+            "若水",
+            "AXB"
+        ],
+        "ESF": [
+            "Sodaa",
+            "Fengou",
+            "Clear"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Ace Xero"
+        ],
+        "2": [
+            "TIG Revival"
+        ],
+        "3-4": [
+            "Toxic Lotus",
+            "ESF"
+        ],
+        "5-8": [
+            "IrisOut",
+            "Mimimi",
+            "TIG Revival",
+            "AWSL"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Ace Xero",
+            "team_b": "Mimimi",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Toxic Lotus",
+            "team_b": "Nihilum",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TIG Revival",
+            "team_b": "IrisOut",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "AWSL",
+            "team_b": "ESF",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ace Xero",
+            "team_b": "Toxic Lotus",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TIG Revival",
+            "team_b": "ESF",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ace Xero",
+            "team_b": "TIG Revival",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}
