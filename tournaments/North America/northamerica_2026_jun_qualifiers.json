@@ -1,0 +1,581 @@
+{
+    "event_id": "northamerica_2026_jun_qualifiers",
+    "name": "June 2026 North America Monthly Qualifier",
+    "date": "2026-06-07",
+    "region": "North America",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "Tribe Gaming": [
+            "Diegogamer",
+            "RBM",
+            "Lxffy"
+        ],
+        "Only Realm": [
+            "bobby",
+            "sans",
+            "Patchy"
+        ],
+        "Team Elektros": [
+            "snoiy",
+            "Memen",
+            "Doin"
+        ],
+        "Vatic Esports": [
+            "Ezlivi",
+            "duckie",
+            "Belal"
+        ],
+        "Nova Esports": [
+            "Kirito",
+            "Roledu",
+            "PaiN"
+        ],
+        "F/A Homeless": [
+            "Tyrant",
+            "Xemp",
+            "Ducky"
+        ],
+        "Vic Day": [
+            "vegeta",
+            "tacos",
+            "Chino"
+        ],
+        "Legacy Esports": [
+            "Zeus",
+            "Zoulan",
+            "Rafiki"
+        ],
+        "Only Realm Academy": [
+            "Winq",
+            "Junnie",
+            "Nerf"
+        ],
+        "David's Aura": [
+            "GODNOOB",
+            "David (Venezuelan player)",
+            "Razuen"
+        ],
+        "Nameless": [
+            "Zee",
+            "vSxolar",
+            "KayJayOh"
+        ],
+        "Ratalyanys": [
+            "Alyanys",
+            "Diegofr",
+            "Squeezy"
+        ],
+        "Lime": [
+            "Pierre",
+            "Lukiebear",
+            "Pika (American player)"
+        ],
+        "Fear Esports": [
+            "XngelFire",
+            "Flame",
+            "Tinkaton"
+        ],
+        "Legacy Academy": [
+            "Polone",
+            "DarkWolf",
+            "Akeno"
+        ],
+        "NLS eSports NA": [
+            "Samuelito",
+            "Diegwv",
+            "Lynnxz"
+        ],
+        "Momo": [
+            "OG",
+            "secondbest",
+            "Juice Box"
+        ],
+        "FPS": [
+            "Joof",
+            "Jack",
+            "Rudra"
+        ],
+        "Washed Uncs": [
+            "Aquaz",
+            "Chuky",
+            "FlxwLess"
+        ],
+        "GOON GANG": [
+            "hi",
+            "MochMan",
+            "caker jerks"
+        ],
+        "MX Academy": [
+            "Sovereign",
+            "JackyLovexGJ",
+            "Zelax"
+        ],
+        "68": [
+            "Nayt",
+            "草莓冰淇淋",
+            "Panke"
+        ],
+        "F/A twilight": [
+            "sunnyy",
+            "Optical",
+            "Ramen"
+        ],
+        "Tank Team": [
+            "Criztopher",
+            "Madrid",
+            "TrustMyTank"
+        ],
+        "tacos and rice": [
+            "INOOBY",
+            "Marcelo",
+            "QuantumPhysi"
+        ],
+        "RedFlower": [
+            "Rexz",
+            "Sergioo",
+            "Isaias"
+        ],
+        "Acusticguyss": [
+            "Mau",
+            "200 Full Cx",
+            "Kraken_Perzival"
+        ],
+        "Axolotl eSports": [
+            "Jeff",
+            "Alee",
+            "zMazago"
+        ],
+        "West Coast": [
+            "Shine",
+            "Lotex",
+            "Ryven"
+        ],
+        "2 rice and 1 bean": [
+            "Adan",
+            "白衣胜雪谪仙人",
+            "小白"
+        ],
+        "ZillaChubs": [
+            "Toonix",
+            "Torkarl",
+            "Yoshii"
+        ],
+        "horrendous at 82-0": [
+            "BrriN",
+            "darklordbrd",
+            "Dan"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "Vic Day",
+            "Vatic Esports",
+            "Team Elektros",
+            "Tribe Gaming"
+        ],
+        "5-8": [
+            "Only Realm",
+            "Only Realm Academy",
+            "Legacy Esports",
+            "Legacy Academy"
+        ],
+        "9-12": [
+            "Nova Esports",
+            "David's Aura",
+            "F/A Homeless",
+            "Momo"
+        ],
+        "13-16": [
+            "horrendous at 82-0",
+            "RedFlower",
+            "F/A twilight",
+            "Ratalyanys"
+        ],
+        "17-24": [
+            "FPS",
+            "MX Academy",
+            "Lime",
+            "Tank Team",
+            "NLS eSports NA",
+            "Axolotl eSports",
+            "2 rice and 1 bean",
+            "Nameless"
+        ],
+        "25-32": [
+            "Washed Uncs",
+            "GOON GANG",
+            "68",
+            "tacos and rice",
+            "Fear Esports",
+            "Acusticguyss",
+            "West Coast",
+            "ZillaChubs"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "FPS",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ratalyanys",
+            "team_b": "Washed Uncs",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "GOON GANG",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm Academy",
+            "team_b": "MX Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "68",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Lime",
+            "team_b": "F/A twilight",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nova Esports",
+            "team_b": "Tank Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NLS eSports NA",
+            "team_b": "tacos and rice",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm",
+            "team_b": "Momo",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Fear Esports",
+            "team_b": "RedFlower",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "Acusticguyss",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "David's Aura",
+            "team_b": "Axolotl eSports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "West Coast",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Academy",
+            "team_b": "2 rice and 1 bean",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Homeless",
+            "team_b": "ZillaChubs",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "horrendous at 82-0",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Ratalyanys",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Only Realm Academy",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Legacy Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nova Esports",
+            "team_b": "NLS eSports NA",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Momo",
+            "team_b": "RedFlower",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "David's Aura",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Legacy Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Homeless",
+            "team_b": "horrendous at 82-0",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Only Realm Academy",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Nova Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Momo",
+            "team_b": "Vic Day",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "F/A Homeless",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FPS",
+            "team_b": "Washed Uncs",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "GOON GANG",
+            "team_b": "MX Academy",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "68",
+            "team_b": "Lime",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tank Team",
+            "team_b": "tacos and rice",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm",
+            "team_b": "Fear Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Acusticguyss",
+            "team_b": "Axolotl eSports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "West Coast",
+            "team_b": "2 rice and 1 bean",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZillaChubs",
+            "team_b": "Nameless",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "horrendous at 82-0",
+            "team_b": "FPS",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Academy",
+            "team_b": "MX Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "David's Aura",
+            "team_b": "Lime",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "RedFlower",
+            "team_b": "Tank Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NLS eSports NA",
+            "team_b": "Only Realm",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A twilight",
+            "team_b": "Axolotl eSports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "2 rice and 1 bean",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ratalyanys",
+            "team_b": "Nameless",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "horrendous at 82-0",
+            "team_b": "Legacy Academy",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "David's Aura",
+            "team_b": "RedFlower",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm",
+            "team_b": "F/A twilight",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Ratalyanys",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nova Esports",
+            "team_b": "Legacy Academy",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm Academy",
+            "team_b": "David's Aura",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Homeless",
+            "team_b": "Only Realm",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Momo",
+            "team_b": "Legacy Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

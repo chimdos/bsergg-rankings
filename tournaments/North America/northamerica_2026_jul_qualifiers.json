@@ -1,0 +1,581 @@
+{
+    "event_id": "northamerica_2026_jul_qualifiers",
+    "name": "July 2026 North America Monthly Qualifier",
+    "date": "2026-07-05",
+    "region": "North America",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "Tribe Gaming": [
+            "Diegogamer",
+            "RBM",
+            "Lxffy"
+        ],
+        "Team Elektros": [
+            "snoiy",
+            "Memen",
+            "Doin"
+        ],
+        "F/A Bobby": [
+            "bobby",
+            "sans",
+            "Patchy"
+        ],
+        "Vatic Esports": [
+            "Ezlivi",
+            "duckie",
+            "Belal"
+        ],
+        "Nova Esports": [
+            "Kirito",
+            "Squeezy",
+            "PaiN"
+        ],
+        "Vic Day": [
+            "vegeta",
+            "tacos",
+            "Chino"
+        ],
+        "F/A Homeless": [
+            "Tyrant",
+            "Rafiki",
+            "Ducky"
+        ],
+        "Legacy Esports": [
+            "Zeus",
+            "Zoulan",
+            "Xemp"
+        ],
+        "Utopia": [
+            "Winq",
+            "Junnie",
+            "Nerf"
+        ],
+        "David's Aura": [
+            "GODNOOB",
+            "David (Venezuelan player)",
+            "Razuen"
+        ],
+        "Nameless": [
+            "Zee",
+            "vSxolar",
+            "KayJayOh"
+        ],
+        "Monterrey F/A": [
+            "Samuelito",
+            "Jared",
+            "Grezze"
+        ],
+        "Legacy Academy": [
+            "Polone",
+            "DarkWolf",
+            "Akeno"
+        ],
+        "Lime": [
+            "Pierre",
+            "Lukiebear",
+            "Pika (American player)"
+        ],
+        "RedFlower": [
+            "Rexz",
+            "Sergioo",
+            "Isaias"
+        ],
+        "MX Team": [
+            "Henry",
+            "Pacho",
+            "Mayito"
+        ],
+        "Pioladores": [
+            "Pollo",
+            "Togi",
+            "Kaoruko Waguri"
+        ],
+        "tacos and rice": [
+            "INOOBY",
+            "Marcelo",
+            "QuantumPhysi"
+        ],
+        "Cursed Energy": [
+            "ElTioLako",
+            "P3neGordo",
+            "Seb"
+        ],
+        "polles aura": [
+            "Polle",
+            "Metroplex",
+            "Toonix"
+        ],
+        "Mathgamer's Aura": [
+            "Math",
+            "Diegofr",
+            "Osva"
+        ],
+        "AS Roma": [
+            "Strong",
+            "Rexo",
+            "Gabo"
+        ],
+        "Hungry Wolves": [
+            "Juanito",
+            "Skillzz",
+            "Snackerz"
+        ],
+        "Momo": [
+            "OG",
+            "secondbest",
+            "sunnyy"
+        ],
+        "Mommy's good boys": [
+            "hontoreta",
+            "Yea-ji",
+            "Joof"
+        ],
+        "Horrendous at 82-0": [
+            "BrriN",
+            "darklordbrd",
+            "Dan"
+        ],
+        "Xelozias": [
+            "Xleoz",
+            "Lether",
+            "Manu"
+        ],
+        "Artist'S": [
+            "Russo",
+            "Kuroka",
+            "Yoshii"
+        ],
+        "Eternal": [
+            "Alyanys",
+            "Frixi",
+            "Betuchiz"
+        ],
+        "REVERB": [
+            "Oseas",
+            "RetroDoge",
+            "fishi kravits"
+        ],
+        "Worlds 2027": [
+            "Sawk",
+            "Hilo",
+            "Josh"
+        ],
+        "Ping Warriors": [
+            "Lotus",
+            "Kyric",
+            "Ramen"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "F/A Homeless",
+            "Vatic Esports",
+            "Team Elektros",
+            "Tribe Gaming"
+        ],
+        "5-8": [
+            "Momo",
+            "Vic Day",
+            "David's Aura",
+            "Legacy Esports"
+        ],
+        "9-12": [
+            "Monterrey F/A",
+            "Nameless",
+            "F/A Bobby",
+            "Utopia"
+        ],
+        "13-16": [
+            "Lime",
+            "MX Team",
+            "Nova Esports",
+            "Worlds 2027"
+        ],
+        "17-24": [
+            "RedFlower",
+            "Pioladores",
+            "polles aura",
+            "Mathgamer's Aura",
+            "Hungry Wolves",
+            "Mommy's good boys",
+            "Artist'S",
+            "Eternal"
+        ],
+        "25-32": [
+            "tacos and rice",
+            "Cursed Energy",
+            "AS Roma",
+            "Legacy Academy",
+            "Horrendous at 82-0",
+            "Xelozias",
+            "REVERB",
+            "Ping Warriors"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Pioladores",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "RedFlower",
+            "team_b": "tacos and rice",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Utopia",
+            "team_b": "Cursed Energy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "David's Aura",
+            "team_b": "polles aura",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Mathgamer's Aura",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nova Esports",
+            "team_b": "AS Roma",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "Hungry Wolves",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Academy",
+            "team_b": "Momo",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Mommy's good boys",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MX Team",
+            "team_b": "Horrendous at 82-0",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Xelozias",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "Artist'S",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Bobby",
+            "team_b": "Eternal",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Lime",
+            "team_b": "REVERB",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Homeless",
+            "team_b": "Worlds 2027",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Monterrey F/A",
+            "team_b": "Ping Warriors",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "RedFlower",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Utopia",
+            "team_b": "David's Aura",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Nova Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "Momo",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "MX Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Nameless",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Bobby",
+            "team_b": "Lime",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Homeless",
+            "team_b": "Monterrey F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "David's Aura",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Momo",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Legacy Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Bobby",
+            "team_b": "F/A Homeless",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pioladores",
+            "team_b": "tacos and rice",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Cursed Energy",
+            "team_b": "polles aura",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Mathgamer's Aura",
+            "team_b": "AS Roma",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Hungry Wolves",
+            "team_b": "Legacy Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Mommy's good boys",
+            "team_b": "Horrendous at 82-0",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Xelozias",
+            "team_b": "Artist'S",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Eternal",
+            "team_b": "REVERB",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Worlds 2027",
+            "team_b": "Ping Warriors",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Monterrey F/A",
+            "team_b": "Pioladores",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Lime",
+            "team_b": "polles aura",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "Mathgamer's Aura",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MX Team",
+            "team_b": "Hungry Wolves",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "Mommy's good boys",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nova Esports",
+            "team_b": "Artist'S",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Utopia",
+            "team_b": "Eternal",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "RedFlower",
+            "team_b": "Worlds 2027",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Monterrey F/A",
+            "team_b": "Lime",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "MX Team",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "Nova Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Utopia",
+            "team_b": "Worlds 2027",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Momo",
+            "team_b": "Monterrey F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "David's Aura",
+            "team_b": "Nameless",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Bobby",
+            "team_b": "Vic Day",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Utopia",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}

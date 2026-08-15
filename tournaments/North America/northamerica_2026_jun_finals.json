@@ -1,0 +1,118 @@
+{
+    "event_id": "northamerica_2026_jun_finals",
+    "name": "June 2026 North America Monthly Finals",
+    "date": "2026-06-21",
+    "region": "North America",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "Tribe Gaming": [
+            "Diegogamer",
+            "Lxffy",
+            "RBM"
+        ],
+        "Vatic Esports": [
+            "Ezlivi",
+            "duckie",
+            "Belal"
+        ],
+        "Team Elektros": [
+            "snoiy",
+            "Doin",
+            "Memen"
+        ],
+        "F/A Homeless": [
+            "Ducky",
+            "Tyrant",
+            "Rafiki"
+        ],
+        "Momo": [
+            "sunnyy",
+            "secondbest",
+            "OG"
+        ],
+        "Vic Day": [
+            "vegeta",
+            "Chino",
+            "tacos"
+        ],
+        "David's Aura": [
+            "GODNOOB",
+            "David (Venezuelan player)",
+            "Razuen"
+        ],
+        "Legacy Esports": [
+            "Xemp",
+            "Zeus",
+            "Zoulan"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Team Elektros"
+        ],
+        "2": [
+            "Tribe Gaming"
+        ],
+        "3-4": [
+            "F/A Homeless",
+            "Vatic Esports"
+        ],
+        "5-8": [
+            "Momo",
+            "David's Aura",
+            "Legacy Esports",
+            "Vic Day"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Nova Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "F/A Bobby",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Utopia",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Legacy Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "F/A Bobby",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Vatic Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Team Elektros",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

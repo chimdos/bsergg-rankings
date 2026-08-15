@@ -1,0 +1,118 @@
+{
+    "event_id": "northamerica_2026_mar_finals",
+    "name": "March 2026 North America Monthly Finals",
+    "date": "2026-03-22",
+    "region": "North America",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "Team Elektros": [
+            "snoiy",
+            "Doin",
+            "Memen"
+        ],
+        "Only Realm NA": [
+            "bobby",
+            "sans",
+            "Patchy"
+        ],
+        "Vatic Esports": [
+            "Ezlivi",
+            "duckie",
+            "Belal"
+        ],
+        "Vic Day": [
+            "vegeta",
+            "secondbest (sub)",
+            "OG"
+        ],
+        "Enosis eSports": [
+            "Kirito",
+            "GODNOOB",
+            "Math"
+        ],
+        "ZOOS Esports": [
+            "Tyrant",
+            "Ducky",
+            "Xemp"
+        ],
+        "Tribe Gaming": [
+            "Diegogamer",
+            "Lxffy",
+            "RBM"
+        ],
+        "Legacy Esports": [
+            "Winq",
+            "Nerf",
+            "Zoulan (sub)"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Only Realm NA"
+        ],
+        "2": [
+            "Tribe Gaming"
+        ],
+        "3-4": [
+            "Team Elektros",
+            "ZOOS Esports"
+        ],
+        "5-8": [
+            "Enosis eSports",
+            "Vatic Esports",
+            "Legacy Esports",
+            "Vic Day"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Enosis eSports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Tribe Gaming",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm NA",
+            "team_b": "Legacy Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "ZOOS Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Tribe Gaming",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm NA",
+            "team_b": "ZOOS Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Only Realm NA",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

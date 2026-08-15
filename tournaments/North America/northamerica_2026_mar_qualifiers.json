@@ -1,0 +1,581 @@
+{
+    "event_id": "northamerica_2026_mar_qualifiers",
+    "name": "March 2026 North America Monthly Qualifier",
+    "date": "2026-03-08",
+    "region": "North America",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "Team Elektros": [
+            "snoiy",
+            "Memen",
+            "Doin"
+        ],
+        "STMN Esports": [
+            "PaiN",
+            "tacos",
+            "Juan Carlos"
+        ],
+        "F/A Bobby": [
+            "bobby",
+            "sans",
+            "Patchy"
+        ],
+        "Tribe Gaming": [
+            "Diegogamer",
+            "RBM",
+            "Lxffy"
+        ],
+        "ZOOS Esports": [
+            "Tyrant",
+            "Xemp",
+            "Ducky"
+        ],
+        "Vatic Esports": [
+            "Ezlivi",
+            "duckie",
+            "Belal"
+        ],
+        "F/A Ouioui": [
+            "David (Venezuelan player)",
+            "Nathan",
+            "Razuen"
+        ],
+        "Vic Day": [
+            "vegeta",
+            "OG",
+            "Steel"
+        ],
+        "MX Team": [
+            "Resicstine",
+            "Berenjena",
+            "Snk (Mexican player)"
+        ],
+        "Legacy Esports": [
+            "Winq",
+            "Junnie",
+            "Nerf"
+        ],
+        "ZZS F/A": [
+            "Zeus",
+            "Zoulan",
+            "secondbest"
+        ],
+        "PTSD": [
+            "Zhar",
+            "Chino",
+            "Evex"
+        ],
+        "Crows Nest Academy": [
+            "Jaredsito",
+            "Prodigy",
+            "Ojita"
+        ],
+        "Mathgamerbs Aura": [
+            "Kirito",
+            "Math",
+            "GODNOOB"
+        ],
+        "Lime": [
+            "Pierre",
+            "Lukiebear",
+            "Pika (American player)"
+        ],
+        "Nameless": [
+            "Zee",
+            "Square",
+            "KayJayOh"
+        ],
+        "NETANYAHU": [
+            "BrriN",
+            "Jasonbub",
+            "St"
+        ],
+        "NLS eSports NA": [
+            "Samuelito",
+            "Diegwv",
+            "Lynnxz"
+        ],
+        "Blossoming Lotus": [
+            "Rudra",
+            "SaltyApple",
+            "Plzgivemyaccbac"
+        ],
+        "power puff girls": [
+            "Adan",
+            "Santi",
+            "hontoreta"
+        ],
+        "BC* Gaming Academy": [
+            "sunnyy",
+            "ToxicAsher",
+            "Optical"
+        ],
+        "Sad Raccoons": [
+            "Polone",
+            "Carlos",
+            "Akeno"
+        ],
+        "Overlooked Ent.": [
+            "Nayt",
+            "Hub",
+            "Spizy"
+        ],
+        "Axolotl eSports": [
+            "ByAvtre",
+            "JuanCaballo",
+            "Anzety"
+        ],
+        "AFKS": [
+            "vSxolar",
+            "Tempest",
+            "jp"
+        ],
+        "Fear Esports": [
+            "XngelFire",
+            "Flame",
+            "Tinkaton"
+        ],
+        "SGA": [
+            "Jumpy",
+            "Sleeper",
+            "Pat"
+        ],
+        "Nova F/A": [
+            "Alyanys",
+            "Diegofr",
+            "Squeezy"
+        ],
+        "Quick X": [
+            "Manuel",
+            "Ram",
+            "Daniiz"
+        ],
+        "WBB Esports": [
+            "Tyreze",
+            "Shadow (North American player)",
+            "Lugia"
+        ],
+        "Legacy Academy": [
+            "Pandaa",
+            "Juice Box",
+            "Plug"
+        ],
+        "StarBoyz": [
+            "NewLacasito",
+            "Rally_draco",
+            "Yorchi"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "F/A Bobby",
+            "Vatic Esports",
+            "Team Elektros",
+            "Vic Day"
+        ],
+        "5-8": [
+            "Tribe Gaming",
+            "Mathgamerbs Aura",
+            "ZOOS Esports",
+            "Legacy Esports"
+        ],
+        "9-12": [
+            "ZZS F/A",
+            "STMN Esports",
+            "Nameless",
+            "Nova Esports"
+        ],
+        "13-16": [
+            "F/A Ouioui",
+            "power puff girls",
+            "Overlooked Ent.",
+            "Legacy Academy"
+        ],
+        "17-24": [
+            "Starboyz",
+            "WBB Esports",
+            "Crows Nest Academy",
+            "Sad Raccoons",
+            "NLS eSports NA",
+            "BC* Gaming Academy",
+            "Fear Esports",
+            "Quick X"
+        ],
+        "25-32": [
+            "NETANYAHU",
+            "Blossoming Lotus",
+            "Lime",
+            "Axolotl eSports",
+            "AFKS",
+            "SGA",
+            "PTSD",
+            "MX Team"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Team Elektros",
+            "team_b": "NETANYAHU",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "NLS eSports NA",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZOOS Esports",
+            "team_b": "Blossoming Lotus",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "power puff girls",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Bobby",
+            "team_b": "BC* Gaming Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Lime",
+            "team_b": "Sad Raccoons",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Ouioui",
+            "team_b": "Overlooked Ent.",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Mathgamerbs Aura",
+            "team_b": "Axolotl eSports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "STMN Esports",
+            "team_b": "AFKS",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crows Nest Academy",
+            "team_b": "Fear Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "SGA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZZS F/A",
+            "team_b": "Nova Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Quick X",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "PTSD",
+            "team_b": "WBB Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "Legacy Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MX Team",
+            "team_b": "Starboyz",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "NLS eSports NA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZOOS Esports",
+            "team_b": "Legacy Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Bobby",
+            "team_b": "Sad Raccoons",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Ouioui",
+            "team_b": "Mathgamerbs Aura",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "STMN Esports",
+            "team_b": "Crows Nest Academy",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "ZZS F/A",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "WBB Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "Starboyz",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "ZOOS Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Bobby",
+            "team_b": "Mathgamerbs Aura",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "STMN Esports",
+            "team_b": "Vatic Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Vic Day",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NETANYAHU",
+            "team_b": "Nameless",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Blossoming Lotus",
+            "team_b": "power puff girls",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BC* Gaming Academy",
+            "team_b": "Lime",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Overlooked Ent.",
+            "team_b": "Axolotl eSports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "AFKS",
+            "team_b": "Fear Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SGA",
+            "team_b": "Nova Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Quick X",
+            "team_b": "PTSD",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Academy",
+            "team_b": "MX Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Starboyz",
+            "team_b": "Nameless",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "WBB Esports",
+            "team_b": "power puff girls",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZZS F/A",
+            "team_b": "BC* Gaming Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crows Nest Academy",
+            "team_b": "Overlooked Ent.",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Ouioui",
+            "team_b": "Fear Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sad Raccoons",
+            "team_b": "Nova Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Quick X",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NLS eSports NA",
+            "team_b": "Legacy Academy",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "power puff girls",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZZS F/A",
+            "team_b": "Overlooked Ent.",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Ouioui",
+            "team_b": "Nova Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Legacy Academy",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Mathgamerbs Aura",
+            "team_b": "Nameless",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZOOS Esports",
+            "team_b": "ZZS F/A",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Nova Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "STMN Esports",
+            "team_b": "Legacy Esports",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

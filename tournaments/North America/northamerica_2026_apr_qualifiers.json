@@ -1,0 +1,581 @@
+{
+    "event_id": "northamerica_2026_apr_qualifiers",
+    "name": "April 2026 North America Monthly Qualifier",
+    "date": "2026-04-05",
+    "region": "North America",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "Team Elektros": [
+            "snoiy",
+            "Memen",
+            "Doin"
+        ],
+        "Only Realm": [
+            "bobby",
+            "sans",
+            "Patchy"
+        ],
+        "Tribe Gaming": [
+            "Diegogamer",
+            "RBM",
+            "Lxffy"
+        ],
+        "STMN Esports": [
+            "PaiN",
+            "tacos",
+            "Juan Carlos"
+        ],
+        "ZOOS Esports": [
+            "Tyrant",
+            "Xemp",
+            "Ducky"
+        ],
+        "Vatic Esports": [
+            "Ezlivi",
+            "duckie",
+            "Belal"
+        ],
+        "Vic Day": [
+            "vegeta",
+            "OG",
+            "Steel"
+        ],
+        "Legacy Esports": [
+            "Winq",
+            "Junnie",
+            "Nerf"
+        ],
+        "Enosis eSports": [
+            "Kirito",
+            "Math",
+            "GODNOOB"
+        ],
+        "I'm Hungwy": [
+            "Zeus",
+            "Zoulan",
+            "Rafiki"
+        ],
+        "Nameless": [
+            "Zee",
+            "vSxolar",
+            "KayJayOh"
+        ],
+        "NLS eSports NA": [
+            "Samuelito",
+            "Diegwv",
+            "Lynnxz"
+        ],
+        "Lime": [
+            "Pierre",
+            "Lukiebear",
+            "Pika (American player)"
+        ],
+        "Fear Esports": [
+            "XngelFire",
+            "Flame",
+            "Tinkaton"
+        ],
+        "Ohio": [
+            "Bryan (North American player)",
+            "DarkFire",
+            "D2"
+        ],
+        "Sad Raccoons": [
+            "Polone",
+            "Carlos",
+            "Akeno"
+        ],
+        "Pura Doble S": [
+            "Sebii",
+            "Saul",
+            "God"
+        ],
+        "Nova F/A": [
+            "Alyanys",
+            "Diegofr",
+            "Squeezy"
+        ],
+        "Toxic Lotusss": [
+            "獾仔獾奶",
+            "TriangleStar",
+            "雲開星落影成雙"
+        ],
+        "MX Academy": [
+            "Rexz",
+            "Sergioo",
+            "Isaias"
+        ],
+        "Cachorritas": [
+            "Nikkyy",
+            "Areks",
+            "Nitto"
+        ],
+        "Plew": [
+            "Juice Box",
+            "Haerin",
+            "Jarvis"
+        ],
+        "F/A Ouioui": [
+            "Razuen",
+            "David (Venezuelan player)",
+            "Banny"
+        ],
+        "Overlooked Ent.": [
+            "Nayt",
+            "Hub",
+            "Spizy"
+        ],
+        "Travesaños": [
+            "Garchi",
+            "Meatboy",
+            "Arthur Morgan"
+        ],
+        "YF7 Esport": [
+            "Rally_draco",
+            "Yorchi",
+            "NewLacasito"
+        ],
+        "BC* Gaming Academy": [
+            "sunnyy",
+            "Optical",
+            "Ramen"
+        ],
+        "Washed Uncs": [
+            "Aquaz",
+            "Chuky",
+            "FlxwLess"
+        ],
+        "frog": [
+            "Henry",
+            "Pacho",
+            "Mayito"
+        ],
+        "MT Academy": [
+            "Panke",
+            "Ale",
+            "Ra3he"
+        ],
+        "Quick X": [
+            "Manuel",
+            "Ram",
+            "Daniiz"
+        ],
+        "2026": [
+            "Sebas49",
+            "X_X",
+            "le Shou"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "Only Realm",
+            "Vatic Esports",
+            "Team Elektros",
+            "Tribe Gaming"
+        ],
+        "5-8": [
+            "Vic Day",
+            "STMN Esports",
+            "I'm Hungwy",
+            "Vatic Esports"
+        ],
+        "9-12": [
+            "Enosis eSports",
+            "Legacy Esports",
+            "Nameless",
+            "BC* Gaming Academy"
+        ],
+        "13-16": [
+            "F/A Ouioui",
+            "frog",
+            "NLS eSports NA",
+            "Nova Esports"
+        ],
+        "17-24": [
+            "Sad Raccoons",
+            "Plew",
+            "Pura Doble S",
+            "MX Academy",
+            "Cachorritas",
+            "Travesaños",
+            "Fear Esports",
+            "MT Academy"
+        ],
+        "25-32": [
+            "Ohio",
+            "Toxic Lotusss",
+            "Lime",
+            "Overlooked Ent.",
+            "YF7 Esport",
+            "Washed Uncs",
+            "2026",
+            "Quick X"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Pura Doble S",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ohio",
+            "team_b": "Nova Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Toxic Lotusss",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "MX Academy",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "STMN Esports",
+            "team_b": "Cachorritas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Lime",
+            "team_b": "Plew",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZOOS Esports",
+            "team_b": "F/A Ouioui",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NLS eSports NA",
+            "team_b": "Overlooked Ent.",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm",
+            "team_b": "Travesaños",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sad Raccoons",
+            "team_b": "YF7 Esport",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "BC* Gaming Academy",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "I'm Hungwy",
+            "team_b": "Washed Uncs",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "2026",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Fear Esports",
+            "team_b": "frog",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "MT Academy",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "Quick X",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Nova Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Enosis eSports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "STMN Esports",
+            "team_b": "Plew",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZOOS Esports",
+            "team_b": "NLS eSports NA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm",
+            "team_b": "Sad Raccoons",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "I'm Hungwy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "frog",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "Nameless",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Legacy Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "STMN Esports",
+            "team_b": "ZOOS Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm",
+            "team_b": "Vatic Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Vic Day",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pura Doble S",
+            "team_b": "Ohio",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Toxic Lotusss",
+            "team_b": "MX Academy",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Cachorritas",
+            "team_b": "Lime",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Ouioui",
+            "team_b": "Overlooked Ent.",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Travesaños",
+            "team_b": "YF7 Esport",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BC* Gaming Academy",
+            "team_b": "Washed Uncs",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "2026",
+            "team_b": "Fear Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MT Academy",
+            "team_b": "Quick X",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "Pura Doble S",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "frog",
+            "team_b": "MX Academy",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "I'm Hungwy",
+            "team_b": "Cachorritas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sad Raccoons",
+            "team_b": "F/A Ouioui",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NLS eSports NA",
+            "team_b": "Travesaños",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Plew",
+            "team_b": "BC* Gaming Academy",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "Fear Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nova Esports",
+            "team_b": "MT Academy",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "frog",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "I'm Hungwy",
+            "team_b": "F/A Ouioui",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NLS eSports NA",
+            "team_b": "BC* Gaming Academy",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "Nova Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "STMN Esports",
+            "team_b": "Nameless",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "I'm Hungwy",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vic Day",
+            "team_b": "BC* Gaming Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Enosis eSports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}

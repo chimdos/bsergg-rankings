@@ -1,0 +1,118 @@
+{
+    "event_id": "northamerica_2026_apr_finals",
+    "name": "April 2026 North America Monthly Finals",
+    "date": "2026-04-19",
+    "region": "North America",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "Team Elektros": [
+            "snoiy",
+            "Doin",
+            "Memen"
+        ],
+        "F/A Homeless": [
+            "Tyrant",
+            "Ducky",
+            "Xemp"
+        ],
+        "Only Realm": [
+            "bobby",
+            "sans",
+            "Patchy"
+        ],
+        "Tribe Gaming": [
+            "Diegogamer",
+            "Lxffy",
+            "RBM"
+        ],
+        "STMN Esports": [
+            "tacos",
+            "PaiN",
+            "Juan Carlos"
+        ],
+        "Legacy Esports": [
+            "Rafiki",
+            "Zeus",
+            "Zoulan"
+        ],
+        "Vic Day": [
+            "vegeta",
+            "Chino (sub)",
+            "OG"
+        ],
+        "Vatic Esports": [
+            "Ezlivi",
+            "duckie",
+            "Belal"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Vatic Esports"
+        ],
+        "2": [
+            "Tribe Gaming"
+        ],
+        "3-4": [
+            "Legacy Esports",
+            "Only Realm"
+        ],
+        "5-8": [
+            "Team Elektros",
+            "F/A Homeless",
+            "STMN Esports",
+            "Vic Day"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Legacy Esports",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Homeless",
+            "team_b": "Vatic Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm",
+            "team_b": "Vic Day",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "STMN Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Vatic Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm",
+            "team_b": "Tribe Gaming",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Tribe Gaming",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}

@@ -1,0 +1,581 @@
+{
+    "event_id": "northamerica_2026_feb_qualifiers",
+    "name": "February 2026 North America Monthly Qualifier",
+    "date": "2026-02-08",
+    "region": "North America",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "Tribe Gaming": [
+            "Diegogamer",
+            "RBM",
+            "Lxffy"
+        ],
+        "KDS Esports": [
+            "bobby",
+            "sans",
+            "Patchy"
+        ],
+        "PTSD": [
+            "Zhar",
+            "Chino",
+            "Evex"
+        ],
+        "ZZS F/A": [
+            "Zeus",
+            "Zoulan",
+            "secondbest"
+        ],
+        "STMN Esports": [
+            "PaiN",
+            "tacos",
+            "Juan Carlos"
+        ],
+        "Vatic Esports": [
+            "Ezlivi",
+            "Rafiki",
+            "Belal"
+        ],
+        "Crows Nest Esports": [
+            "Tyrant",
+            "Xemp",
+            "Alyanys"
+        ],
+        "Airpods": [
+            "BrriN",
+            "Bayarea",
+            "Kyric"
+        ],
+        "Big Talents": [
+            "Kirito",
+            "Math",
+            "GODNOOB"
+        ],
+        "Lime": [
+            "Pierre",
+            "Lukiebear",
+            "Pika (American player)"
+        ],
+        "Nameless": [
+            "Zee",
+            "Square",
+            "KayJayOh"
+        ],
+        "Cobra Jets": [
+            "Sprite",
+            "Black Dog",
+            "Kashmir"
+        ],
+        "BOW": [
+            "Nando",
+            "Wiza",
+            "Sushii"
+        ],
+        "Crimson Covenant": [
+            "Wacho",
+            "Chico",
+            "moomooguy"
+        ],
+        "Only Realm": [
+            "David (Venezuelan player)",
+            "Ducky",
+            "Razuen"
+        ],
+        "Crows Nest Academy": [
+            "Jaredsito",
+            "Prodigy",
+            "Ojita"
+        ],
+        "Fear Esports": [
+            "Xngelfire",
+            "Flame",
+            "Yogurr"
+        ],
+        "Ping Warriors": [
+            "Lotus",
+            "Dan",
+            "Davi Nahi"
+        ],
+        "BC* Gaming Academy": [
+            "Alex (American player)",
+            "sunnyy",
+            "Optical"
+        ],
+        "Natare Six NA": [
+            "PanPan",
+            "Popix",
+            "Grezze"
+        ],
+        "Ohio": [
+            "Bryan (North American player)",
+            "Ghoul",
+            "Noxysq"
+        ],
+        "Cori Daycare": [
+            "Cori",
+            "Cori Son",
+            "Oti"
+        ],
+        "JGA": [
+            "ByGary",
+            "Goldhand",
+            "Axelcrc"
+        ],
+        "Los Prietos": [
+            "Samuelito",
+            "Diegwv",
+            "Lynnxz"
+        ],
+        "Elevate": [
+            "vegeta",
+            "OG",
+            "duckie"
+        ],
+        "Z": [
+            "Jongass",
+            "Grass",
+            "Xander Z"
+        ],
+        "Team Elektros": [
+            "snoiy",
+            "Memen",
+            "Doin"
+        ],
+        "Da bois": [
+            "Connor",
+            "RavenOf8",
+            "Cosmiccoconut"
+        ],
+        "Skull Farmers": [
+            "Bullseye",
+            "Michael",
+            "BBYAJJ"
+        ],
+        "Utopia": [
+            "Winq",
+            "Nerf",
+            "Junnie"
+        ],
+        "MX Team": [
+            "Resicstine",
+            "Berenjena",
+            "Snk (Mexican player)"
+        ],
+        "The Degloved": [
+            "Joey",
+            "Darklordbrd",
+            "Panke"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "Tribe Gaming",
+            "STMN Esports",
+            "Team Elektros",
+            "KDS Esports"
+        ],
+        "5-8": [
+            "Vatic Esports",
+            "Only Realm",
+            "Crows Nest Esports",
+            "Elevate"
+        ],
+        "9-12": [
+            "Utopia",
+            "BC* Gaming Academy",
+            "ZZS F/A",
+            "MX Team"
+        ],
+        "13-16": [
+            "Lime",
+            "Big Talents",
+            "Crows Nest Academy",
+            "PTSD"
+        ],
+        "17-24": [
+            "Nameless",
+            "Los Prietos",
+            "Cori Daycare",
+            "Ping Warriors",
+            "Natare Six NA",
+            "BOW",
+            "JGA",
+            "Crimson Covenant"
+        ],
+        "25-32": [
+            "Fear Esports",
+            "Airpods",
+            "Ohio",
+            "Cobra Jets",
+            "Z",
+            "Da bois",
+            "Skull Farmers",
+            "The Degloved"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Fear Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crows Nest Academy",
+            "team_b": "Ping Warriors",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Airpods",
+            "team_b": "BC* Gaming Academy",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Big Talents",
+            "team_b": "Natare Six NA",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "STMN Esports",
+            "team_b": "Ohio",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BOW",
+            "team_b": "Cori Daycare",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "JGA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Cobra Jets",
+            "team_b": "Los Prietos",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZZS F/A",
+            "team_b": "Elevate",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm",
+            "team_b": "Z",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "PTSD",
+            "team_b": "Team Elektros",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Lime",
+            "team_b": "Da bois",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KDS Esports",
+            "team_b": "Skull Farmers",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crimson Covenant",
+            "team_b": "Utopia",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crows Nest Esports",
+            "team_b": "MX Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "The Degloved",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Ping Warriors",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BC* Gaming Academy",
+            "team_b": "Big Talents",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "STMN Esports",
+            "team_b": "Cori Daycare",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Los Prietos",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Elevate",
+            "team_b": "Only Realm",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Lime",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KDS Esports",
+            "team_b": "Utopia",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crows Nest Esports",
+            "team_b": "Nameless",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "BC* Gaming Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "STMN Esports",
+            "team_b": "Vatic Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Elevate",
+            "team_b": "Team Elektros",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KDS Esports",
+            "team_b": "Crows Nest Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Fear Esports",
+            "team_b": "Crows Nest Academy",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Airpods",
+            "team_b": "Natare Six NA",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ohio",
+            "team_b": "BOW",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "JGA",
+            "team_b": "Cobra Jets",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZZS F/A",
+            "team_b": "Z",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "PTSD",
+            "team_b": "Da bois",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Skull Farmers",
+            "team_b": "Crimson Covenant",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MX Team",
+            "team_b": "The Degloved",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "Crows Nest Academy",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Utopia",
+            "team_b": "Natare Six NA",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Lime",
+            "team_b": "BOW",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm",
+            "team_b": "JGA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Los Prietos",
+            "team_b": "ZZS F/A",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Cori Daycare",
+            "team_b": "PTSD",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Big Talents",
+            "team_b": "Crimson Covenant",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ping Warriors",
+            "team_b": "MX Team",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crows Nest Academy",
+            "team_b": "Utopia",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Lime",
+            "team_b": "Only Realm",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZZS F/A",
+            "team_b": "PTSD",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Big Talents",
+            "team_b": "MX Team",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Utopia",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BC* Gaming Academy",
+            "team_b": "Only Realm",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crows Nest Esports",
+            "team_b": "ZZS F/A",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Elevate",
+            "team_b": "MX Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}

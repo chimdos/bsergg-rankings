@@ -1,0 +1,118 @@
+{
+    "event_id": "northamerica_2026_feb_finals",
+    "name": "February 2026 North America Monthly Finals",
+    "date": "2026-02-22",
+    "region": "North America",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "Tribe Gaming": [
+            "Diegogamer",
+            "Lxffy",
+            "RBM"
+        ],
+        "STMN Esports": [
+            "PaiN",
+            "tacos",
+            "Juan Carlos"
+        ],
+        "Team Elektros": [
+            "snoiy",
+            "Doin",
+            "Memen"
+        ],
+        "KDS Esports": [
+            "bobby",
+            "sans",
+            "Patchy"
+        ],
+        "Vatic Esports": [
+            "Ezlivi",
+            "Rafiki",
+            "Belal"
+        ],
+        "Only Realm": [
+            "Ducky",
+            "Sam (sub)",
+            "David"
+        ],
+        "Crows Nest Esports": [
+            "Tyrant",
+            "Alyanys",
+            "Xemp"
+        ],
+        "Elevate": [
+            "vegeta",
+            "duckie",
+            "OG"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Team Elektros"
+        ],
+        "2": [
+            "STMN Esports"
+        ],
+        "3-4": [
+            "Tribe Gaming",
+            "KDS Esports"
+        ],
+        "5-8": [
+            "Elevate",
+            "Vatic Esports",
+            "Only Realm",
+            "Crows Nest Esports"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Elevate",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "Vatic Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KDS Esports",
+            "team_b": "Only Realm",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "STMN Esports",
+            "team_b": "Crows Nest Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Team Elektros",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KDS Esports",
+            "team_b": "STMN Esports",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "STMN Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}
