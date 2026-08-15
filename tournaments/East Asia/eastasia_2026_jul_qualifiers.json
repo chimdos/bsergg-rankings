@@ -1,0 +1,581 @@
+{
+    "event_id": "eastasia_2026_jul_qualifiers",
+    "name": "July 2026 East Asia Monthly Qualifier",
+    "date": "2026-07-05",
+    "region": "East Asia",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "ZETA DIVISION": [
+            "Batman",
+            "Sizuku",
+            "Sitetampo"
+        ],
+        "Crazy Raccoon": [
+            "Milkreo",
+            "Moya",
+            "Tensai"
+        ],
+        "SKCalalas EA": [
+            "Ghost T",
+            "Naipishu",
+            "Kuru"
+        ],
+        "Rival Esports": [
+            "Ryohei",
+            "Yutapin",
+            "Totoro"
+        ],
+        "FENNEL": [
+            "I see",
+            "Achapi",
+            "Ken-G"
+        ],
+        "REJECT": [
+            "Levi",
+            "Melty",
+            "Shu"
+        ],
+        "IGNUM": [
+            "Drake",
+            "Shigemyon",
+            "Nyades"
+        ],
+        "INSOMNIA": [
+            "Koga",
+            "Wahochi",
+            "Jene Azure"
+        ],
+        "Frenzy Esports": [
+            "Danshari",
+            "Toridesu",
+            "Ferkel"
+        ],
+        "AXIS e-Sports": [
+            "Terry",
+            "Yume",
+            "Menmi"
+        ],
+        "Team Falcons": [
+            "Sourin",
+            "YuKiMII",
+            "Sun"
+        ],
+        "Not Easy": [
+            "Geki",
+            "SunRise",
+            "Nelu215"
+        ],
+        "Frenzy Academy": [
+            "Owlcat",
+            "Rin",
+            "SHABANI"
+        ],
+        "私達の腰は相手が泣き出すまで止まりません": [
+            "ぴこもなか",
+            "てむぐら",
+            "TIQ.zo"
+        ],
+        "Be Humble": [
+            "Marin",
+            "Arahashi",
+            "Nabi"
+        ],
+        "モングラール建築": [
+            "もちのすけ",
+            "モコモコ羊ちゃん",
+            "ドブ枠じゅげむ"
+        ],
+        "No skill team": [
+            "無解通天代",
+            "Raphael",
+            "FatBear"
+        ],
+        "モーティス絶対使わないです": [
+            "Ponkey",
+            "Ater",
+            "midoronashi"
+        ],
+        "Nova:)Esports": [
+            "SAeMaX",
+            "Shigure",
+            "San"
+        ],
+        "タバスコ愛好家": [
+            "FCX-belover",
+            "アルス",
+            "がじゅまる"
+        ],
+        "無職透明": [
+            "雪見@24時間営業",
+            "Wakudori",
+            "右下のボタン"
+        ],
+        "すたんぷりぷりざえもん": [
+            "すみぃのスタ",
+            "Taku",
+            "ブロスタプレイヤー"
+        ],
+        "T5S": [
+            "Sanikama",
+            "Yamasukes",
+            "Tessar"
+        ],
+        "チーム公認クリエイターズ": [
+            "Gayz",
+            "Chamamen",
+            "らぴすらずり"
+        ],
+        "KFC": [
+            "LOV3",
+            "Itoshi Sae",
+            "Wangmeshi"
+        ],
+        "新米漁師研修中": [
+            "Haruto",
+            "Shake",
+            "Hammock"
+        ],
+        "手羽先屋店主愛知県民めるきっす": [
+            "Mercurio",
+            "Pedest",
+            "Nagincess"
+        ],
+        "White rice": [
+            "白米三杯",
+            "Ygritte",
+            "ぱむぱむぷりん"
+        ],
+        "Uow": [
+            "あばたぼね丫",
+            "たかたかころりん",
+            "淵天"
+        ],
+        "チーム献上": [
+            "かまぼこねずこ",
+            "麻央ピーエス",
+            "らでぃ@利敵用アカウント"
+        ],
+        "Katharsis": [
+            "やさしい気持ち",
+            "Qnly",
+            "いくらっち"
+        ],
+        "Tenko shibuki": [
+            "Creo",
+            "Zack",
+            "Veti"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "ZETA DIVISION",
+            "SKCalalas EA",
+            "AXIS e-Sports",
+            "Rival Esports"
+        ],
+        "5-8": [
+            "REJECT",
+            "新米漁師研修中",
+            "Crazy Raccoon",
+            "T5S"
+        ],
+        "9-12": [
+            "Katharsis",
+            "INSOMNIA",
+            "IGNUM",
+            "Frenzy Esports"
+        ],
+        "13-16": [
+            "無職透明",
+            "White rice",
+            "Obsession",
+            "Tenko shibuki"
+        ],
+        "17-24": [
+            "Uow",
+            "FENNEL",
+            "No skill team",
+            "KFC",
+            "モーティス絶対使わないです",
+            "手羽先屋店主愛知県民めるきっす",
+            "チーム公認クリエイターズ",
+            "チーム献上"
+        ],
+        "25-32": [
+            "Be Humble",
+            "Nova:)Esports",
+            "Team Falcons",
+            "Frenzy Academy",
+            "Not Easy",
+            "モーティス絶対使わないです",
+            "私達の腰は相手が泣き出すまで止まりません",
+            "すたんぷりぷりざえもん"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "T5S",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Be Humble",
+            "team_b": "モングラール建築",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "手羽先屋店主愛知県民めるきっす",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Esports",
+            "team_b": "Nova:)Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "KFC",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "モーティス絶対使わないです",
+            "team_b": "新米漁師研修中",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FENNEL",
+            "team_b": "Katharsis",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Falcons",
+            "team_b": "No skill team",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "タバスコ愛好家",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "私達の腰は相手が泣き出すまで止まりません",
+            "team_b": "White rice",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "すたんぷりぷりざえもん",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "AXIS e-Sports",
+            "team_b": "チーム公認クリエイターズ",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "チーム献上",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Academy",
+            "team_b": "無職透明",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "IGNUM",
+            "team_b": "Tenko shibuki",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Not Easy",
+            "team_b": "Uow",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "モングラール建築",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "Frenzy Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "新米漁師研修中",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Katharsis",
+            "team_b": "No skill team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "White rice",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "AXIS e-Sports",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "無職透明",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "IGNUM",
+            "team_b": "Uow",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "REJECT",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "Katharsis",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "AXIS e-Sports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "IGNUM",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "T5S",
+            "team_b": "Be Humble",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "手羽先屋店主愛知県民めるきっす",
+            "team_b": "Nova:)Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KFC",
+            "team_b": "モーティス絶対使わないです",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FENNEL",
+            "team_b": "Team Falcons",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "タバスコ愛好家",
+            "team_b": "私達の腰は相手が泣き出すまで止まりません",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "すたんぷりぷりざえもん",
+            "team_b": "チーム公認クリエイターズ",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "チーム献上",
+            "team_b": "Frenzy Academy",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tenko shibuki",
+            "team_b": "Not Easy",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Uow",
+            "team_b": "T5S",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "無職透明",
+            "team_b": "手羽先屋店主愛知県民めるきっす",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "KFC",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "White rice",
+            "team_b": "FENNEL",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "No skill team",
+            "team_b": "タバスコ愛好家",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "新米漁師研修中",
+            "team_b": "チーム公認クリエイターズ",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Esports",
+            "team_b": "チーム献上",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "モングラール建築",
+            "team_b": "Tenko shibuki",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "T5S",
+            "team_b": "無職透明",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "White rice",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "No skill team",
+            "team_b": "新米漁師研修中",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Esports",
+            "team_b": "Tenko shibuki",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Katharsis",
+            "team_b": "T5S",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "INSOMNIA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "IGNUM",
+            "team_b": "新米漁師研修中",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "Frenzy Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}

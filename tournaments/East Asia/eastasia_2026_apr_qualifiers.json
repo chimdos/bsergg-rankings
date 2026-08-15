@@ -1,0 +1,581 @@
+{
+    "event_id": "eastasia_2026_apr_qualifiers",
+    "name": "April 2026 East Asia Monthly Qualifier",
+    "date": "2026-04-05",
+    "region": "East Asia",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "ZETA DIVISION": [
+            "Batman",
+            "Sizuku",
+            "Sitetampo"
+        ],
+        "Crazy Raccoon": [
+            "Milkreo",
+            "Moya",
+            "Tensai"
+        ],
+        "SKCalalas EA": [
+            "Ghost T",
+            "Naipishu",
+            "Kuru"
+        ],
+        "Rival Esports": [
+            "Ryohei",
+            "Yutapin",
+            "Totoro"
+        ],
+        "FENNEL": [
+            "I see",
+            "Achapi",
+            "Ken-G"
+        ],
+        "REJECT": [
+            "Levi",
+            "Melty",
+            "Shu"
+        ],
+        "Feasible Gaming": [
+            "Drake",
+            "Shigemyon",
+            "Nyades"
+        ],
+        "INSOMNIA": [
+            "Koga",
+            "Wahochi",
+            "Jene Azure"
+        ],
+        "Frenzy Esports": [
+            "Danshari",
+            "Toridesu",
+            "Mira"
+        ],
+        "Team Falcons": [
+            "Sourin",
+            "YuKiMII",
+            "Sun"
+        ],
+        "Ragebait Only": [
+            "Geki",
+            "GreenTea",
+            "Kanga"
+        ],
+        "Feral": [
+            "Owlcat",
+            "Rin",
+            "SHABANI"
+        ],
+        "私達の腰は相手が泣き出すまで止まりません": [
+            "ぴこもなか",
+            "てむぐら",
+            "TIQ.zo"
+        ],
+        "陰キャ撲滅": [
+            "ヒュウガネジ",
+            "リー将軍",
+            "めろめろめぇーんww"
+        ],
+        "Be Humble": [
+            "Marin",
+            "Arahashi",
+            "Nabi"
+        ],
+        "KCN": [
+            "Nem",
+            "Yume",
+            "Menmi"
+        ],
+        "秋刀魚です": [
+            "烏骨鶏",
+            "さまさまころりん",
+            "たかたかころりん"
+        ],
+        "White rice": [
+            "白米三杯",
+            "ぱむぱむぷりん",
+            "Ygritte"
+        ],
+        "Let Hwimori Cook": [
+            "Tamama",
+            "Keroro",
+            "Natsumi"
+        ],
+        "No pro": [
+            "Raina",
+            "CutBibi",
+            "Nozomi"
+        ],
+        "ケツデカ高校シリアナ部の意思を引き継いで": [
+            "きみわずらい",
+            "おでん",
+            "おな"
+        ],
+        "無職透明": [
+            "雪見@24時間営業",
+            "Wakudori",
+            "右下のボタン"
+        ],
+        "누구때메_본계_챔쉽_실패": [
+            "Shinya",
+            "ShinyaX",
+            "Nimble"
+        ],
+        "モングラール建築": [
+            "もち雪",
+            "ドブ枠イェイ",
+            "ドブ枠じゅげむ"
+        ],
+        "マンケルビーム": [
+            "Charizard",
+            "Roland",
+            "すのもこ"
+        ],
+        "モーティス絶対使わないです": [
+            "Ponkey",
+            "Ater",
+            "midoronashi"
+        ],
+        "F/A Team Korea": [
+            "Wangmeshi",
+            "Crong",
+            "PLsniper"
+        ],
+        "Galaxy Collapse": [
+            "Creo",
+            "NenNe",
+            "Nyx"
+        ],
+        "チーム公認クリエイターズ": [
+            "ダブルチー牛バーガー",
+            "Chamamen",
+            "らぴす"
+        ],
+        "Genius Dominion": [
+            "Prodigy",
+            "FatBear",
+            "Raphael"
+        ],
+        "Beat it": [
+            "baby我們的牌位好像跳樓機",
+            "Chongen",
+            "豬豬"
+        ],
+        "Lag Legends": [
+            "Expression",
+            "Lemon",
+            "1004"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "ZETA DIVISION",
+            "SKCalalas EA",
+            "FENNEL",
+            "Crazy Raccoon"
+        ],
+        "5-8": [
+            "Rival Esports",
+            "INSOMNIA",
+            "REJECT",
+            "KCN"
+        ],
+        "9-12": [
+            "Genius Dominion",
+            "Feasible Gaming",
+            "モングラール建築",
+            "ケツデカ高校シリアナ部の意思を引き継いで"
+        ],
+        "13-16": [
+            "Frenzy Esports",
+            "F/A Team Korea",
+            "Ragebait Only",
+            "モーティス絶対使わないです"
+        ],
+        "17-24": [
+            "Galaxy Collapse",
+            "White rice",
+            "No pro",
+            "Beat it",
+            "無職透明",
+            "누구때메 본계 챔쉽 실패",
+            "マンケルビーム",
+            "チーム公認クリエイターズ"
+        ],
+        "25-32": [
+            "Let Hwimori Cook",
+            "Feral",
+            "Be Humble",
+            "Lag Legends",
+            "Team Falcons",
+            "私達の腰は相手が泣き出すまで止まりません",
+            "陰キャ撲滅",
+            "秋刀魚です"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "秋刀魚です",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KCN",
+            "team_b": "White rice",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "Let Hwimori Cook",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Esports",
+            "team_b": "No pro",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "ケツデカ高校シリアナ部の意思を引き継いで",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "私達の腰は相手が泣き出すまで止まりません",
+            "team_b": "無職透明",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "누구때메 본계 챔쉽 실패",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Feral",
+            "team_b": "モングラール建築",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "マンケルビーム",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Be Humble",
+            "team_b": "モーティス絶対使わないです",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Feasible Gaming",
+            "team_b": "F/A Team Korea",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Falcons",
+            "team_b": "Galaxy Collapse",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FENNEL",
+            "team_b": "チーム公認クリエイターズ",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "陰キャ撲滅",
+            "team_b": "Genius Dominion",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "Beat it",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ragebait Only",
+            "team_b": "Lag Legends",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "KCN",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "Frenzy Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "無職透明",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "モングラール建築",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "モーティス絶対使わないです",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Feasible Gaming",
+            "team_b": "Galaxy Collapse",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FENNEL",
+            "team_b": "Genius Dominion",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "Ragebait Only",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "INSOMNIA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "Rival Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "Feasible Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FENNEL",
+            "team_b": "REJECT",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "秋刀魚です",
+            "team_b": "White rice",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Let Hwimori Cook",
+            "team_b": "No pro",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ケツデカ高校シリアナ部の意思を引き継いで",
+            "team_b": "私達の腰は相手が泣き出すまで止まりません",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "누구때메 본계 챔쉽 실패",
+            "team_b": "Feral",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "マンケルビーム",
+            "team_b": "Be Humble",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Team Korea",
+            "team_b": "Team Falcons",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "チーム公認クリエイターズ",
+            "team_b": "陰キャ撲滅",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Beat it",
+            "team_b": "Lag Legends",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ragebait Only",
+            "team_b": "White rice",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Genius Dominion",
+            "team_b": "No pro",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Galaxy Collapse",
+            "team_b": "ケツデカ高校シリアナ部の意思を引き継いで",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "モーティス絶対使わないです",
+            "team_b": "누구때메 본계 챔쉽 실패",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "モングラール建築",
+            "team_b": "マンケルビーム",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "無職透明",
+            "team_b": "F/A Team Korea",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Esports",
+            "team_b": "チーム公認クリエイターズ",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KCN",
+            "team_b": "Beat it",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ragebait Only",
+            "team_b": "Genius Dominion",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ケツデカ高校シリアナ部の意思を引き継いで",
+            "team_b": "モーティス絶対使わないです",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "モングラール建築",
+            "team_b": "F/A Team Korea",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Esports",
+            "team_b": "KCN",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "Genius Dominion",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "ケツデカ高校シリアナ部の意思を引き継いで",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "モングラール建築",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Feasible Gaming",
+            "team_b": "KCN",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

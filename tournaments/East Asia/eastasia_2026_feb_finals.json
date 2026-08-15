@@ -1,0 +1,118 @@
+{
+    "event_id": "eastasia_2026_apr_finals",
+    "name": "February 2026 East Asia Monthly Finals",
+    "date": "2026-02-14",
+    "region": "East Asia",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "ZETA DIVISION": [
+            "Batman",
+            "Sizuku",
+            "Sitetampo"
+        ],
+        "SKCalalas EA": [
+            "Kuru",
+            "Naipishu",
+            "Ghost T"
+        ],
+        "REJECT": [
+            "Levi",
+            "Shu",
+            "Melty"
+        ],
+        "Crazy Raccoon": [
+            "Moya",
+            "Milkreo",
+            "Tensai"
+        ],
+        "ABC": [
+            "Achapi",
+            "I see",
+            "Ken-G"
+        ],
+        "WWL Esports": [
+            "Cookie",
+            "NenNe",
+            "Minzzun"
+        ],
+        "Rival Esports": [
+            "Ryohei",
+            "Yutapin",
+            "Totoro"
+        ],
+        "Effort Result": [
+            "Koga",
+            "Wahochi",
+            "Jene Azure"
+        ]
+    },
+    "placements": {
+        "1": [
+            "ZETA DIVISION"
+        ],
+        "2": [
+            "ABC"
+        ],
+        "3-4": [
+            "Rival Esports",
+            "WWL Esports"
+        ],
+        "5-8": [
+            "Effort Result",
+            "SKCalalas EA",
+            "REJECT",
+            "Crazy Raccoon"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "Effort Result",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "Rival Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "WWL Esports",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "ABC",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "Rival Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "WWL Esports",
+            "team_b": "ABC",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "ABC",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}

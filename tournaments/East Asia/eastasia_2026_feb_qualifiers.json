@@ -1,0 +1,581 @@
+{
+    "event_id": "eastasia_2026_feb_qualifiers",
+    "name": "February 2026 East Asia Monthly Qualifier",
+    "date": "2026-02-08",
+    "region": "East Asia",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "ZETA DIVISION": [
+            "Batman",
+            "Sizuku",
+            "Sitetampo"
+        ],
+        "REJECT": [
+            "Levi",
+            "Melty",
+            "Shu"
+        ],
+        "Crazy Raccoon": [
+            "Milkreo",
+            "Moya",
+            "Tensai"
+        ],
+        "ABC": [
+            "I see",
+            "Achapi",
+            "Ken-G"
+        ],
+        "SKCalalas EA": [
+            "Ghost T",
+            "Naipishu",
+            "Kuru"
+        ],
+        "Rival Esports": [
+            "Ryohei",
+            "Yutapin",
+            "Totoro"
+        ],
+        "Frenzy Esports": [
+            "Danshari",
+            "Toridesu",
+            "Mira"
+        ],
+        "WWL Esports": [
+            "Cookie",
+            "NenNe",
+            "Minzzun"
+        ],
+        "Effort Result": [
+            "Koga",
+            "Wahochi",
+            "Jene Azure"
+        ],
+        "Team Falcons": [
+            "Sourin",
+            "YuKiMII",
+            "Sun"
+        ],
+        "Apocalyptic Trilogy": [
+            "Creo",
+            "Human",
+            "AA"
+        ],
+        "Be Humble": [
+            "Marin",
+            "Arahashi",
+            "Nabi"
+        ],
+        "イカ忍者": [
+            "ちょむすけ",
+            "けちまる〜おぅおぅ",
+            "古賀ヾ18pyи"
+        ],
+        "私達の腰は相手が泣き出すまで止まりません": [
+            "Fairly",
+            "Pico",
+            "あたまいち"
+        ],
+        "Feasible Gaming": [
+            "Drake",
+            "Shigemyon",
+            "Nyades"
+        ],
+        "Ragebait Only": [
+            "Geki",
+            "Tiger Kong",
+            "Kanga"
+        ],
+        "Feral": [
+            "七詩ムメイ",
+            "Blacky",
+            "りんりん"
+        ],
+        "Vortex Nexus": [
+            "Yuno",
+            "Limit",
+            "Mujang"
+        ],
+        "マス2のしもべたち": [
+            "マス3絶対! れいすべりまん",
+            "くろっふる",
+            "Miserable"
+        ],
+        "DF": [
+            "Clarx",
+            "Rati",
+            "Crong"
+        ],
+        "Destiny": [
+            "Prodigy",
+            "取名沒有娶她難",
+            "Ghostyu"
+        ],
+        "ちくわの穴": [
+            "RC厚底部門",
+            "Lily's Plage",
+            "kok1"
+        ],
+        "For Bbange": [
+            "Wangmeshi",
+            "Daenku",
+            "BBangE"
+        ],
+        "Try Again": [
+            "Nozomi",
+            "승횬(炫)",
+            "Gumy"
+        ],
+        "God": [
+            "Zelda",
+            "Kyuma",
+            "Santa Claus"
+        ],
+        "Astute Nova": [
+            "Gren",
+            "にゃんこ大戦争",
+            "Ruma"
+        ],
+        "他力本願FC": [
+            "鉄のフォルゴレ",
+            "睡魔に負けそう",
+            "Kou"
+        ],
+        "ケツデカ高校尻アナ部2026": [
+            "ふらんちゅ",
+            "しゃけっち",
+            "れんのすけ"
+        ],
+        "埼玉てんぷら會": [
+            "TYOMDADDYDIRTY",
+            "とりちうむ",
+            "DGX_TENPURA"
+        ],
+        "KMZ": [
+            "Zahard",
+            "ねにゃん",
+            "Telpny"
+        ],
+        "ヨッシー": [
+            "リトグリ",
+            "BULL-X",
+            "百獣のなっと"
+        ],
+        "陰キャ撲滅": [
+            "ヒュウガネジ",
+            "リー将軍",
+            "ぼ、ぼ、ぼ、僕のだぞっ"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "ZETA DIVISION",
+            "SKCalalas EA",
+            "REJECT",
+            "Crazy Raccoon"
+        ],
+        "5-8": [
+            "ABC",
+            "WWL Esports",
+            "Rival Esports",
+            "Effort Result"
+        ],
+        "9-12": [
+            "Feasible Gaming",
+            "KMZ",
+            "Frenzy Esports",
+            "ケツデカ高校尻アナ部2026"
+        ],
+        "13-16": [
+            "Apocalyptic Trilogy",
+            "Team Falcons",
+            "Ragebait Only",
+            "Feral"
+        ],
+        "17-24": [
+            "私達の腰は相手が泣き出すまで止まりません",
+            "ちくわの穴",
+            "God",
+            "Vortex Nexus",
+            "DF",
+            "For Bbange",
+            "マス2のしもべたち",
+            "ヨッシー"
+        ],
+        "25-32": [
+            "Destiny",
+            "陰キャ撲滅",
+            "イカ忍者",
+            "Be Humble",
+            "埼玉てんぷら會",
+            "Try Again",
+            "他力本願FC",
+            "Astute Nova"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "God",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ragebait Only",
+            "team_b": "Destiny",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "WWL Esports",
+            "team_b": "ケツデカ高校尻アナ部2026",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Effort Result",
+            "team_b": "陰キャ撲滅",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ABC",
+            "team_b": "Vortex Nexus",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "イカ忍者",
+            "team_b": "ちくわの穴",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "DF",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Be Humble",
+            "team_b": "KMZ",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "埼玉てんぷら會",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Feasible Gaming",
+            "team_b": "For Bbange",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Esports",
+            "team_b": "Feral",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Falcons",
+            "team_b": "Try Again",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "マス2のしもべたち",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "私達の腰は相手が泣き出すまで止まりません",
+            "team_b": "他力本願FC",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "ヨッシー",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Apocalyptic Trilogy",
+            "team_b": "Astute Nova",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "Ragebait Only",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "WWL Esports",
+            "team_b": "Effort Result",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ABC",
+            "team_b": "ちくわの穴",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "KMZ",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "Feasible Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Esports",
+            "team_b": "Team Falcons",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "私達の腰は相手が泣き出すまで止まりません",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "Apocalyptic Trilogy",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "WWL Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ABC",
+            "team_b": "SKCalalas EA",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "Frenzy Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "Rival Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "God",
+            "team_b": "Destiny",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ケツデカ高校尻アナ部2026",
+            "team_b": "陰キャ撲滅",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vortex Nexus",
+            "team_b": "イカ忍者",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "DF",
+            "team_b": "Be Humble",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "埼玉てんぷら會",
+            "team_b": "For Bbange",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Feral",
+            "team_b": "Try Again",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "マス2のしもべたち",
+            "team_b": "他力本願FC",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ヨッシー",
+            "team_b": "Astute Nova",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Apocalyptic Trilogy",
+            "team_b": "God",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "私達の腰は相手が泣き出すまで止まりません",
+            "team_b": "ケツデカ高校尻アナ部2026",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Falcons",
+            "team_b": "Vortex Nexus",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Feasible Gaming",
+            "team_b": "DF",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KMZ",
+            "team_b": "For Bbange",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ちくわの穴",
+            "team_b": "Feral",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Effort Result",
+            "team_b": "マス2のしもべたち",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ragebait Only",
+            "team_b": "ヨッシー",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Apocalyptic Trilogy",
+            "team_b": "ケツデカ高校尻アナ部2026",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Falcons",
+            "team_b": "Feasible Gaming",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KMZ",
+            "team_b": "Feral",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Effort Result",
+            "team_b": "Ragebait Only",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ABC",
+            "team_b": "ケツデカ高校尻アナ部2026",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "WWL Esports",
+            "team_b": "Feasible Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "KMZ",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Esports",
+            "team_b": "Effort Result",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

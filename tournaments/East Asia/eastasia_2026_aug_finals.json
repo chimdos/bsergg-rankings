@@ -1,0 +1,118 @@
+{
+    "event_id": "eastasia_2026_aug_finals",
+    "name": "August 2026 East Asia Monthly Finals",
+    "date": "2026-08-08",
+    "region": "East Asia",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "ZETA DIVISION": [
+            "Batman",
+            "Sizuku",
+            "Sitetampo"
+        ],
+        "SKCalalas EA": [
+            "Kuru",
+            "Naipishu",
+            "Ghost T"
+        ],
+        "Crazy Raccoon": [
+            "Moya",
+            "Milkreo",
+            "Tensai"
+        ],
+        "IGNUM": [
+            "Drake",
+            "Nyades",
+            "Shigemyon"
+        ],
+        "FENNEL": [
+            "Ken-G",
+            "Achapi",
+            "I see"
+        ],
+        "Frenzy Esports": [
+            "Danshari",
+            "Toridesu",
+            "Ferkel"
+        ],
+        "T5S": [
+            "Sanikama",
+            "Yamasukes",
+            "Tessar"
+        ],
+        "F/A Zero Mercy": [
+            "Prodigy",
+            "FatBear",
+            "Cymort"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Crazy Raccoon"
+        ],
+        "2": [
+            "ZETA DIVISION"
+        ],
+        "3-4": [
+            "FENNEL",
+            "Frenzy Esports"
+        ],
+        "5-8": [
+            "F/A Zero Mercy",
+            "IGNUM",
+            "T5S",
+            "SKCalalas EA"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "F/A Zero Mercy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "IGNUM",
+            "team_b": "FENNEL",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "T5S",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "Frenzy Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "FENNEL",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "Frenzy Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "Crazy Raccoon",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

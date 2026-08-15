@@ -1,0 +1,118 @@
+{
+    "event_id": "eastasia_2026_jun_finals",
+    "name": "June 2026 East Asia Monthly Finals",
+    "date": "2026-06-13",
+    "region": "East Asia",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "ZETA DIVISION": [
+            "Batman",
+            "Sizuku",
+            "Sitetampo"
+        ],
+        "Crazy Raccoon": [
+            "Moya",
+            "Milkreo",
+            "Tensai"
+        ],
+        "SKCalalas EA": [
+            "Kuru",
+            "Naipishu",
+            "Ghost T"
+        ],
+        "FENNEL": [
+            "Ken-G",
+            "I see",
+            "Achapi"
+        ],
+        "Rival Esports": [
+            "Ryohei",
+            "Yutapin",
+            "Totoro"
+        ],
+        "INSOMNIA": [
+            "Wahochi",
+            "Jene Azure",
+            "Koga"
+        ],
+        "IGNUM": [
+            "Drake",
+            "Nyades",
+            "Shigemyon"
+        ],
+        "Faze Zero": [
+            "Mira",
+            "Rennosuke",
+            "Telpny"
+        ]
+    },
+    "placements": {
+        "1": [
+            "ZETA DIVISION"
+        ],
+        "2": [
+            "Rival Esports"
+        ],
+        "3-4": [
+            "Crazy Raccoon",
+            "SKCalalas EA"
+        ],
+        "5-8": [
+            "IGNUM",
+            "Faze Zero",
+            "INSOMNIA",
+            "FENNEL"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "IGNUM",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Faze Zero",
+            "team_b": "Rival Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "INSOMNIA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FENNEL",
+            "team_b": "ZETA DIVISION",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "Rival Esports",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "ZETA DIVISION",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "ZETA DIVISION",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

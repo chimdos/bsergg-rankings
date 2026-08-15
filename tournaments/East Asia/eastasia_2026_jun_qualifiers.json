@@ -1,0 +1,581 @@
+{
+    "event_id": "eastasia_2026_jun_qualifiers",
+    "name": "June 2026 East Asia Monthly Qualifier",
+    "date": "2026-06-07",
+    "region": "East Asia",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "ZETA DIVISION": [
+            "Batman",
+            "Sizuku",
+            "Sitetampo"
+        ],
+        "Crazy Raccoon": [
+            "Milkreo",
+            "Moya",
+            "Tensai"
+        ],
+        "SKCalalas EA": [
+            "Ghost T",
+            "Naipishu",
+            "Kuru"
+        ],
+        "Rival Esports": [
+            "Ryohei",
+            "Yutapin",
+            "Totoro"
+        ],
+        "FENNEL": [
+            "I see",
+            "Achapi",
+            "Ken-G"
+        ],
+        "REJECT": [
+            "Levi",
+            "Melty",
+            "Shu"
+        ],
+        "IGNUM": [
+            "Drake",
+            "Shigemyon",
+            "Nyades"
+        ],
+        "INSOMNIA": [
+            "Koga",
+            "Wahochi",
+            "Jene Azure"
+        ],
+        "Frenzy Esports": [
+            "Danshari",
+            "Toridesu",
+            "Ferkel"
+        ],
+        "AXIS e-Sports": [
+            "Nem",
+            "Yume",
+            "Menmi"
+        ],
+        "Team Falcons": [
+            "Sourin",
+            "YuKiMII",
+            "Sun"
+        ],
+        "Angelic": [
+            "Geki",
+            "GreenTea",
+            "Kanga"
+        ],
+        "Frenzy Academy": [
+            "Owlcat",
+            "Rin",
+            "SHABANI"
+        ],
+        "私達の腰は相手が泣き出すまで止まりません": [
+            "ぴこもなか",
+            "てむぐら",
+            "TIQ.zo"
+        ],
+        "Be Humble": [
+            "Marin",
+            "Arahashi",
+            "Nabi"
+        ],
+        "陰キャ撲滅": [
+            "ヒュウガネジ",
+            "リー将軍",
+            "めろめろめぇーんww"
+        ],
+        "No skill team": [
+            "無解通天代",
+            "秤 アツコ",
+            "HaoQian"
+        ],
+        "モーティス絶対使わないです": [
+            "Ponkey",
+            "Ater",
+            "midoronashi"
+        ],
+        "パピヨンofゆーた": [
+            "Fujiko lp",
+            "Mumeu",
+            "まるは嫁。エリート床ぺろ"
+        ],
+        "ZSX": [
+            "かいん",
+            "S",
+            "Beki"
+        ],
+        "Gg": [
+            "Giryun",
+            "Jake",
+            "GonGon"
+        ],
+        "呑気症": [
+            "くろっふる",
+            "テッサー",
+            "Mmhnlv"
+        ],
+        "ただしゃかエンジニア": [
+            "core",
+            "シエスタ",
+            "べっちゃん"
+        ],
+        "HELIX": [
+            "omuai",
+            "nanisan",
+            "kairyu"
+        ],
+        "Faze Zero": [
+            "Mira",
+            "Telpny",
+            "Rennosuke"
+        ],
+        "モングラール建築": [
+            "もち雪",
+            "冷笑ザウルス",
+            "ドブ枠じゅげむ"
+        ],
+        "新米漁師研修中": [
+            "Haruto",
+            "Shake",
+            "Hammock"
+        ],
+        "みかんソムリエ": [
+            "いちご味のみかん",
+            "Rui-G",
+            "みかん味のこうき"
+        ],
+        "UOW": [
+            "蒲焼さん太郎",
+            "たかたかころりん",
+            "淵天"
+        ],
+        "Obsession": [
+            "Clarx",
+            "Itoshi Sae",
+            "lastluv"
+        ],
+        "MOSS": [
+            "WuWa_ぴっつ",
+            "みかんの物語",
+            "鮫"
+        ],
+        "Not Easy": [
+            "SunRise",
+            "Neolusin",
+            "RE:SET"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "Faze Zero",
+            "SKCalalas EA",
+            "FENNEL",
+            "Crazy Raccoon"
+        ],
+        "5-8": [
+            "Rival Esports",
+            "INSOMNIA",
+            "IGNUM",
+            "ZETA DIVISION"
+        ],
+        "9-12": [
+            "REJECT",
+            "AXIS e-Sports",
+            "Frenzy Esports",
+            "Gg"
+        ],
+        "13-16": [
+            "Obsession",
+            "モングラール建築",
+            "新米漁師研修中",
+            "モーティス絶対使わないです"
+        ],
+        "17-24": [
+            "Angelic",
+            "HELIX",
+            "No skill team",
+            "UOW",
+            "Not Easy",
+            "パピヨンofゆーた",
+            "ただしゃかエンジニア",
+            "呑気症"
+        ],
+        "25-32": [
+            "ZSX",
+            "Frenzy Academy",
+            "Be Humble",
+            "MOSS",
+            "Team Falcons",
+            "私達の腰は相手が泣き出すまで止まりません",
+            "陰キャ撲滅",
+            "秋刀魚です"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "No skill team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "陰キャ撲滅",
+            "team_b": "モーティス絶対使わないです",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "パピヨンofゆーた",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Esports",
+            "team_b": "ZSX",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "Gg",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Academy",
+            "team_b": "呑気症",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FENNEL",
+            "team_b": "ただしゃかエンジニア",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Falcons",
+            "team_b": "HELIX",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "Faze Zero",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Be Humble",
+            "team_b": "モングラール建築",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "IGNUM",
+            "team_b": "新米漁師研修中",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Angelic",
+            "team_b": "秋刀魚です",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "UOW",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "私達の腰は相手が泣き出すまで止まりません",
+            "team_b": "Obsession",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "MOSS",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "AXIS e-Sports",
+            "team_b": "Not Easy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "モーティス絶対使わないです",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "Frenzy Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "呑気症",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FENNEL",
+            "team_b": "HELIX",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Faze Zero",
+            "team_b": "モングラール建築",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "IGNUM",
+            "team_b": "Angelic",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "Obsession",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "AXIS e-Sports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "INSOMNIA",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "FENNEL",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Faze Zero",
+            "team_b": "IGNUM",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas EA",
+            "team_b": "AXIS e-Sports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "No skill team",
+            "team_b": "陰キャ撲滅",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "パピヨンofゆーた",
+            "team_b": "ZSX",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Gg",
+            "team_b": "Frenzy Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ただしゃかエンジニア",
+            "team_b": "Team Falcons",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "Be Humble",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "新米漁師研修中",
+            "team_b": "秋刀魚です",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "UOW",
+            "team_b": "私達の腰は相手が泣き出すまで止まりません",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MOSS",
+            "team_b": "Not Easy",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "No skill team",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Obsession",
+            "team_b": "パピヨンofゆーた",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Angelic",
+            "team_b": "Gg",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "モングラール建築",
+            "team_b": "ただしゃかエンジニア",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HELIX",
+            "team_b": "ZETA DIVISION",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "呑気症",
+            "team_b": "新米漁師研修中",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Esports",
+            "team_b": "UOW",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "モーティス絶対使わないです",
+            "team_b": "Not Easy",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "Obsession",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Gg",
+            "team_b": "モングラール建築",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "新米漁師研修中",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Frenzy Esports",
+            "team_b": "モーティス絶対使わないです",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Rival Esports",
+            "team_b": "REJECT",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "Gg",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "AXIS e-Sports",
+            "team_b": "ZETA DIVISION",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "IGNUM",
+            "team_b": "Frenzy Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}
