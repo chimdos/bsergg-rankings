@@ -1,0 +1,330 @@
+{
+    "event_id": "japan_2026_challengers",
+    "name": "Japan 2026 Challengers",
+    "date": "2026-07-19",
+    "region": "Japan",
+    "event_type": "japan_2026_challengers",
+    "rosters": {
+        "こいわずブラザーズ": [
+            "きのこ",
+            "きみわずらい",
+            "たけのこ"
+        ],
+        "INSOMNIA": [
+            "Jene Azure",
+            "Wahochi",
+            "Koga"
+        ],
+        "GG": [
+            "ぶりざえもん",
+            "ごりざえもん",
+            "でゆざえもん"
+        ],
+        "IGNUM": [
+            "Drake",
+            "Nyades",
+            "Shigemyon"
+        ],
+        "FENNEL": [
+            "Ken-G",
+            "Achapi",
+            "I see"
+        ],
+        "無職透明": [
+            "小西皓紀",
+            "中西皓紀",
+            "大西皓紀"
+        ],
+        "ポックル": [
+            "Kumachi",
+            "Tatsumaki",
+            "Neopon"
+        ],
+        "REJECT": [
+            "Melty",
+            "Levi",
+            "Shu"
+        ],
+        "Do it yourself": [
+            "ブロス太郎",
+            "おっとせい",
+            "FADE (Japanese player)"
+        ],
+        "ボリビア軍団": [
+            "ボリビア軍団1",
+            "ボリビア軍団2",
+            "ボリビア軍団3"
+        ],
+        "センターバックたっくん": [
+            "Yellmi",
+            "XAVI",
+            "No.1"
+        ],
+        "かつみんち": [
+            "かつみんち1",
+            "かつみんち2",
+            "かつみんち3"
+        ],
+        "まほろば": [
+            "まほろば1",
+            "まほろば2",
+            "まほろば3"
+        ],
+        "べんちプレス": [
+            "べんちプレス1",
+            "べんちプレス2",
+            "べんちプレス3"
+        ],
+        "TikTok異端児": [
+            "TikTok異端児1",
+            "TikTok異端児2",
+            "TikTok異端児3"
+        ]
+    },
+    "placements": {
+        "1": [
+            "REJECT"
+        ],
+        "2": [
+            "FENNEL"
+        ],
+        "3": [
+            "IGNUM"
+        ],
+        "4": [
+            "センターバックたっくん"
+        ],
+        "5-6": [
+            "Do it yourself",
+            "INSOMNIA"
+        ],
+        "7-8": [
+            "GG",
+            "無職透明"
+        ],
+        "9-12": [
+            "こいわずブラザーズ",
+            "かつみんち",
+            "ポックル",
+            "べんちプレス"
+        ],
+        "13-16": [
+            "ボリビア軍団",
+            "まほろば",
+            "3K",
+            "TikTok異端児"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "こいわずブラザーズ",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ボリビア軍団",
+            "team_b": "FENNEL",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ポックル",
+            "team_b": "かつみんち",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "センターバックたっくん",
+            "team_b": "まほろば",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "無職透明",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "3K",
+            "team_b": "GG",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Do it yourself",
+            "team_b": "べんちプレス",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TikTok異端児",
+            "team_b": "IGNUM",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "FENNEL",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "ポックル",
+            "team_b": "センターバックたっくん",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "GG",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Do it yourself",
+            "team_b": "IGNUM",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "FENNEL",
+            "team_b": "センターバックたっくん",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "IGNUM",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "FENNEL",
+            "team_b": "REJECT",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "こいわずブラザーズ",
+            "team_b": "ボリビア軍団",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "かつみんち",
+            "team_b": "まほろば",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "無職透明",
+            "team_b": "3K",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "べんちプレス",
+            "team_b": "TikTok異端児",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Do it yourself",
+            "team_b": "こいわずブラザーズ",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "GG",
+            "team_b": "かつみんち",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ポックル",
+            "team_b": "無職透明",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "INSOMNIA",
+            "team_b": "べんちプレス",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Do it yourself",
+            "team_b": "GG",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "無職透明",
+            "team_b": "INSOMNIA",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "センターバックたっくん",
+            "team_b": "Do it yourself",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "IGNUM",
+            "team_b": "INSOMNIA",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "センターバックたっくん",
+            "team_b": "IGNUM",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "FENNEL",
+            "team_b": "IGNUM",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "FENNEL",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        }
+    ]
+}

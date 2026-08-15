@@ -1,0 +1,120 @@
+{
+    "event_id": "korea_2026_challengers",
+    "name": "Korea 2026 Challengers",
+    "date": "2026-07-26",
+    "region": "Korea",
+    "event_type": "korea_2026_challengers",
+    "rosters": {
+        "GG": [
+            "behappy",
+            "GonGon",
+            "Jake"
+        ],
+        "Be Humble": [
+            "Nabi",
+            "Arahashi",
+            "Marin"
+        ],
+        "We Worship Freedom": [
+            "A1R1",
+            "Sakura",
+            "Vexa"
+        ],
+        "Overcome": [
+            "Habin",
+            "Banchan",
+            "Gumy"
+        ],
+        "Vertex": [
+            "bunkei",
+            "papper",
+            "tsuki"
+        ],
+        "Poo": [
+            "Raccoon",
+            "Ponyo",
+            "Light"
+        ],
+        "Nocturne": [
+            "Vex (Korean player)",
+            "Havoc",
+            "Jinx"
+        ],
+        "Namsan": [
+            "ruruna",
+            "NamSan",
+            "mayreel"
+        ]
+    },
+    "placements": {
+        "1": [
+            "GG"
+        ],
+        "2": [
+            "Be Humble"
+        ],
+        "3": [
+            "We Worship Freedom"
+        ],
+        "4": [
+            "Overcome"
+        ],
+        "5-8": [
+            "Vertex",
+            "Poo",
+            "Nocturne",
+            "Namsan"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Vertex",
+            "team_b": "We Worship Freedom",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Poo",
+            "team_b": "Be Humble",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nocturne",
+            "team_b": "Overcome",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "GG",
+            "team_b": "Namsan",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "We Worship Freedom",
+            "team_b": "Be Humble",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Overcome",
+            "team_b": "GG",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Be Humble",
+            "team_b": "GG",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}
