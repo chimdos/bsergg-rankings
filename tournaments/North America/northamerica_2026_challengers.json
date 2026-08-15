@@ -1,0 +1,391 @@
+{
+    "event_id": "northamerica_2026_challengers",
+    "name": "North America 2026 Challengers",
+    "date": "2026-06-14",
+    "region": "North America",
+    "event_type": "northamerica_2026_challengers",
+    "rosters": {
+        "Legacy Esports": [
+            "Zoulan",
+            "Zeus",
+            "Rafiki"
+        ],
+        "David's Aura": [
+            "Razuen",
+            "GODNOOB",
+            "David (Venezuelan player)"
+        ],
+        "Job Application": [
+            "Jay",
+            "GravityFalls",
+            "Legend"
+        ],
+        "Chiles Morrones": [
+            "BouBou",
+            "Sebi",
+            "sunnyy (sub)"
+        ],
+        "Only Realm Academy": [
+            "Winq",
+            "Nerf",
+            "Junnie"
+        ],
+        "PCIFIC": [
+            "Alyanys",
+            "Squeezy",
+            "Diegofr"
+        ],
+        "Neon Esports": [
+            "NeonNok",
+            "NeonKiwi",
+            "BrawlBoys"
+        ],
+        "Crickets": [
+            "Nayt",
+            "Henry",
+            "Zhar (sub)"
+        ],
+        "Raul Lovers": [
+            "Nando",
+            "MdeMike",
+            "Wiza"
+        ],
+        "I'm Barking": [
+            "tacos",
+            "vegeta",
+            "Chino"
+        ],
+        "Nameless": [
+            "KayJayOh",
+            "Zee",
+            "Lxffy"
+        ],
+        "DeS Esports": [
+            "Ponzi",
+            "Nazuna",
+            "Yea-ji"
+        ],
+        "I Love My Cat": [
+            "Grezze",
+            "Yoshii",
+            "Polone"
+        ],
+        "MX Team Academy": [
+            "Ale",
+            "Panke",
+            "Diegogamer (sub)"
+        ],
+        "Nova Esports": [
+            "PaiN",
+            "Roledu",
+            "Kirito"
+        ],
+        "Panda Bubbles Box": [
+            "Pandaa",
+            "Not Alex",
+            "Juice Box"
+        ]
+    },
+    "placements": {
+        "1": [
+            "I'm Barking"
+        ],
+        "2": [
+            "Legacy Esports"
+        ],
+        "3": [
+            "MX Team Academy"
+        ],
+        "4": [
+            "Nameless"
+        ],
+        "5-6": [
+            "Nova Esports",
+            "Only Realm Academy"
+        ],
+        "7-8": [
+            "Chiles Morrones",
+            "Panda Bubbles Box"
+        ],
+        "9-13": [
+            "I Love My Cat",
+            "David's Aura",
+            "PCIFIC",
+            "DeS Esports",
+            "Raul Lovers"
+        ],
+        "14-16": [
+            "Crickets",
+            "Neon Esports",
+            "Job Application"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Crickets",
+            "team_b": "I Love My Cat",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "I Love My Cat",
+            "team_b": "Only Realm Academy",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "I Love My Cat",
+            "team_b": "Panda Bubbles Box",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Only Realm Academy",
+            "team_b": "Crickets",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Panda Bubbles Box",
+            "team_b": "Only Realm Academy",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Panda Bubbles Box",
+            "team_b": "Crickets",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "David's Aura",
+            "team_b": "I'm Barking",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "PCIFIC",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "David's Aura",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "PCIFIC",
+            "team_b": "I'm Barking",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "David's Aura",
+            "team_b": "PCIFIC",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "I'm Barking",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "DeS Esports",
+            "team_b": "Chiles Morrones",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "MX Team Academy",
+            "team_b": "Neon Esports",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Neon Esports",
+            "team_b": "DeS Esports",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Chiles Morrones",
+            "team_b": "MX Team Academy",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "MX Team Academy",
+            "team_b": "DeS Esports",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Neon Esports",
+            "team_b": "Chiles Morrones",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Nova Esports",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Raul Lovers",
+            "team_b": "Job Application",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Raul Lovers",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Job Application",
+            "team_b": "Nova Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Job Application",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Nova Esports",
+            "team_b": "Raul Lovers",
+            "score_a": 2,
+            "score_b": 1,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Chiles Morrones",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "Panda Bubbles Box",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MX Team Academy",
+            "team_b": "Nova Esports",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm Academy",
+            "team_b": "I'm Barking",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Nameless",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nova Esports",
+            "team_b": "I'm Barking",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "I'm Barking",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Chiles Morrones",
+            "team_b": "MX Team Academy",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Panda Bubbles Box",
+            "team_b": "Only Realm Academy",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MX Team Academy",
+            "team_b": "Nova Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Only Realm Academy",
+            "team_b": "Nameless",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MX Team Academy",
+            "team_b": "Nameless",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MX Team Academy",
+            "team_b": "I'm Barking",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "I'm Barking",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}
