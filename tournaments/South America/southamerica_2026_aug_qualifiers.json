@@ -1,0 +1,581 @@
+{
+    "event_id": "southamerica_2026_aug_qualifiers",
+    "name": "August 2026 South America Monthly Qualifier",
+    "date": "2026-08-02",
+    "region": "South America",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "Bounty Hunters": [
+            "Prozy",
+            "Portox",
+            "Wesley"
+        ],
+        "RED Canids": [
+            "CaueBR",
+            "Mohtep",
+            "Jubileu"
+        ],
+        "LOUD": [
+            "KaioDog",
+            "FireCrow",
+            "Edinho"
+        ],
+        "Olimpo Squad": [
+            "Satisfyer",
+            "Golden",
+            "Brabão"
+        ],
+        "SKCalalas": [
+            "Kr",
+            "Rhz",
+            "Juan Carlos"
+        ],
+        "OCX Division": [
+            "Lipizin",
+            "Fire Murilo",
+            "IceCrow"
+        ],
+        "Ninguém Segura": [
+            "Tufa",
+            "Sennin",
+            "Rei Do Fut"
+        ],
+        "QuieroQueQue": [
+            "Todd",
+            "Deykon",
+            "B4st"
+        ],
+        "Six Seven": [
+            "Nubis",
+            "Bicho",
+            "Gods"
+        ],
+        "Dropeados 2026": [
+            "Benja",
+            "Daidote",
+            "badlioncheat"
+        ],
+        "Goats": [
+            "FortiStars",
+            "Jonatas",
+            "Mito"
+        ],
+        "Skibidi Sigmas": [
+            "Mega Prime",
+            "Luking",
+            "Dex"
+        ],
+        "Energy Station": [
+            "Gusto",
+            "Tiberius",
+            "Kaiozin"
+        ],
+        "Macaquitos F/A": [
+            "Sterixx",
+            "Crow32",
+            "Phz"
+        ],
+        "União Prodigy": [
+            "Otaku",
+            "PROzin",
+            "KallusX"
+        ],
+        "The Vanguard": [
+            "SayGer",
+            "Milo",
+            "Juli"
+        ],
+        "Cabine Da Orelha": [
+            "VTzim",
+            "GuiGool",
+            "NiceShot"
+        ],
+        "Bixou": [
+            "Meliodas",
+            "Magic",
+            "Rdz"
+        ],
+        "Tritons White": [
+            "Brunel",
+            "Master",
+            "Bagre"
+        ],
+        "Infinity": [
+            "FireWolf",
+            "FireFenix",
+            "FireLumi"
+        ],
+        "Faz o L": [
+            "Yama",
+            "Taiyo",
+            "Luizzz"
+        ],
+        "Oxente F/A": [
+            "Flush",
+            "Xands",
+            "Azuri"
+        ],
+        "Twolala F/A": [
+            "Persa",
+            "Fabrii",
+            "AngelBoy"
+        ],
+        "One More": [
+            "Neutz",
+            "Max",
+            "Umbreon"
+        ],
+        "Asilo do Flak": [
+            "Matheuzinho2213",
+            "Ghost",
+            "Subeme (Brazilian player)"
+        ],
+        "A Origem": [
+            "Bielz",
+            "Flak",
+            "Bala"
+        ],
+        "INBR": [
+            "Skay",
+            "Gusta",
+            "Otávio"
+        ],
+        "Budeguer": [
+            "Kai",
+            "Exic",
+            "Loko"
+        ],
+        "Pereca City": [
+            "Cottonas171",
+            "Bernadeaths",
+            "Rnowtt"
+        ],
+        "TDM Team E-Sports": [
+            "GD",
+            "FiringJ",
+            "Biuêee"
+        ],
+        "SpikeTrix": [
+            "Caiotrix",
+            "Mr sLiPeeh",
+            "Mirando"
+        ],
+        "New GE4R": [
+            "Gokou",
+            "Hzz",
+            "Kirito (South American player)"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "Bounty Hunters",
+            "SKCalalas",
+            "RED Canids",
+            "OCX Division"
+        ],
+        "5-8": [
+            "Olimpo Squad",
+            "Six Seven",
+            "LOUD",
+            "QuieroQueQue"
+        ],
+        "9-12": [
+            "Macaquitos F/A",
+            "SpikeTrix",
+            "A Origem",
+            "Bixou"
+        ],
+        "13-16": [
+            "INBR",
+            "Cabine Da Orelha",
+            "Ninguém Segura",
+            "Budeguer"
+        ],
+        "17-24": [
+            "New GE4R",
+            "União Prodigy",
+            "Twolala F/A",
+            "Oxente F/A",
+            "Tritons White",
+            "Pereca City",
+            "Energy Station",
+            "Faz o L"
+        ],
+        "25-32": [
+            "The Vanguard",
+            "Infinity",
+            "Asilo do Flak",
+            "Skibidi Sigmas",
+            "One More",
+            "Dropeados 2026",
+            "TDM Team E-Sports",
+            "Goats"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Cabine Da Orelha",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The Vanguard",
+            "team_b": "Tritons White",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "QuieroQueQue",
+            "team_b": "Infinity",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Seven",
+            "team_b": "Pereca City",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "Asilo do Flak",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Energy Station",
+            "team_b": "Oxente F/A",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "A Origem",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Skibidi Sigmas",
+            "team_b": "Twolala F/A",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "RED Canids",
+            "team_b": "Bixou",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "União Prodigy",
+            "team_b": "One More",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "SpikeTrix",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dropeados 2026",
+            "team_b": "INBR",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Faz o L",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Macaquitos F/A",
+            "team_b": "TDM Team E-Sports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OCX Division",
+            "team_b": "Budeguer",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Goats",
+            "team_b": "New GE4R",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Tritons White",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "QuieroQueQue",
+            "team_b": "Six Seven",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "Oxente F/A",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "Twolala F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "RED Canids",
+            "team_b": "União Prodigy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SpikeTrix",
+            "team_b": "INBR",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Macaquitos F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OCX Division",
+            "team_b": "New GE4R",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Six Seven",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "SKCalalas",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "RED Canids",
+            "team_b": "SpikeTrix",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "OCX Division",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Cabine Da Orelha",
+            "team_b": "The Vanguard",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Infinity",
+            "team_b": "Pereca City",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Asilo do Flak",
+            "team_b": "Energy Station",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "A Origem",
+            "team_b": "Skibidi Sigmas",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bixou",
+            "team_b": "One More",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ninguém Segura",
+            "team_b": "Dropeados 2026",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Faz o L",
+            "team_b": "TDM Team E-Sports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Budeguer",
+            "team_b": "Goats",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "New GE4R",
+            "team_b": "Cabine Da Orelha",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Macaquitos F/A",
+            "team_b": "Pereca City",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INBR",
+            "team_b": "Energy Station",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "União Prodigy",
+            "team_b": "A Origem",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Twolala F/A",
+            "team_b": "Bixou",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Oxente F/A",
+            "team_b": "Ninguém Segura",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "QuieroQueQue",
+            "team_b": "Faz o L",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tritons White",
+            "team_b": "Budeguer",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Cabine Da Orelha",
+            "team_b": "Macaquitos F/A",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "INBR",
+            "team_b": "A Origem",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bixou",
+            "team_b": "Ninguém Segura",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "QuieroQueQue",
+            "team_b": "Budeguer",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Olimpo Squad",
+            "team_b": "Macaquitos F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Six Seven",
+            "team_b": "A Origem",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LOUD",
+            "team_b": "Bixou",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SpikeTrix",
+            "team_b": "QuieroQueQue",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

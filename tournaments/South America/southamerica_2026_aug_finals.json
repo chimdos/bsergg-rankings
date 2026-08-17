@@ -1,0 +1,118 @@
+{
+    "event_id": "southamerica_2026_aug_finals",
+    "name": "August 2026 South America Monthly Finals",
+    "date": "2026-08-15",
+    "region": "South America",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "Bounty Hunters": [
+            "Prozy",
+            "Wesley",
+            "Portox"
+        ],
+        "SKCalalas": [
+            "Juan Carlos",
+            "Rhz",
+            "Kr"
+        ],
+        "RED Canids": [
+            "Mohtep",
+            "Jubileu",
+            "CaueBR"
+        ],
+        "OCX Division": [
+            "IceCrow",
+            "Lipizin",
+            "Fire Murilo"
+        ],
+        "Olimpo Squad": [
+            "Satisfyer",
+            "Golden",
+            "Brabão"
+        ],
+        "Six Seven": [
+            "Nubis",
+            "Bicho",
+            "Gods"
+        ],
+        "LOUD": [
+            "KaioDog",
+            "FireCrow",
+            "Edinho"
+        ],
+        "QuieroQueQue": [
+            "Todd",
+            "B4st",
+            "Deykon"
+        ]
+    },
+    "placements": {
+        "1": [
+            "LOUD"
+        ],
+        "2": [
+            "Bounty Hunters"
+        ],
+        "3-4": [
+            "Olimpo Squad",
+            "RED Canids"
+        ],
+        "5-8": [
+            "QuieroQueQue",
+            "OCX Division",
+            "Six Seven",
+            "SKCalalas"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "QuieroQueQue",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OCX Division",
+            "team_b": "Olimpo Squad",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "RED Canids",
+            "team_b": "Six Seven",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SKCalalas",
+            "team_b": "LOUD",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "Olimpo Squad",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "RED Canids",
+            "team_b": "LOUD",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "LOUD",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

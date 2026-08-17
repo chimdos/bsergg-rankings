@@ -1,0 +1,118 @@
+{
+    "event_id": "emea_2026_aug_finals",
+    "name": "August 2026 EMEA Monthly Finals",
+    "date": "2026-08-09",
+    "region": "EMEA",
+    "event_type": "monthly_finals",
+    "rosters": {
+        "FUT Esports": [
+            "Angelboy",
+            "Guesti",
+            "Nob?"
+        ],
+        "TalentsLab": [
+            "SanFire",
+            "Yei Yei",
+            "Mewtu (sub)"
+        ],
+        "HMBLE": [
+            "BosS",
+            "Lukii",
+            "Symantec"
+        ],
+        "Natus Vincere": [
+            "Nowy297",
+            "GeRo",
+            "Enraged"
+        ],
+        "Team Heretics": [
+            "Marco",
+            "Subeme",
+            "iKaoss"
+        ],
+        "BIG": [
+            "Melih",
+            "Salty",
+            "Dede"
+        ],
+        "Reply Totem": [
+            "Joker",
+            "Maru",
+            "Maury"
+        ],
+        "Kumalazawesta": [
+            "Nes",
+            "Dompe",
+            "LeNain"
+        ]
+    },
+    "placements": {
+        "1": [
+            "FUT Esports"
+        ],
+        "2": [
+            "HMBLE"
+        ],
+        "3-4": [
+            "TalentsLab",
+            "Team Heretics"
+        ],
+        "5-8": [
+            "Kumalazawesta",
+            "Natus Vincere",
+            "Reply Totem",
+            "BIG"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Kumalazawesta",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TalentsLab",
+            "team_b": "Reply Totem",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "BIG",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "Team Heretics",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "TalentsLab",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "Team Heretics",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "HMBLE",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}

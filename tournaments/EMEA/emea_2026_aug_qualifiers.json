@@ -1,0 +1,581 @@
+{
+    "event_id": "emea_2026_aug_qualifiers",
+    "name": "August 2026 EMEA Monthly Qualifier",
+    "date": "2026-08-02",
+    "region": "EMEA",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "FUT Esports": [
+            "Angelboy",
+            "Guesti",
+            "Nob?"
+        ],
+        "HMBLE": [
+            "Lukii",
+            "BosS",
+            "Symantec"
+        ],
+        "Reply Totem": [
+            "Maury",
+            "Maru",
+            "Joker"
+        ],
+        "NOVO Esports": [
+            "Filippo",
+            "MeOw",
+            "Jus"
+        ],
+        "Team Heretics": [
+            "Marco",
+            "Subeme",
+            "iKaoss"
+        ],
+        "Natus Vincere": [
+            "Nowy297",
+            "GeRo",
+            "Enraged"
+        ],
+        "Kumalazawesta": [
+            "LeNain",
+            "Nes",
+            "Dompe"
+        ],
+        "BIG": [
+            "Melih",
+            "Dede",
+            "Salty"
+        ],
+        "Kebap": [
+            "Yuffy",
+            "Tomzy",
+            "Ray092"
+        ],
+        "Fenris Gaming": [
+            "Ciro",
+            "GordonnBoy",
+            "Tex"
+        ],
+        "Reverso Hive": [
+            "Ethan",
+            "Fayelo",
+            "Natrix"
+        ],
+        "Togrubi": [
+            "GuGu",
+            "Shawnn",
+            "Tizzou"
+        ],
+        "Slice Esports": [
+            "Neroxx",
+            "Gripzz",
+            "Elox"
+        ],
+        "DeSienzá": [
+            "SweetLuigi",
+            "Anton",
+            "Paapi"
+        ],
+        "Fenris Academy": [
+            "Slesta",
+            "Oneshot",
+            "Destiny"
+        ],
+        "Bloste": [
+            "Kevin",
+            "Jcertoro",
+            "JosePG"
+        ],
+        "F/A no day 2": [
+            "Fraax",
+            "Wind",
+            "A_polocreed"
+        ],
+        "Kozaki": [
+            "Mebius",
+            "Xenoxz",
+            "ArthuR (Ukranian player)"
+        ],
+        "Zero Sports": [
+            "Vguifer",
+            "Raxyz",
+            "Alphen"
+        ],
+        "Kumalala": [
+            "Castro",
+            "Criss",
+            "Mao"
+        ],
+        "Mimit Prime": [
+            "SusiGuy",
+            "MaRe",
+            "Mimit"
+        ],
+        "TalentsLab": [
+            "Yei Yei",
+            "SanFire",
+            "Agachi"
+        ],
+        "Pressured Coals": [
+            "MantasDabs",
+            "Moka",
+            "Miserable"
+        ],
+        "K13 Esport": [
+            "Arka",
+            "Gonaaaal",
+            "Poun"
+        ],
+        "Mayo Goat": [
+            "GeeJay",
+            "Gordon",
+            "Adriano"
+        ],
+        "The Forbidden 3": [
+            "Bogdan",
+            "Kylie",
+            "vSwEaZy"
+        ],
+        "RSS": [
+            "IVI",
+            "piper",
+            "Laderx"
+        ],
+        "Natare Six": [
+            "ShockRock",
+            "Nic145jr",
+            "Revan"
+        ],
+        "TalentsLab Academy": [
+            "Movess",
+            "VivaLaFlow",
+            "Spocki"
+        ],
+        "Shad Legion Academy": [
+            "Escxnor",
+            "Zevii",
+            "Alex"
+        ],
+        "Tsunami Esports": [
+            "MaiP",
+            "BXander",
+            "NoZern"
+        ],
+        "Rezz talents": [
+            "Pride",
+            "Loayzx",
+            "Zeroksito"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "FUT Esports",
+            "TalentsLab",
+            "HMBLE",
+            "Natus Vincere"
+        ],
+        "5-8": [
+            "BIG",
+            "Kumalazawesta",
+            "Reply Totem",
+            "Team Heretics"
+        ],
+        "9-12": [
+            "Reverso Hive",
+            "NOVO Esports",
+            "Kozaki",
+            "K13 Esport"
+        ],
+        "13-16": [
+            "Shad Legion Academy",
+            "Kebap",
+            "Mimit Prime",
+            "Mayo Goat"
+        ],
+        "17-24": [
+            "Fenris Gaming",
+            "DeSienzá",
+            "Togrubi",
+            "Bloste",
+            "Zero Sports",
+            "RSS",
+            "TalentsLab Academy",
+            "Tsunami Esports"
+        ],
+        "25-32": [
+            "F/A no day 2",
+            "Kumalala",
+            "Slice Esports",
+            "Pressured Coals",
+            "The Forbidden 3",
+            "Natare Six",
+            "Fenris Academy",
+            "Rezz talents"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "FUT Esports",
+            "team_b": "F/A no day 2",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bloste",
+            "team_b": "Kozaki",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "Zero Sports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kebap",
+            "team_b": "Kumalala",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NOVO Esports",
+            "team_b": "Mimit Prime",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Slice Esports",
+            "team_b": "TalentsLab",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Heretics",
+            "team_b": "Pressured Coals",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Togrubi",
+            "team_b": "K13 Esport",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "Mayo Goat",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "DeSienzá",
+            "team_b": "The Forbidden 3",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kumalazawesta",
+            "team_b": "RSS",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Fenris Gaming",
+            "team_b": "Natare Six",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "TalentsLab Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Fenris Academy",
+            "team_b": "Shad Legion Academy",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "Tsunami Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reverso Hive",
+            "team_b": "Rezz talents",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Kozaki",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "Kebap",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NOVO Esports",
+            "team_b": "TalentsLab",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Heretics",
+            "team_b": "Togrubi",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "DeSienzá",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kumalazawesta",
+            "team_b": "Fenris Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "Shad Legion Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "Reverso Hive",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "BIG",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TalentsLab",
+            "team_b": "Team Heretics",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "Kumalazawesta",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "Natus Vincere",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A no day 2",
+            "team_b": "Bloste",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zero Sports",
+            "team_b": "Kumalala",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Mimit Prime",
+            "team_b": "Slice Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pressured Coals",
+            "team_b": "K13 Esport",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Mayo Goat",
+            "team_b": "The Forbidden 3",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "RSS",
+            "team_b": "Natare Six",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TalentsLab Academy",
+            "team_b": "Fenris Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tsunami Esports",
+            "team_b": "Rezz talents",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reverso Hive",
+            "team_b": "Bloste",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Shad Legion Academy",
+            "team_b": "Zero Sports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Fenris Gaming",
+            "team_b": "Mimit Prime",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "DeSienzá",
+            "team_b": "K13 Esport",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Togrubi",
+            "team_b": "Mayo Goat",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "NOVO Esports",
+            "team_b": "RSS",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kebap",
+            "team_b": "TalentsLab Academy",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kozaki",
+            "team_b": "Tsunami Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reverso Hive",
+            "team_b": "Shad Legion Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Mimit Prime",
+            "team_b": "K13 Esport",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Mayo Goat",
+            "team_b": "NOVO Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kebap",
+            "team_b": "Kozaki",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Heretics",
+            "team_b": "Reverso Hive",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG",
+            "team_b": "K13 Esport",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "NOVO Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kumalazawesta",
+            "team_b": "Kozaki",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}

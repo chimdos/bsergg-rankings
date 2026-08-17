@@ -1,0 +1,581 @@
+{
+    "event_id": "northamerica_2026_aug_qualifiers",
+    "name": "August 2026 North America Monthly Qualifier",
+    "date": "2026-08-02",
+    "region": "North America",
+    "event_type": "monthly_qualifier",
+    "rosters": {
+        "Team Elektros": [
+            "Doin",
+            "Memen",
+            "snoiy"
+        ],
+        "Tribe Gaming": [
+            "Lxffy",
+            "Diegogamer",
+            "RBM"
+        ],
+        "KDS Esports": [
+            "bobby",
+            "sans",
+            "Patchy"
+        ],
+        "Vatic Esports": [
+            "duckie",
+            "Ezlivi",
+            "Belal"
+        ],
+        "F/A Homeless": [
+            "Ducky",
+            "Tyrant",
+            "Rafiki"
+        ],
+        "Legacy Esports": [
+            "Zeus",
+            "Zoulan",
+            "Xemp"
+        ],
+        "Utopia": [
+            "Junnie",
+            "Winq",
+            "Nerf"
+        ],
+        "David's Aura": [
+            "Razuen",
+            "David (Venezuelan player)",
+            "GODNOOB"
+        ],
+        "Nameless": [
+            "Zee",
+            "vSxolar",
+            "KayJayOh"
+        ],
+        "Monterrey F/A": [
+            "Samuelito",
+            "Jared",
+            "Grezze"
+        ],
+        "Legacy Academy": [
+            "DarkWolf",
+            "Polone",
+            "Akeno"
+        ],
+        "Nova Esports": [
+            "Squeezy",
+            "Kirito",
+            "PaiN"
+        ],
+        "Lime": [
+            "Lukiebear",
+            "Pierre",
+            "Pika (American player)"
+        ],
+        "MX Team": [
+            "Henry",
+            "Pacho",
+            "Mayito"
+        ],
+        "Momo": [
+            "OG",
+            "secondbest",
+            "sunnyy"
+        ],
+        "tacos and rice": [
+            "INOOBY",
+            "Marcelo",
+            "QuantumPhysi"
+        ],
+        "Clarity": [
+            "Mayhem",
+            "Pomme de terre",
+            "Josh"
+        ],
+        "MX Team Academy": [
+            "Ale",
+            "Panke",
+            "Ra3he"
+        ],
+        "No Name Knights": [
+            "seajay",
+            "poosh",
+            "Mr.Lapraski"
+        ],
+        "No Scrim Goon Team": [
+            "Cosmic",
+            "Striker",
+            "tomar753"
+        ],
+        "Raul": [
+            "Sebi",
+            "MdeMike",
+            "Toonix"
+        ],
+        "Pigeon Is Best": [
+            "tbav",
+            "LeeHarveyOswald",
+            "IM PIGEON"
+        ],
+        "Sheep Squad": [
+            "Jack",
+            "yxkino",
+            "Training"
+        ],
+        "Dumbsmile & friends": [
+            "Resonance",
+            "Codehack",
+            "Tesh"
+        ],
+        "REVERB": [
+            "Oseas",
+            "RetroDoge",
+            "heliopolis"
+        ],
+        "Mommy's good boys": [
+            "hontoreta",
+            "Nayt",
+            "superpanke"
+        ],
+        "Otorrinolari": [
+            "Loids",
+            "DonToliver",
+            "PolloG"
+        ],
+        "Old School NA": [
+            "Artemouche",
+            "Hayk",
+            "Grogu"
+        ],
+        "JCLE": [
+            "humble farmer",
+            "Togame",
+            "valor"
+        ],
+        "Gangsta": [
+            "yorchi",
+            "Snackerz",
+            "Bryan TGG"
+        ],
+        "Kathy's Sister": [
+            "Juice Box",
+            "Alex (North American player)",
+            "Vanessa Kang"
+        ],
+        "Golden Boys": [
+            "I am a Pickle",
+            "Scorp",
+            "Nova (North American player)"
+        ]
+    },
+    "placements": {
+        "1-4": [
+            "Team Elektros",
+            "Vatic Esports",
+            "Tribe Gaming",
+            "KDS Esports"
+        ],
+        "5-8": [
+            "F/A Homeless",
+            "Momo",
+            "Legacy Esports",
+            "Utopia"
+        ],
+        "9-12": [
+            "MX Team",
+            "David's Aura",
+            "Nova Esports",
+            "Sheep Squad"
+        ],
+        "13-16": [
+            "Monterrey F/A",
+            "tacos and rice",
+            "No Scrim Goon Team",
+            "Old School NA"
+        ],
+        "17-24": [
+            "Dumbsmile & friends",
+            "Lime",
+            "Nameless",
+            "Mommy's good boys",
+            "Kathy's Sister",
+            "Golden Boys",
+            "Raul",
+            "Clarity"
+        ],
+        "25-32": [
+            "REVERB",
+            "JCLE",
+            "Gangsta",
+            "Pigeon Is Best",
+            "Otorrinolari",
+            "No Name Knights",
+            "MX Team Academy",
+            "Legacy Academy"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Team Elektros",
+            "team_b": "No Scrim Goon Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "tacos and rice",
+            "team_b": "REVERB",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "David's Aura",
+            "team_b": "JCLE",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nameless",
+            "team_b": "Sheep Squad",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Gangsta",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Lime",
+            "team_b": "Mommy's good boys",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Homeless",
+            "team_b": "Kathy's Sister",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nova Esports",
+            "team_b": "Pigeon Is Best",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Otorrinolari",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Momo",
+            "team_b": "Golden Boys",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Utopia",
+            "team_b": "Old School NA",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Monterrey F/A",
+            "team_b": "No Name Knights",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KDS Esports",
+            "team_b": "Raul",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MX Team",
+            "team_b": "MX Team Academy",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Clarity",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Academy",
+            "team_b": "Dumbsmile & friends",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "tacos and rice",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "David's Aura",
+            "team_b": "Sheep Squad",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "Lime",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Homeless",
+            "team_b": "Nova Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Momo",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Utopia",
+            "team_b": "Monterrey F/A",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KDS Esports",
+            "team_b": "MX Team",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Dumbsmile & friends",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "David's Aura",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Vatic Esports",
+            "team_b": "F/A Homeless",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Utopia",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "KDS Esports",
+            "team_b": "Legacy Esports",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "No Scrim Goon Team",
+            "team_b": "REVERB",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "JCLE",
+            "team_b": "Nameless",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Gangsta",
+            "team_b": "Mommy's good boys",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Kathy's Sister",
+            "team_b": "Pigeon Is Best",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Otorrinolari",
+            "team_b": "Golden Boys",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Old School NA",
+            "team_b": "No Name Knights",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Raul",
+            "team_b": "MX Team Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Clarity",
+            "team_b": "Legacy Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dumbsmile & friends",
+            "team_b": "No Scrim Goon Team",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MX Team",
+            "team_b": "Nameless",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Monterrey F/A",
+            "team_b": "Mommy's good boys",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Momo",
+            "team_b": "Kathy's Sister",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nova Esports",
+            "team_b": "Golden Boys",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Lime",
+            "team_b": "Old School NA",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sheep Squad",
+            "team_b": "Raul",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "tacos and rice",
+            "team_b": "Clarity",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "No Scrim Goon Team",
+            "team_b": "MX Team",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Monterrey F/A",
+            "team_b": "Momo",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nova Esports",
+            "team_b": "Old School NA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Sheep Squad",
+            "team_b": "tacos and rice",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Homeless",
+            "team_b": "MX Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "David's Aura",
+            "team_b": "Momo",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Legacy Esports",
+            "team_b": "Nova Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Utopia",
+            "team_b": "Sheep Squad",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}
