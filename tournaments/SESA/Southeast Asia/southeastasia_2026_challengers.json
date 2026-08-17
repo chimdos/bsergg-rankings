@@ -1,0 +1,36 @@
+{
+    "event_id": "southeastasia_2026_challengers",
+    "name": "Southeast Asia 2026 Challengers Finals",
+    "date": "2026-07-18",
+    "region": "Southeast Asia",
+    "event_type": "southeastasia_2026_challengers",
+    "rosters": {
+        "Revenant XSpark": [
+            "Sergeant",
+            "X9Jay",
+            "Walkthrough"
+        ],
+        "Wigglyspoo Team": [
+            "Response",
+            "Prime",
+            "Killer34"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Revenant XSpark"
+        ],
+        "2": [
+            "Wigglyspoo Team"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Wigglyspoo Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}

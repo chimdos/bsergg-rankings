@@ -1,0 +1,143 @@
+{
+    "event_id": "sesa_2026_rtbc",
+    "name": "Road To Brawl Cup 2026 SESA",
+    "date": "2026-03-08",
+    "region": "SESA",
+    "event_type": "sesa_2026_rtbc",
+    "rosters": {
+        "Revenant XSpark": [
+            "Hiroshii",
+            "Sergeant",
+            "Walkthrough"
+        ],
+        "Prime Bears": [
+            "X9Jay",
+            "Prime",
+            "Killer34"
+        ],
+        "MM": [
+            "Limit3d",
+            "Oeo",
+            "Sakura (Singaporean player)"
+        ],
+        "Overthrow": [
+            "Valiant",
+            "Sufiyan",
+            "Muzan"
+        ],
+        "ABC": [
+            "Ash King",
+            "CaptainRoxx",
+            "Yash"
+        ],
+        "77": [
+            "RR1446",
+            "Habg77",
+            "Post"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Revenant XSpark"
+        ],
+        "2": [
+            "Overthrow"
+        ],
+        "3": [
+            "ABC"
+        ],
+        "4": [
+            "Prime Bears"
+        ],
+        "5-6": [
+            "MM",
+            "77"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Prime Bears",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "MM",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MM",
+            "team_b": "Prime Bears",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ABC",
+            "team_b": "Overthrow",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ABC",
+            "team_b": "77",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Overthrow",
+            "team_b": "77",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Overthrow",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ABC",
+            "team_b": "Prime Bears",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "ABC",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Overthrow",
+            "team_b": "Prime Bears",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ABC",
+            "team_b": "Overthrow",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Overthrow",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}

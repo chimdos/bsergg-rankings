@@ -1,0 +1,118 @@
+{
+    "event_id": "southasia_2026_challengers_s3_finals",
+    "name": "Season 3 2026 South Asia Challengers Monthly Finals",
+    "date": "2026-07-12",
+    "region": "South Asia",
+    "event_type": "southasia_2026_challengers_finals",
+    "rosters": {
+        "0 Ping Merchants": [
+            "Ash King",
+            "Trashant",
+            "Sufiyan"
+        ],
+        "Cypher": [
+            "Flaca",
+            "Zenith",
+            "Reysan"
+        ],
+        "Chattu YT": [
+            "Chattu",
+            "Nub",
+            "wildwiz"
+        ],
+        "Deadbeats": [
+            "Kiyokouji",
+            "Aryan",
+            "Preetu"
+        ],
+        "Anteiku": [
+            "xJayn",
+            "Espada",
+            "Alpha"
+        ],
+        "Obesity": [
+            "Ehan",
+            "Oti",
+            "Lexi"
+        ],
+        "Hello Kitty": [
+            "Flick",
+            "CaptainRoxx",
+            "SkyZeN"
+        ],
+        "LightWork": [
+            "Shubh",
+            "Renji",
+            "Stroke"
+        ]
+    },
+    "placements": {
+        "1": [
+            "0 Ping Merchants"
+        ],
+        "2": [
+            "Hello Kitty"
+        ],
+        "3-4": [
+            "Deadbeats",
+            "Obesity"
+        ],
+        "5-8": [
+            "Cypher",
+            "Chattu YT",
+            "Anteiku",
+            "LightWork"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "0 Ping Merchants",
+            "team_b": "Cypher",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Chattu YT",
+            "team_b": "Deadbeats",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Obesity",
+            "team_b": "Anteiku",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Hello Kitty",
+            "team_b": "LightWork",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "0 Ping Merchants",
+            "team_b": "Deadbeats",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Obesity",
+            "team_b": "Hello Kitty",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "0 Ping Merchants",
+            "team_b": "Hello Kitty",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}

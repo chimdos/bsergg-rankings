@@ -1,0 +1,36 @@
+{
+    "event_id": "southasia_2026_challengers",
+    "name": "South Asia 2026 Challengers Finals",
+    "date": "2026-07-18",
+    "region": "South Asia",
+    "event_type": "southasia_2026_challengers",
+    "rosters": {
+        "0 Ping Merchants": [
+            "Ash King",
+            "Trashant",
+            "Raw"
+        ],
+        "LightWork": [
+            "Shubh",
+            "Renji",
+            "Stroke"
+        ]
+    },
+    "placements": {
+        "1": [
+            "0 Ping Merchants"
+        ],
+        "2": [
+            "LightWork"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "0 Ping Merchants",
+            "team_b": "LightWork",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}

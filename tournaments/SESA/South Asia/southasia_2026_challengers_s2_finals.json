@@ -1,0 +1,118 @@
+{
+    "event_id": "southasia_2026_challengers_s2_finals",
+    "name": "Season 2 2026 South Asia Challengers Monthly Finals",
+    "date": "2026-06-28",
+    "region": "South Asia",
+    "event_type": "southasia_2026_challengers_finals",
+    "rosters": {
+        "0 Ping Merchants": [
+            "Ash King",
+            "Trashant",
+            "Sufiyan (sub)"
+        ],
+        "LightWork": [
+            "Shubh",
+            "Renji",
+            "Stroke"
+        ],
+        "Brand New Day": [
+            "AarenSis",
+            "Speerrow",
+            "Hydra Khayatt"
+        ],
+        "For You": [
+            "LEGEND",
+            "Dodim",
+            "Oeo"
+        ],
+        "East Coast": [
+            "Beasty",
+            "Maverick",
+            "Prime (Indian player)"
+        ],
+        "Obesity": [
+            "Ehan",
+            "Oti",
+            "Lexi"
+        ],
+        "Quarters Kitty": [
+            "Flick",
+            "Muzan (sub)",
+            "Valiant"
+        ],
+        "29 August": [
+            "Ashish Sihag",
+            "Meêt",
+            "Brawl pro"
+        ]
+    },
+    "placements": {
+        "1": [
+            "0 Ping Merchants"
+        ],
+        "2": [
+            "For You"
+        ],
+        "3-4": [
+            "LightWork",
+            "Obesity"
+        ],
+        "5-8": [
+            "29 August",
+            "Brand New Day",
+            "East Coast",
+            "Quarters Kitty"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "0 Ping Merchants",
+            "team_b": "29 August",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LightWork",
+            "team_b": "Brand New Day",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "For You",
+            "team_b": "East Coast",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Obesity",
+            "team_b": "Quarters Kitty",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "0 Ping Merchants",
+            "team_b": "LightWork",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "For You",
+            "team_b": "Obesity",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "0 Ping Merchants",
+            "team_b": "For You",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "event_id": "southasia_2026_challengers_s1_finals",
+    "name": "Season 1 2026 South Asia Challengers Monthly Finals",
+    "date": "2026-06-14",
+    "region": "South Asia",
+    "event_type": "southasia_2026_challengers_finals",
+    "rosters": {
+        "Overthrow": [
+            "majdoo",
+            "Prog",
+            "Nemes1s"
+        ],
+        "LightWork": [
+            "Shubh",
+            "Renji",
+            "Stroke"
+        ],
+        "Brand New Day": [
+            "AarenSis",
+            "Speerrow",
+            "Chichi"
+        ],
+        "0 Ping Merchants": [
+            "Ash King",
+            "Trashant",
+            "AAMIR LORD"
+        ],
+        "Light Horse": [
+            "Oti (sub)",
+            "Ash Uchiha",
+            "geco"
+        ],
+        "5 Button": [
+            "Darky",
+            "LEXI",
+            "Arcj7"
+        ],
+        "Aether": [
+            "RyoKuza",
+            "Guinevere",
+            "Prime (Indian player)"
+        ],
+        "Cat Walkers": [
+            "Yash",
+            "Muzan",
+            "Raw"
+        ]
+    },
+    "placements": {
+        "1": [
+            "0 Ping Merchants"
+        ],
+        "2": [
+            "5 Button"
+        ],
+        "3-4": [
+            "LightWork",
+            "Aether"
+        ],
+        "5-8": [
+            "Overthrow",
+            "Brand New Day",
+            "Light Horse",
+            "Cat Walkers"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Overthrow",
+            "team_b": "LightWork",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Brand New Day",
+            "team_b": "0 Ping Merchants",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Light Horse",
+            "team_b": "5 Button",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Aether",
+            "team_b": "Cat Walkers",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "LightWork",
+            "team_b": "0 Ping Merchants",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "5 Button",
+            "team_b": "Aether",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "0 Ping Merchants",
+            "team_b": "5 Button",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        }
+    ]
+}

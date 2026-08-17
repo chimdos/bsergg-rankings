@@ -1,0 +1,185 @@
+{
+    "event_id": "southasia_2026_rtbc_regional",
+    "name": "Road To Brawl Cup 2026 South Asia Regional League",
+    "date": "2026-03-01",
+    "region": "Southeast Asia",
+    "event_type": "southasia_2026_rtbc_regional",
+    "rosters": {
+        "ABC": [
+            "Ash King",
+            "CaptainRoxx",
+            "Yash"
+        ],
+        "Overthrow": [
+            "Valiant",
+            "Muzan",
+            "Sufiyan"
+        ],
+        "I guess bro": [
+            "Luay",
+            "KH",
+            "Roni"
+        ],
+        "77": [
+            "RR1446",
+            "Habg77",
+            "Post"
+        ],
+        "Zorólix": [
+            "Beasty",
+            "Zorólix",
+            "More"
+        ],
+        "Not Etoile": [
+            "Wildwiz",
+            "Nub",
+            "Soggy"
+        ],
+        "Nini Tem": [
+            "AarenSis",
+            "Speerrow",
+            "Hydra Khayatt"
+        ],
+        "Punch The Monkey": [
+            "Flick",
+            "Dodim",
+            "LEGEND"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Overthrow"
+        ],
+        "2": [
+            "ABC"
+        ],
+        "3": [
+            "77"
+        ],
+        "4": [
+            "Not Etoile"
+        ],
+        "5-6": [
+            "Punch The Monkey",
+            "Nini Tem"
+        ],
+        "7-8": [
+            "Zorólix",
+            "I guess bro"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "ABC",
+            "team_b": "Punch The Monkey",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Not Etoile",
+            "team_b": "Zorólix",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Punch The Monkey",
+            "team_b": "Zorólix",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Not Etoile",
+            "team_b": "ABC",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Not Etoile",
+            "team_b": "Punch The Monkey",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ABC",
+            "team_b": "Zorólix",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "77",
+            "team_b": "Nini Tem",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Overthrow",
+            "team_b": "Nini Tem",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "77",
+            "team_b": "I guess bro",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Overthrow",
+            "team_b": "77",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Nini Tem",
+            "team_b": "I guess bro",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Overthrow",
+            "team_b": "I guess bro",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ABC",
+            "team_b": "77",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Overthrow",
+            "team_b": "Not Etoile",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ABC",
+            "team_b": "Overthrow",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "77",
+            "team_b": "Not Etoile",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        }
+    ]
+}

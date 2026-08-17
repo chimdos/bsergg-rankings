@@ -1,0 +1,118 @@
+{
+    "event_id": "southeastasia_2026_challengers_s1_finals",
+    "name": "Season 1 2026 Southeast Asia Challengers Monthly Finals",
+    "date": "2026-06-14",
+    "region": "Southeast Asia",
+    "event_type": "southeastasia_2026_challengers_finals",
+    "rosters": {
+        "Wigglyspoo Team": [
+            "Response",
+            "Hiroshii",
+            "Prime"
+        ],
+        "ANZ Eclipse": [
+            "SoloSavage",
+            "voidyy09",
+            "huntman13"
+        ],
+        "Davede Esports": [
+            "tiredaloy",
+            "sleepydaviiii",
+            "hallooo9"
+        ],
+        "Seafield": [
+            "Raymond",
+            "Roach",
+            "Tarik (sub)"
+        ],
+        "Cutie Patooties": [
+            "bobamc",
+            "太帅了没办法呀！",
+            "Shawarma"
+        ],
+        "Revenant XSpark": [
+            "Sergeant",
+            "X9Jay",
+            "Walkthrough"
+        ],
+        "Reckon?": [
+            "Kaden",
+            "Kay",
+            "Lark"
+        ],
+        "Idk": [
+            "Buttler",
+            "Legend27",
+            "tempest"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Revenant XSpark"
+        ],
+        "2": [
+            "Wigglyspoo Team"
+        ],
+        "3-4": [
+            "Davede Esports",
+            "Reckon?"
+        ],
+        "5-8": [
+            "ANZ Eclipse",
+            "Seafield",
+            "Cutie Patooties",
+            "Idk"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Wigglyspoo Team",
+            "team_b": "ANZ Eclipse",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Davede Esports",
+            "team_b": "Seafield",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Cutie Patooties",
+            "team_b": "Revenant XSpark",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reckon?",
+            "team_b": "Idk",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Wigglyspoo Team",
+            "team_b": "Davede Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Reckon?",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Wigglyspoo Team",
+            "team_b": "Revenant XSpark",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

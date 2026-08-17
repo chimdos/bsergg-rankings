@@ -1,0 +1,118 @@
+{
+    "event_id": "southeastasia_2026_challengers_s2_finals",
+    "name": "Season 2 2026 Southeast Asia Challengers Monthly Finals",
+    "date": "2026-06-28",
+    "region": "Southeast Asia",
+    "event_type": "southeastasia_2026_challengers_finals",
+    "rosters": {
+        "Revenant XSpark": [
+            "Sergeant",
+            "X9Jay",
+            "Walkthrough"
+        ],
+        "Hapyhapy": [
+            "Celestial",
+            "Sakura (Singaporean player)",
+            "Killer34 (sub)"
+        ],
+        "Chocolate Banana": [
+            "darkfire",
+            "Chronos",
+            "Bruhgerz"
+        ],
+        "Seafield": [
+            "Raymond",
+            "Roach",
+            "Aizai"
+        ],
+        "Izt Stinks": [
+            "yunjin",
+            "chae",
+            "Judg3ment"
+        ],
+        "Cutie Patooties": [
+            "Nyanpi6",
+            "太帅了没办法呀！",
+            "Shawarma"
+        ],
+        "GBD": [
+            "Senna",
+            "Rice",
+            "DY222"
+        ],
+        "Wigglyspoo Team": [
+            "Response",
+            "Vex",
+            "Hiroshii"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Revenant XSpark"
+        ],
+        "2": [
+            "Wigglyspoo Team"
+        ],
+        "3-4": [
+            "Chocolate Banana",
+            "Izt Stinks"
+        ],
+        "5-8": [
+            "Hapyhapy",
+            "Seafield",
+            "Cutie Patooties",
+            "GBD"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Hapyhapy",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Chocolate Banana",
+            "team_b": "Seafield",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Izt Stinks",
+            "team_b": "Cutie Patooties",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "GBD",
+            "team_b": "Wigglyspoo Team",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Chocolate Banana",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Izt Stinks",
+            "team_b": "Wigglyspoo Team",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Wigglyspoo Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "event_id": "southeastasia_2026_challengers_s3_finals",
+    "name": "Season 3 2026 Southeast Asia Challengers Monthly Finals",
+    "date": "2026-07-12",
+    "region": "Southeast Asia",
+    "event_type": "southeastasia_2026_challengers_finals",
+    "rosters": {
+        "Revenant XSpark": [
+            "Sergeant",
+            "X9Jay",
+            "Walkthrough"
+        ],
+        "Raging Bots Team": [
+            "Bacon培根",
+            "Lightning's dad",
+            "Poliwrath"
+        ],
+        "Onik ID": [
+            "Sienseka",
+            "KrisnaEmka",
+            "Bigual7"
+        ],
+        "Seafield": [
+            "Raymond",
+            "voidyy09",
+            "Gemini"
+        ],
+        "Izt Stinks": [
+            "yunjin",
+            "chae",
+            "Hydrogen"
+        ],
+        "Cutie Patooties": [
+            "bobamc",
+            "太帅了没办法呀！",
+            "Mones"
+        ],
+        "F/A Froggy": [
+            "RTCarrela",
+            "JersonEXE",
+            "Starsjo"
+        ],
+        "Wigglyspoo Team": [
+            "Response",
+            "Prime",
+            "Killer34"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Wigglyspoo Team"
+        ],
+        "2": [
+            "Revenant XSpark"
+        ],
+        "3-4": [
+            "Seafield",
+            "Cutie Patooties"
+        ],
+        "5-8": [
+            "Raging Bots Team",
+            "Onik ID",
+            "Izt Stinks",
+            "F/A Froggy"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Raging Bots Team",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Seafield",
+            "team_b": "Onik ID",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Izt Stinks",
+            "team_b": "Cutie Patooties",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "F/A Froggy",
+            "team_b": "Wigglyspoo Team",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Seafield",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Cutie Patooties",
+            "team_b": "Wigglyspoo Team",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Wigglyspoo Team",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}

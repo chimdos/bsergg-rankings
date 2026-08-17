@@ -1,0 +1,185 @@
+{
+    "event_id": "southeastasia_2026_rtbc_regional",
+    "name": "Road To Brawl Cup 2026 Southeast Asia Regional League",
+    "date": "2026-03-01",
+    "region": "Southeast Asia",
+    "event_type": "southeastasia_2026_rtbc_regional",
+    "rosters": {
+        "MM": [
+            "Limit3d",
+            "Oeo",
+            "Sakura (Singaporean player)"
+        ],
+        "Revenant XSpark": [
+            "Hiroshii",
+            "Sergeant",
+            "Walkthrough"
+        ],
+        "Natare Six SEA": [
+            "Siesta",
+            "Charge",
+            "Milohater"
+        ],
+        "Prime Bears": [
+            "X9Jay",
+            "Prime",
+            "Killer34"
+        ],
+        "TalentS": [
+            "Segton",
+            "Sage",
+            "TJThrash"
+        ],
+        "Certuk": [
+            "for michelle",
+            "James doakes",
+            "sodaaaaa"
+        ],
+        "Pookies": [
+            "LyPropan",
+            "Zeus (Australian player)",
+            "Sienseka"
+        ],
+        "Athena Esports": [
+            "lucas01",
+            "Electro",
+            "Jai"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Revenant XSpark"
+        ],
+        "2": [
+            "Prime Bears"
+        ],
+        "3": [
+            "MM"
+        ],
+        "4": [
+            "Natare Six SEA"
+        ],
+        "5-6": [
+            "TalentS",
+            "Pookies"
+        ],
+        "7-8": [
+            "Certuk",
+            "Athena Esports"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "MM",
+            "team_b": "Revenant XSpark",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MM",
+            "team_b": "TalentS",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "TalentS",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Certuk",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MM",
+            "team_b": "Certuk",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "TalentS",
+            "team_b": "Certuk",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Prime Bears",
+            "team_b": "Athena Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pookies",
+            "team_b": "Natare Six SEA",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pookies",
+            "team_b": "Prime Bears",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Prime Bears",
+            "team_b": "Natare Six SEA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Pookies",
+            "team_b": "Athena Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natare Six SEA",
+            "team_b": "Athena Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Natare Six SEA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Prime Bears",
+            "team_b": "MM",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "Prime Bears",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "MM",
+            "team_b": "Natare Six SEA",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        }
+    ]
+}
