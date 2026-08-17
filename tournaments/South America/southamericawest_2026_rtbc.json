@@ -1,0 +1,307 @@
+{
+    "event_id": "southamericawest_2026_rtbc",
+    "name": "Road To Brawl Cup 2026 South America West",
+    "date": "2026-02-28",
+    "region": "South America West",
+    "event_type": "southamericawest_2026_rtbc",
+    "rosters": {
+        "Zurita Gang": [
+            "Jxcr",
+            "Bryan",
+            "Joefav"
+        ],
+        "Enosis eSports": [
+            "Deykon",
+            "B4st",
+            "Exic"
+        ],
+        "Un Sueño Incompleto": [
+            "Todd",
+            "Kai",
+            "Anyus"
+        ],
+        "Cristina Lovers F/A": [
+            "Alonso",
+            "VenoX",
+            "Tano"
+        ],
+        "Dame Paleta F/A": [
+            "Reborn",
+            "Trick",
+            "Max"
+        ],
+        "Ice Frio Hielo": [
+            "Bradbari",
+            "ySxba",
+            "Diego"
+        ],
+        "FJC F/A": [
+            "Fernanlonzo",
+            "Jose Candioti",
+            "Coper"
+        ],
+        "Los Flaites": [
+            "Predicador",
+            "Peter",
+            "Starboy"
+        ],
+        "Comeback": [
+            "Renxkzs",
+            "Carlos",
+            "Alee"
+        ],
+        "Capiatá FC": [
+            "Chocoxidized",
+            "Zombie Killer",
+            "Geamprofi"
+        ],
+        "Dropeados 2026": [
+            "Daidote",
+            "Chinoo",
+            "Benja"
+        ],
+        "BlackX": [
+            "Santixleft",
+            "Rollo",
+            "Lucasbq"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Un Sueño Incompleto"
+        ],
+        "2": [
+            "Zurita Gang"
+        ],
+        "3": [
+            "Ice Frio Hielo"
+        ],
+        "4": [
+            "Dame Paleta F/A"
+        ],
+        "5-8": [
+            "FJC F/A",
+            "Dropeados 2026",
+            "Enosis eSports",
+            "Comeback"
+        ],
+        "9-12": [
+            "Cristina Lovers F/A",
+            "BlackX",
+            "Los Flaites",
+            "Capiatá FC"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "FJC F/A",
+            "team_b": "Un Sueño Incompleto",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Un Sueño Incompleto",
+            "team_b": "FJC F/A",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Cristina Lovers F/A",
+            "team_b": "FJC F/A",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Un Sueño Incompleto",
+            "team_b": "Cristina Lovers F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FJC F/A",
+            "team_b": "Cristina Lovers F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Cristina Lovers F/A",
+            "team_b": "Un Sueño Incompleto",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dropeados 2026",
+            "team_b": "BlackX",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Dropeados 2026",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BlackX",
+            "team_b": "Zurita Gang",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BlackX",
+            "team_b": "Dropeados 2026",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dropeados 2026",
+            "team_b": "Zurita Gang",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "BlackX",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ice Frio Hielo",
+            "team_b": "Los Flaites",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "Ice Frio Hielo",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Los Flaites",
+            "team_b": "Enosis eSports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Los Flaites",
+            "team_b": "Ice Frio Hielo",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ice Frio Hielo",
+            "team_b": "Enosis eSports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Enosis eSports",
+            "team_b": "Los Flaites",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dame Paleta F/A",
+            "team_b": "Comeback",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Capiatá FC",
+            "team_b": "Dame Paleta F/A",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Comeback",
+            "team_b": "Capiatá FC",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Comeback",
+            "team_b": "Dame Paleta F/A",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Dame Paleta F/A",
+            "team_b": "Capiatá FC",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Capiatá FC",
+            "team_b": "Comeback",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Un Sueño Incompleto",
+            "team_b": "Dame Paleta F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Ice Frio Hielo",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Un Sueño Incompleto",
+            "team_b": "Zurita Gang",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Ice Frio Hielo",
+            "team_b": "Dame Paleta F/A",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Zurita Gang",
+            "team_b": "Ice Frio Hielo",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Un Sueño Incompleto",
+            "team_b": "Zurita Gang",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        }
+    ]
+}
