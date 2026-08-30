@@ -1,4 +1,5 @@
 # Global BSERgg Rankings
+Last Update: August 30th, 2026
 
 | POSITION | TEAM NAME | REGION | TOTAL POINTS |
 | :---: | :--- | :---: | :---: |
@@ -20,7 +21,7 @@
 | 16 | **SKCalalas EA** | East Asia | 306.75 |
 | 17 | **F/A Homeless** | North America | 300.32 |
 | 18 | **Rival Esports** | East Asia | 299.11 |
-| 19 | **FENNEL** | International | 295.85 |
+| 19 | **FENNEL** | East Asia | 295.85 |
 | 20 | **NOVO Esports** | EMEA | 287.63 |
 | 21 | **REJECT** | East Asia | 271.29 |
 | 22 | **Olimpo Squad** | South America | 253.38 |
@@ -28,14 +29,14 @@
 | 24 | **Acre Lovers** | South America | 228.08 |
 | 25 | **SKCalalas** | South America | 211.80 |
 | 26 | **Natus Vincere** | EMEA | 208.90 |
-| 27 | **CGN Esports** | International | 191.71 |
+| 27 | **CGN Esports** | EMEA | 191.71 |
 | 28 | **TalentsLab** | EMEA | 191.61 |
 | 29 | **Legacy Esports** | North America | 186.86 |
-| 30 | **BIG Challengers** | International | 177.50 |
+| 30 | **BIG Challengers** | EMEA | 177.50 |
 | 31 | **0 Ping Merchants** | South Asia | 173.21 |
 | 32 | **BIG** | EMEA | 169.11 |
 | 33 | **IGNUM** | East Asia | 162.16 |
-| 34 | **Amnesia Esports** | International | 161.04 |
+| 34 | **Amnesia Esports** | North America | 161.04 |
 | 35 | **Momo** | North America | 157.86 |
 | 36 | **Frenzy Esports** | East Asia | 145.99 |
 | 37 | **Toxic Lotus** | China | 141.19 |
