@@ -1,0 +1,84 @@
+{
+    "teams": {
+        "Tribe Gaming": [
+            "Lxffy",
+            "RBM",
+            "Zeus"
+        ],
+        "Spacestation Gaming": [
+            "Chino",
+            "bobby",
+            "sans"
+        ],
+        "STMN Esports": [
+            "PaiN",
+            "tacos",
+            "Juan Carlos"
+        ],
+        "LOUD": [
+            "KaioDog",
+            "Edinho",
+            "FireCrow"
+        ],
+        "SKCalalas": [
+            "Rhz",
+            "Kr",
+            "Prozy"
+        ],
+        "ZETA DIVISION": [
+            "Levi",
+            "Sizuku",
+            "Sitetampo"
+        ],
+        "REJECT": [
+            "Shu",
+            "Batman",
+            "Melty"
+        ],
+        "SK Gaming": [
+            "Yoshi",
+            "OPE",
+            "Joker"
+        ],
+        "HMBLE": [
+            "BosS",
+            "Symantec",
+            "Lukii"
+        ],
+        "Team Heretics": [
+            "Zhar",
+            "iKaoss",
+            "LeNain"
+        ],
+        "FUT Esports": [
+            "GeRo",
+            "MeOw",
+            "Nowy297"
+        ],
+        "NOVO Esports": [
+            "Marco",
+            "Biso",
+            "Subeme"
+        ],
+        "Revenant XSpark": [
+            "Response",
+            "Sergeant",
+            "X9Jay"
+        ],
+        "Reply Totem": [
+            "Maru",
+            "Maury",
+            "Angelboy"
+        ],
+        "Crazy Raccoon": [
+            "Tensai",
+            "Milkreo",
+            "Moya"
+        ],
+        "Papara SuperMassive": [
+            "Tomzy",
+            "Filippo",
+            "Enraged"
+        ]
+    }
+}
