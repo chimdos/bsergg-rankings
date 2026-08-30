@@ -10,7 +10,7 @@
             "Solstice",
             "Tryhard"
         ],
-        "Natare Six/FA 120 Ping": [
+        "Natare Six": [
             "ShockRock",
             "Nic145jr",
             "Revan"
@@ -30,7 +30,7 @@
             "Moha21",
             "Sxjic"
         ],
-        "The Lethal Force/Madrid": [
+        "The Lethal Force": [
             "Rup",
             "Amos",
             "Mine"
@@ -44,13 +44,13 @@
     "_comment": "placements playoffs abaixo. code guillevgx vem da offline qualifier",
     "placements": {
         "1": [
-            "The Lethal Force/Madrid"
+            "The Lethal Force"
         ],
         "2": [
             "Unlucky"
         ],
         "3": [
-            "Natare Six/FA 120 Ping"
+            "Natare Six"
         ],
         "4": [
             "Code: GuilleVGX"
@@ -62,13 +62,13 @@
             "SK Gaming"
         ],
         "2": [
-            "The Lethal Force/Madrid"
+            "The Lethal Force"
         ],
         "3": [
             "Unlucky"
         ],
         "4": [
-            "Natare Six/FA 120 Ping"
+            "Natare Six"
         ],
         "5": [
             "La Milicia"
@@ -79,14 +79,14 @@
     },
     "matches": [
         {
-            "team_a": "The Lethal Force/Madrid",
+            "team_a": "The Lethal Force",
             "team_b": "Unlucky",
             "score_a": 3,
             "score_b": 0,
             "format": "bo5"
         },
         {
-            "team_a": "Natare Six/FA 120 Ping",
+            "team_a": "Natare Six",
             "team_b": "La Milicia",
             "score_a": 3,
             "score_b": 2,
@@ -108,14 +108,14 @@
         },
         {
             "team_a": "Stream>Skill",
-            "team_b": "The Lethal Force/Madrid",
+            "team_b": "The Lethal Force",
             "score_a": 0,
             "score_b": 3,
             "format": "bo5"
         },
         {
             "team_a": "Unlucky",
-            "team_b": "Natare Six/FA 120 Ping",
+            "team_b": "Natare Six",
             "score_a": 3,
             "score_b": 1,
             "format": "bo5"
@@ -135,14 +135,14 @@
             "format": "bo5"
         },
         {
-            "team_a": "The Lethal Force/Madrid",
-            "team_b": "Natare Six/FA 120 Ping",
+            "team_a": "The Lethal Force",
+            "team_b": "Natare Six",
             "score_a": 3,
             "score_b": 0,
             "format": "bo5"
         },
         {
-            "team_a": "Natare Six/FA 120 Ping",
+            "team_a": "Natare Six",
             "team_b": "SK Gaming",
             "score_a": 0,
             "score_b": 3,
@@ -157,20 +157,20 @@
         },
         {
             "team_a": "La Milicia",
-            "team_b": "The Lethal Force/Madrid",
+            "team_b": "The Lethal Force",
             "score_a": 0,
             "score_b": 3,
             "format": "bo5"
         },
         {
             "team_a": "Stream>Skill",
-            "team_b": "Natare Six/FA 120 Ping",
+            "team_b": "Natare Six",
             "score_a": 0,
             "score_b": 3,
             "format": "bo5"
         },
         {
-            "team_a": "The Lethal Force/Madrid",
+            "team_a": "The Lethal Force",
             "team_b": "SK Gaming",
             "score_a": 2,
             "score_b": 3,
@@ -184,28 +184,28 @@
             "format": "bo5"
         },
         {
-            "team_a": "The Lethal Force/Madrid",
+            "team_a": "The Lethal Force",
             "team_b": "Code: GuilleVGX",
             "score_a": 3,
             "score_b": 2,
             "format": "bo5"
         },
         {
-            "team_a": "Natare Six/FA 120 Ping",
+            "team_a": "Natare Six",
             "team_b": "Unlucky",
             "score_a": 2,
             "score_b": 3,
             "format": "bo5"
         },
         {
-            "team_a": "The Lethal Force/Madrid",
+            "team_a": "The Lethal Force",
             "team_b": "Unlucky",
             "score_a": 3,
             "score_b": 0,
             "format": "bo5"
         },
         {
-            "team_a": "Natare Six/FA 120 Ping",
+            "team_a": "Natare Six",
             "team_b": "Code: GuilleVGX",
             "score_a": 3,
             "score_b": 1,
@@ -213,20 +213,20 @@
         },
         {
             "team_a": "Unlucky",
-            "team_b": "Natare Six/FA 120 Ping",
+            "team_b": "Natare Six",
             "score_a": 3,
             "score_b": 0,
             "format": "bo5"
         },
         {
-            "team_a": "The Lethal Force/Madrid",
+            "team_a": "The Lethal Force",
             "team_b": "Unlucky",
             "score_a": 0,
             "score_b": 3,
             "format": "bo5"
         },
         {
-            "team_a": "The Lethal Force/Madrid",
+            "team_a": "The Lethal Force",
             "team_b": "Unlucky",
             "score_a": 3,
             "score_b": 2,
