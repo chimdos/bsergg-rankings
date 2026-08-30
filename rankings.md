@@ -1,5 +1,4 @@
 # Global BSERgg Rankings
-Last Update: August 30th, 2026
 
 | POSITION | TEAM NAME | REGION | TOTAL POINTS |
 | :---: | :--- | :---: | :---: |
@@ -15,28 +14,28 @@ Last Update: August 30th, 2026
 | 10 | **LOUD** | South America | 419.87 |
 | 11 | **RED Canids** | South America | 411.38 |
 | 12 | **KDS Esports** | North America | 373.64 |
-| 13 | **OCX Division** | South America | 342.24 |
-| 14 | **Team Heretics** | EMEA | 331.19 |
-| 15 | **Revenant XSpark** | Southeast Asia | 315.92 |
-| 16 | **SKCalalas EA** | East Asia | 306.75 |
-| 17 | **F/A Homeless** | North America | 300.32 |
-| 18 | **Rival Esports** | East Asia | 299.11 |
-| 19 | **FENNEL** | East Asia | 295.85 |
-| 20 | **NOVO Esports** | EMEA | 287.63 |
-| 21 | **REJECT** | East Asia | 271.29 |
-| 22 | **Olimpo Squad** | South America | 253.38 |
-| 23 | **FUT Esports Academy** | EMEA | 229.69 |
-| 24 | **Acre Lovers** | South America | 228.08 |
-| 25 | **SKCalalas** | South America | 211.80 |
-| 26 | **Natus Vincere** | EMEA | 208.90 |
-| 27 | **CGN Esports** | EMEA | 191.71 |
-| 28 | **TalentsLab** | EMEA | 191.61 |
+| 13 | **Team Heretics** | EMEA | 331.19 |
+| 14 | **Revenant XSpark** | Southeast Asia | 315.92 |
+| 15 | **SKCalalas EA** | East Asia | 306.75 |
+| 16 | **F/A Homeless** | North America | 300.32 |
+| 17 | **Rival Esports** | East Asia | 299.11 |
+| 18 | **FENNEL** | East Asia | 295.85 |
+| 19 | **NOVO Esports** | EMEA | 287.63 |
+| 20 | **REJECT** | East Asia | 271.29 |
+| 21 | **Olimpo Squad** | South America | 253.38 |
+| 22 | **FUT Esports Academy** | EMEA | 229.69 |
+| 23 | **Acre Lovers** | South America | 228.08 |
+| 24 | **SKCalalas** | South America | 211.80 |
+| 25 | **Natus Vincere** | EMEA | 208.90 |
+| 26 | **CGN Esports** | International | 191.71 |
+| 27 | **TalentsLab** | EMEA | 191.61 |
+| 28 | **OCX Division** | South America | 188.15 |
 | 29 | **Legacy Esports** | North America | 186.86 |
-| 30 | **BIG Challengers** | EMEA | 177.50 |
+| 30 | **BIG Challengers** | International | 177.50 |
 | 31 | **0 Ping Merchants** | South Asia | 173.21 |
 | 32 | **BIG** | EMEA | 169.11 |
 | 33 | **IGNUM** | East Asia | 162.16 |
-| 34 | **Amnesia Esports** | North America | 161.04 |
+| 34 | **Amnesia Esports** | International | 161.04 |
 | 35 | **Momo** | North America | 157.86 |
 | 36 | **Frenzy Esports** | East Asia | 145.99 |
 | 37 | **Toxic Lotus** | China | 141.19 |
