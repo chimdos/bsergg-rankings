@@ -244,7 +244,7 @@ class MarkdownExporter:
         with open(output_path, "w", encoding="utf-8") as file:
             file.write(content)
             
-        print(f"Ranking exportado com sucesso em: {output_path.name}")
+        print(f"Ranking exported with success to: {output_path.name}")
 
 
 # --- ORCHESTRATION ---

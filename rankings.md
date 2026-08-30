@@ -31,17 +31,17 @@
 | 27 | **TalentsLab** | EMEA | 191.61 |
 | 28 | **OCX Division** | South America | 188.15 |
 | 29 | **Legacy Esports** | North America | 186.86 |
-| 30 | **BIG Challengers** | International | 177.50 |
-| 31 | **0 Ping Merchants** | South Asia | 173.21 |
-| 32 | **BIG** | EMEA | 169.11 |
-| 33 | **IGNUM** | East Asia | 162.16 |
-| 34 | **Amnesia Esports** | International | 161.04 |
-| 35 | **Momo** | North America | 157.86 |
-| 36 | **Frenzy Esports** | East Asia | 145.99 |
-| 37 | **Toxic Lotus** | China | 141.19 |
-| 38 | **David's Aura** | North America | 132.95 |
-| 39 | **TOC** | China | 125.96 |
-| 40 | **AXIS e-Sports** | East Asia | 116.51 |
+| 30 | **0 Ping Merchants** | South Asia | 173.21 |
+| 31 | **BIG** | EMEA | 169.11 |
+| 32 | **IGNUM** | East Asia | 162.16 |
+| 33 | **Amnesia Esports** | International | 161.04 |
+| 34 | **Momo** | North America | 157.86 |
+| 35 | **Frenzy Esports** | East Asia | 145.99 |
+| 36 | **Toxic Lotus** | China | 141.19 |
+| 37 | **David's Aura** | North America | 132.95 |
+| 38 | **TOC** | China | 125.96 |
+| 39 | **AXIS e-Sports** | East Asia | 116.51 |
+| 40 | **BIG Challengers** | International | 113.44 |
 | 41 | **Reverso Hive** | EMEA | 107.56 |
 | 42 | **The Lethal Force** | EMEA | 103.55 |
 | 43 | **Ace Xero** | China | 101.62 |
