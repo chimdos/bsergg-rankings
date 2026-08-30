@@ -27,21 +27,21 @@
 | 23 | **Acre Lovers** | South America | 228.08 |
 | 24 | **SKCalalas** | South America | 211.80 |
 | 25 | **Natus Vincere** | EMEA | 208.90 |
-| 26 | **CGN Esports** | International | 191.71 |
+| 26 | **CGN Esports** | EMEA | 191.71 |
 | 27 | **TalentsLab** | EMEA | 191.61 |
 | 28 | **OCX Division** | South America | 188.15 |
 | 29 | **Legacy Esports** | North America | 186.86 |
 | 30 | **0 Ping Merchants** | South Asia | 173.21 |
 | 31 | **BIG** | EMEA | 169.11 |
 | 32 | **IGNUM** | East Asia | 162.16 |
-| 33 | **Amnesia Esports** | International | 161.04 |
+| 33 | **Amnesia Esports** | North America | 161.04 |
 | 34 | **Momo** | North America | 157.86 |
 | 35 | **Frenzy Esports** | East Asia | 145.99 |
 | 36 | **Toxic Lotus** | China | 141.19 |
 | 37 | **David's Aura** | North America | 132.95 |
 | 38 | **TOC** | China | 125.96 |
 | 39 | **AXIS e-Sports** | East Asia | 116.51 |
-| 40 | **BIG Challengers** | International | 113.44 |
+| 40 | **BIG Challengers** | EMEA | 113.44 |
 | 41 | **Reverso Hive** | EMEA | 107.56 |
 | 42 | **The Lethal Force** | EMEA | 103.55 |
 | 43 | **Ace Xero** | China | 101.62 |
