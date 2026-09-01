@@ -1,4 +1,5 @@
 # Global BSERgg Rankings
+Last updated on: August 31st, 2026
 
 | POSITION | TEAM NAME | REGION | TOTAL POINTS |
 | :---: | :--- | :---: | :---: |
