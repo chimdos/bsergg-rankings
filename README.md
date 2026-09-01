@@ -25,6 +25,8 @@ A public Brawl Stars team ranking model designed to measure the current competit
 | 9 | Vatic Esports | North America | 437 |
 | 10 | LOUD | South America | 420 |
 
+_[See the full list here](rankings.md)_
+
 ---
 
 ## Table of Contents
