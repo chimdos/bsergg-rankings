@@ -11,6 +11,8 @@
 
 A public Brawl Stars team ranking model designed to measure the current competitive strength accurately.
 
+_This version is still in Alpha for accuracy validation in external environments. Help us by sending feedback on [Twitter](https://x.com/chimdosBS)._
+
 ### Current Top 10 – August 31st, 2026
 | P | TEAM | REGION | POINTS |
 | :---: | :--- | :---: | :---: |
