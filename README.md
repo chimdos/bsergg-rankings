@@ -23,7 +23,7 @@ _This version is still in Alpha for accuracy validation in external environments
 | 5 | Tribe Gaming | North America | 885 |
 | 6 | Team Elektros | North America | 713 |
 | 7 | Bounty Hunters | South America | 568 |
-| 8 | Reply Totem | EMEA | 444 |
+| 8 | Reply Totem | EMEA | 442 |
 | 9 | Vatic Esports | North America | 437 |
 | 10 | LOUD | South America | 420 |
 
