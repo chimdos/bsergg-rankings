@@ -1,0 +1,249 @@
+{
+    "event_id": "challengers_2026",
+    "name": "Challengers Finals 2026",
+    "date": "2026-09-06",
+    "region": "International",
+    "event_type": "challengers_2026",
+    "rosters": {
+        "Amnesia Esports": [
+            "tacos",
+            "vegeta",
+            "Chino"
+        ],
+        "OCX Division": [
+            "Pekka",
+            "Doritos",
+            "Derrp"
+        ],
+        "Daycare Zero": [
+            "Killer",
+            "Bradbari",
+            "Bryan (sub)"
+        ],
+        "BIG Challengers": [
+            "Arthur",
+            "Unlucky",
+            "Decaii"
+        ],
+        "SK Gaming": [
+            "OPE",
+            "Yoshi825",
+            "Yoko"
+        ],
+        "Skepsis Gaming Italy": [
+            "Biso",
+            "Lucas",
+            "Saint"
+        ],
+        "The Lethal Force": [
+            "Rup",
+            "Amos",
+            "Mine"
+        ],
+        "FUT Esports Academy": [
+            "Ferissa",
+            "DeMaster",
+            "ZeyroX"
+        ],
+        "Seventh Letter Gaming": [
+            "Ash King",
+            "Trashant",
+            "Raw"
+        ],
+        "Revenant XSpark": [
+            "Sergeant",
+            "Walkthrough",
+            "X9Jay"
+        ],
+        "REJECT": [
+            "Melty",
+            "Shu",
+            "Levi"
+        ],
+        "WWL Esports": [
+            "behappy",
+            "GonGon",
+            "Jake"
+        ]
+    },
+    "placements": {
+        "1": [
+            "FUT Esports Academy"
+        ],
+        "2": [
+            "SK Gaming"
+        ],
+        "3-4": [
+            "Skepsis Gaming Italy",
+            "Daycare Zero"
+        ],
+        "5-8": [
+            "Amnesia Esports",
+            "The Lethal Force",
+            "Revenant XSpark",
+            "OCX Division"
+        ],
+        "9-12": [
+            "BIG Challengers",
+            "WWL Esports",
+            "Seventh Letter Gaming",
+            "REJECT"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "BIG Challengers",
+            "team_b": "Amnesia Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG Challengers",
+            "team_b": "FUT Esports Academy",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Amnesia Esports",
+            "team_b": "FUT Esports Academy",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "BIG Challengers",
+            "team_b": "Amnesia Esports",
+            "score_a": 1,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "BIG Challengers",
+            "team_b": "FUT Esports Academy",
+            "score_a": 0,
+            "score_b": 2,
+            "format": "bo3"
+        },
+        {
+            "team_a": "Amnesia Esports",
+            "team_b": "FUT Esports Academy",
+            "score_a": 2,
+            "score_b": 0,
+            "format": "bo3"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "WWL Esports",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "Revenant XSpark",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "wwl esports",
+            "team_b": "Revenant XSpark",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The Lethal Force",
+            "team_b": "OCX DIVISION",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The Lethal Force",
+            "team_b": "Seventh Letter Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "OCX DIVISION",
+            "team_b": "Seventh Letter Gaming",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Skepsis Gaming Italy",
+            "team_b": "REJECT",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Skepsis Gaming Italy",
+            "team_b": "Daycare Zero",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "REJECT",
+            "team_b": "Daycare Zero",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Amnesia Esports",
+            "team_b": "SK Gaming",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "The Lethal Force",
+            "team_b": "Skepsis Gaming Italy",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Revenant XSpark",
+            "team_b": "FUT Esports Academy",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Daycare Zero",
+            "team_b": "OCX Division",
+            "score_a": 3,
+            "score_b": 2,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "Skepsis Gaming Italy",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports Academy",
+            "team_b": "Daycare Zero",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "SK Gaming",
+            "team_b": "FUT Esports Academy",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        }
+    ]
+}
