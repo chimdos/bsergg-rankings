@@ -62,17 +62,17 @@ Setting up the project requires a few steps to prepare your local environment.
     cd bsergg-rankings
     ```
 
-2. Set up a virtual environment:
+2. Install dependencies:
+
+    ```bash
+    winget install Python.Python.3.11
+    ```
+
+3. Set up a virtual environment:
 
     ```bash
     python -m venv .venv
     source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
-    ```
-
-3. Install dependencies:
-
-    ```bash
-    winget install Python.Python.3.11
     ```
 
 ### Usage Examples
