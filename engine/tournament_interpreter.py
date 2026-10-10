@@ -41,14 +41,14 @@ REGIONAL_FORCE_MULTIPLIERS: Dict[str, float] = {
 }
 
 EVENT_TIERS = {
-    "brawl_cup_2026": {"half_life": 60, "base_points": {"1": 800, "2": 550, "3-4": 400, "5-8": 250, "9-12": 120, "13-16": 60}},
-    "world_finals_2026": {"half_life": 100, "base_points": {"1": 1000, "2": 700, "3-4": 500, "5-8": 300, "9-12": 150}},
-    "lcq_2026": {"half_life": 60, "base_points": {"1": 400, "2": 300, "3-4": 200, "5-8": 100}},
-    "monthly_finals": {"half_life": 60, "base_points": {"1": 150, "2": 110, "3-4": 80, "5-8": 55}},
-    "monthly_qualifier": {"half_life": 60, "base_points": {"1-4": 45, "5-8": 30, "9-12": 20, "13-16": 15, "17-24": 8, "25-32": 3}},
-    "sesa_2026_rtbc": {"half_life": 60, "base_points": {"1": 300, "2": 220, "3": 160, "4": 120, "5-6": 75}},
-    "southamericawest_2026_rtbc": {"half_life": 60, "base_points": {"1": 450, "2": 330, "3": 240, "4": 180, "5-8": 100, "9-12": 50}},
-    "complementary": {"half_life": 60, "base_points": {"1": 90, "2": 65, "3-4": 45, "3": 45, "4": 30, "5-6": 20, "5-8": 20, "7-8": 10, "9-12": 10, "13-16": 5}}
+    "brawl_cup_2026": {"half_life": 30, "base_points": {"1": 800, "2": 550, "3-4": 400, "5-8": 250, "9-12": 120, "13-16": 60}},
+    "world_finals_2026": {"half_life": 50, "base_points": {"1": 1000, "2": 700, "3-4": 500, "5-8": 300, "9-12": 150}},
+    "lcq_2026": {"half_life": 30, "base_points": {"1": 400, "2": 300, "3-4": 200, "5-8": 100}},
+    "monthly_finals": {"half_life": 30, "base_points": {"1": 150, "2": 110, "3-4": 80, "5-8": 55}},
+    "monthly_qualifier": {"half_life": 20, "base_points": {"1-4": 45, "5-8": 30, "9-12": 20, "13-16": 15, "17-24": 8, "25-32": 3}},
+    "sesa_2026_rtbc": {"half_life": 20, "base_points": {"1": 300, "2": 220, "3": 160, "4": 120, "5-6": 75}},
+    "southamericawest_2026_rtbc": {"half_life": 20, "base_points": {"1": 450, "2": 330, "3": 240, "4": 180, "5-8": 100, "9-12": 50}},
+    "complementary": {"half_life": 20, "base_points": {"1": 90, "2": 65, "3-4": 45, "3": 45, "4": 30, "5-6": 20, "5-8": 20, "7-8": 10, "9-12": 10, "13-16": 5}}
 }
 
 YIELD_MATRIX: Dict[str, Dict[Tuple[int, int], float]] = {
