@@ -3,6 +3,95 @@ Last updated on: October 9th, 2026
 
 | POSITION | TEAM NAME | REGION | TOTAL POINTS |
 | :---: | :--- | :---: | :---: |
+| 1 | **Natus Vincere** | EMEA | 2417.09 |
+| 2 | **FUT Esports** | EMEA | 2023.82 |
+| 3 | **Team Elektros** | North America | 1458.84 |
+| 4 | **HMBLE** | EMEA | 1382.33 |
+| 5 | **ZETA DIVISION** | East Asia | 871.59 |
+| 6 | **Reply Totem** | EMEA | 732.51 |
+| 7 | **Team Heretics** | EMEA | 432.29 |
+| 8 | **Tribe Gaming** | North America | 398.62 |
+| 9 | **Crazy Raccoon** | East Asia | 380.13 |
+| 10 | **Bounty Hunters** | South America | 279.97 |
+| 11 | **NOVO Esports** | EMEA | 276.57 |
+| 12 | **LOUD** | South America | 195.10 |
+| 13 | **RED Canids** | South America | 176.44 |
+| 14 | **Vatic Esports** | North America | 170.95 |
+| 15 | **KDS Esports** | North America | 169.12 |
+| 16 | **SKCalalas EA** | East Asia | 137.20 |
+| 17 | **Revenant XSpark** | Southeast Asia | 118.34 |
+| 18 | **F/A Homeless** | North America | 112.49 |
+| 19 | **Rival Esports** | East Asia | 112.04 |
+| 20 | **FENNEL** | East Asia | 110.82 |
+| 21 | **FUT Esports Academy** | EMEA | 105.76 |
+| 22 | **REJECT** | East Asia | 101.62 |
+| 23 | **Olimpo Squad** | South America | 94.91 |
+| 24 | **Acre Lovers** | South America | 85.43 |
+| 25 | **SKCalalas** | South America | 79.33 |
+| 26 | **CGN Esports** | International | 71.81 |
+| 27 | **TalentsLab** | EMEA | 71.77 |
+| 28 | **OCX Division** | South America | 70.48 |
+| 29 | **Legacy Esports** | North America | 69.99 |
+| 30 | **0 Ping Merchants** | South Asia | 64.88 |
+| 31 | **BIG** | EMEA | 63.34 |
+| 32 | **IGNUM** | East Asia | 60.74 |
+| 33 | **Amnesia Esports** | International | 60.32 |
+| 34 | **Momo** | North America | 59.13 |
+| 35 | **Frenzy Esports** | East Asia | 54.68 |
+| 36 | **Toxic Lotus** | China | 52.89 |
+| 37 | **TOC** | China | 51.04 |
+| 38 | **David's Aura** | North America | 49.80 |
+| 39 | **AXIS e-Sports** | East Asia | 43.64 |
+| 40 | **BIG Challengers** | International | 42.49 |
+| 41 | **Reverso Hive** | EMEA | 40.29 |
+| 42 | **Ace Xero** | China | 39.99 |
+| 43 | **The Lethal Force** | EMEA | 38.79 |
+| 44 | **SK Gaming** | EMEA | 36.35 |
+| 45 | **INSOMNIA** | East Asia | 35.31 |
+| 46 | **Utopia** | North America | 33.00 |
+| 47 | **QuieroQueQue** | South America | 30.87 |
+| 48 | **T5S** | East Asia | 29.67 |
+| 49 | **Ninguém Segura** | South America | 29.03 |
+| 50 | **Six Seven** | South America | 28.40 |
+| 51 | **Faze Zero** | East Asia | 25.04 |
+| 52 | **Kozaki** | EMEA | 23.97 |
+| 53 | **F/A Zero Mercy** | East Asia | 23.31 |
+| 54 | **Nova Esports** | North America | 23.18 |
+| 55 | **Kebap** | EMEA | 20.44 |
+| 56 | **Bixou** | South America | 18.64 |
+| 57 | **Fenris Gaming** | EMEA | 15.81 |
+| 58 | **Skepsis Gaming Italy** | Italy | 15.67 |
+| 59 | **Your Best Nightmare** | East Asia | 14.63 |
+| 60 | **Nameless** | North America | 14.62 |
+| 61 | **TIG Revival** | China | 12.61 |
+| 62 | **Dark Spirit** | China | 11.95 |
+| 63 | **Daycare Zero** | South America West | 11.62 |
+| 64 | **MX Team** | North America | 11.54 |
+| 65 | **WWL Esports** | East Asia | 11.36 |
+| 66 | **White rice** | East Asia | 11.01 |
+| 67 | **Monterrey F/A** | North America | 10.89 |
+| 68 | **Togrubi** | EMEA | 10.81 |
+| 69 | **Last Hope Fire** | China | 8.84 |
+| 70 | **IrisOut** | China | 8.64 |
+| 71 | **Cabine Da Orelha** | South America | 7.79 |
+| 72 | **Roadside** | East Asia | 6.72 |
+| 73 | **モーティス絶対使わないです** | East Asia | 6.39 |
+| 74 | **Lime** | North America | 6.07 |
+| 75 | **Legacy Academy** | North America | 5.91 |
+| 76 | **SMDY** | China | 5.59 |
+| 77 | **Be Humble** | East Asia | 5.32 |
+| 78 | **tacos and rice** | North America | 4.84 |
+| 79 | **Not Easy** | East Asia | 2.80 |
+| 80 | **DeSienzá** | EMEA | 2.75 |
+| 81 | **モングラール建築** | East Asia | 2.53 |
+| 82 | **Bloste** | EMEA | 1.88 |
+| 83 | **タバスコ愛好家** | East Asia | 1.84 |
+| 84 | **Team Falcons** | East Asia | 1.78 |
+| 85 | **Fenris Academy** | EMEA | 1.69 |
+| 86 | **Dropeados 2026** | South America | 1.57 |
+| 87 | **Slice Esports** | EMEA | 0.32 |
+| 88 | **Skibidi Sigmas** | South America | 0.14 |
+| 89 | **Goats** | South America | 0.11 |
 | 1 | **FUT Esports** | EMEA | 619.81 |
 | 2 | **HMBLE** | EMEA | 445.65 |
 | 3 | **ZETA DIVISION** | East Asia | 443.07 |

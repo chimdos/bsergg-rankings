@@ -1,0 +1,269 @@
+{
+    "event_id": "worldfinals_2026",
+    "name": "World Finals 2026",
+    "date": "2026-11-22",
+    "region": "International",
+    "event_type": "world_finals_2026",
+    "rosters": {
+        "Team Elektros": [
+            "snoiy",
+            "Doin",
+            "Memen"
+        ],
+        "Tribe Gaming": [
+            "RBM",
+            "Lxffy",
+            "Diegogamer"
+        ],
+        "Bounty Hunters": [
+            "Wesley",
+            "Prozy",
+            "Portox"
+        ],
+        "RED Canids": [
+            "Mohtep",
+            "Jubileu",
+            "CaueBR"
+        ],
+        "Crazy Raccoon": [
+            "Milkreo",
+            "Moya",
+            "Tensai"
+        ],
+        "ZETA DIVISION": [
+            "Batman",
+            "Sitetampo",
+            "Sizuku"
+        ],
+        "FUT Esports": [
+            "Angelboy",
+            "Nob?",
+            "Guesti"
+        ],
+        "HMBLE": [
+            "BosS",
+            "Lukii",
+            "Symantec"
+        ],
+        "Reply Totem": [
+            "Joker",
+            "Maru",
+            "Maury"
+        ],
+        "NOVO Esports": [
+            "Jus",
+            "Filippo",
+            "MeOw"
+        ],
+        "Natus Vincere": [
+            "Enraged",
+            "GeRo",
+            "Nowy297"
+        ],
+        "Team Heretics": [
+            "iKaoss",
+            "Marco",
+            "Subeme"
+        ]
+    },
+    "placements": {
+        "1": [
+            "Natus Vincere"
+        ],
+        "2": [
+            "FUT Esports"
+        ],
+        "3": [
+            "Team Elektros"
+        ],
+        "4": [
+            "ZETA DIVISION"
+        ],
+        "5-6": [
+            "Reply Totem",
+            "HMBLE"
+        ],
+        "7-8": [
+            "Bounty Hunters",
+            "Tribe Gaming"
+        ],
+        "9-10": [
+            "NOVO Esports",
+            "Team Heretics"
+        ],
+        "11-12": [
+            "RED Canids",
+            "Crazy Raccoon"
+        ]
+    },
+    "matches": [
+        {
+            "team_a": "Team Heretics",
+            "team_b": "HMBLE",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "RED Canids",
+            "team_b": "Reply Totem",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Heretics",
+            "team_b": "RED Canids",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "Reply Totem",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "Team Heretics",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "Natus Vincere",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Team Elektros",
+            "team_b": "NOVO Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Crazy Raccoon",
+            "team_b": "NOVO Esports",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "Team Elektros",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "NOVO Esports",
+            "score_a": 3,
+            "score_b": 0,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Natus Vincere",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Bounty Hunters",
+            "team_b": "HMBLE",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "Reply Totem",
+            "score_a": 2,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Tribe Gaming",
+            "team_b": "Team Elektros",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "HMBLE",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "Team Elektros",
+            "score_a": 1,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "Team Elektros",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Bounty Hunters",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "Tribe Gaming",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Reply Totem",
+            "team_b": "FUT Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "HMBLE",
+            "team_b": "ZETA DIVISION",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "ZETA DIVISION",
+            "team_b": "FUT Esports",
+            "score_a": 0,
+            "score_b": 3,
+            "format": "bo5"
+        },
+        {
+            "team_a": "FUT Esports",
+            "team_b": "Team Elektros",
+            "score_a": 3,
+            "score_b": 1,
+            "format": "bo5"
+        },
+        {
+            "team_a": "Natus Vincere",
+            "team_b": "FUT Esports",
+            "score_a": 4,
+            "score_b": 3,
+            "format": "bo7"
+        }
+    ]
+}
