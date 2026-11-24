@@ -285,7 +285,7 @@ if __name__ == "__main__":
     DATA_DIRECTORY = "./tournaments"
     CURRENT_TEAMS_FILE = "./tournaments/current_teams.json"
     OUTPUT_FILE = "rankings.md"
-    EVALUATION_DATE = datetime(2026, 5, 14)
+    EVALUATION_DATE = datetime(2026, 11, 23)
 
     repository = JsonRepository()
     tournaments_data = repository.load_all_tournaments(DATA_DIRECTORY)

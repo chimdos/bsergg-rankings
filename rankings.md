@@ -22,7 +22,7 @@
 | 18 | **FENNEL** | East Asia | 22.27 |
 | 19 | **F/A Homeless** | North America | 22.15 |
 | 20 | **SK Gaming** | EMEA | 21.46 |
-| 21 | **Revenant XSpark** | Southeast Asia | 19.59 |
+| 21 | **Revenant XSpark** | Southeast Asia | 19.92 |
 | 22 | **Rival Esports** | East Asia | 19.43 |
 | 23 | **TalentsLab** | EMEA | 18.96 |
 | 24 | **REJECT** | East Asia | 18.74 |
@@ -37,7 +37,7 @@
 | 33 | **IGNUM** | East Asia | 11.66 |
 | 34 | **Momo** | North America | 11.62 |
 | 35 | **OCX Division** | South America | 10.44 |
-| 36 | **Seventh Letter Gaming** | International | 9.90 |
+| 36 | **Seventh Letter Gaming** | International | 9.95 |
 | 37 | **Reverso Hive** | EMEA | 9.67 |
 | 38 | **Amnesia Esports** | International | 8.98 |
 | 39 | **David's Aura** | North America | 8.98 |
