@@ -47,7 +47,7 @@ EVENT_TIERS = {
     "challengers_2026": {"half_life": 30, "base_points": {"1": 60, "2": 39, "3": 26, "4": 18, "5-6": 13, "7-8": 6}},
     "monthly_finals": {"half_life": 30, "base_points": {"1": 150, "2": 110, "3-4": 80, "5-8": 55}},
     "monthly_qualifier": {"half_life": 30, "base_points": {"1-4": 45, "5-8": 30, "9-12": 20, "13-16": 15, "17-24": 8, "25-32": 3}},
-    "sesa_2026_rtbc": {"half_life": 30, "base_points": {"1": 300, "2": 220, "3": 160, "4": 120, "5-6": 75}},
+    "sesa_2026_rtbc": {"half_life": 30, "base_points": {"1": 450, "2": 330, "3": 240, "4": 180, "5-6": 113}},
     "southamericawest_2026_rtbc": {"half_life": 30, "base_points": {"1": 450, "2": 330, "3": 240, "4": 180, "5-8": 100, "9-12": 50}},
     "complementary": {"half_life": 30, "base_points": {"1": 90, "2": 65, "3-4": 45, "3": 45, "4": 30, "5-6": 20, "5-8": 20, "7-8": 10, "9-12": 10, "13-16": 5}}
 }
@@ -285,7 +285,7 @@ if __name__ == "__main__":
     DATA_DIRECTORY = "./tournaments"
     CURRENT_TEAMS_FILE = "./tournaments/current_teams.json"
     OUTPUT_FILE = "rankings.md"
-    EVALUATION_DATE = datetime(2026, 11, 23)
+    EVALUATION_DATE = datetime(2026, 5, 14)
 
     repository = JsonRepository()
     tournaments_data = repository.load_all_tournaments(DATA_DIRECTORY)
